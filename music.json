@@ -35,16 +35,7 @@
 			"changeable": 0,
 			"jar": "./0229.jar"
 		},
-		{
-			"key":"MV_vod",
-			"name":"电视┃MTV",
-			"type":1,
-			"api": "https://mv.wogg.link/mv/vod",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"jar": "./pg.jar"
-		},
+		
 		{
 			"key": "酷狗",
 			"name": "酷狗┃音乐",
