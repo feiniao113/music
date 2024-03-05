@@ -54,7 +54,14 @@
 			"changeable": 0,
 			"jar": "./pg.jar"
 		},
-		{"key":"drpy_直转点","name":"音乐┃合集","type":3,"api":"./lib/apiv255直播转点播.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/直播仓.js","jar": "./pg.jar"},
+		{
+			"key": "直播转点播",
+			"name": "音乐┃合集",
+			"type": 3,
+			"searchable": 0,
+			"api": "./lib/live2vod.js",
+			"ext": "./lib/yimolan.json"
+		},
 		{
 			"key": "bili",
 			"name": "哔哔┃合集",
