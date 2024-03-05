@@ -60,7 +60,8 @@
 			"type": 3,
 			"searchable": 0,
 			"api": "./lib/live2vod.js",
-			"ext": "./lib/yimolan.json"
+			"ext": "./lib/yimolan.json",
+			"jar": "./pg.jar"
 		},
 		{
 			"key": "bili",
