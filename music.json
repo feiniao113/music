@@ -42,23 +42,26 @@
 			"api": "https://mv.wogg.link/mv/vod",
 			"searchable": 1,
 			"quickSearch": 0,
-			"changeable": 0
+			"changeable": 0,
+			"jar":"./pg.jar",
 		},
 		{
 			"key": "酷狗",
-			"name": "酷狗",
+			"name": "酷狗┃音乐",
 			"type": 3,
 			"api": "csp_Kugou",
 			"searchable": 1,
-			"changeable": 0
+			"changeable": 0,
+			"jar":"./pg.jar",
 		},
 		{
 			"key": "Iktv",
-			"name": "KTV",
+			"name": "KTV┃音乐",
 			"type": 3,
 			"api": "csp_Iktv",
 			"searchable": 1,
-			"changeable": 0
+			"changeable": 0,
+			"jar":"./pg.jar",
 		},
 		{
 			"key": "bili",
