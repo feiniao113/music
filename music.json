@@ -43,7 +43,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0,
-			"jar":"./pg.jar",
+			"jar":"./pg.jar"
 		},
 		{
 			"key": "酷狗",
@@ -52,7 +52,7 @@
 			"api": "csp_Kugou",
 			"searchable": 1,
 			"changeable": 0,
-			"jar":"./pg.jar",
+			"jar":"./pg.jar"
 		},
 		{
 			"key": "Iktv",
@@ -61,7 +61,7 @@
 			"api": "csp_Iktv",
 			"searchable": 1,
 			"changeable": 0,
-			"jar":"./pg.jar",
+			"jar":"./pg.jar"
 		},
 		{
 			"key": "bili",
