@@ -1,6 +1,7 @@
 {
 	"spider": "./okpng.txt",
 	"wallpaper": "",
+"warningText": "免费线路，请勿购买",
 	"sites": [
 		{
 			"key": "biliych",
