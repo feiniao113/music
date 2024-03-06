@@ -54,15 +54,8 @@
 			"changeable": 0,
 			"jar": "./pg.jar"
 		},
-{"key":"直播转点播1","name":"音乐┃现场","type": 3,"api":"./lib/apiv135直播转点播.js","ext":"./lib/直播.txt"},
-		{
-			"key": "直播转点播",
-			"name": "音乐┃合集",
-			"type": 3,
-			"searchable": 0,
-			"api": "./lib/live2vod.js",
-			"ext": "./lib/yimolan.json"
-		},
+{"key":"直播转点播1","name":"音乐┃现场","type": 3,"api":"./lib/apiv135直播转点播.js","ext":"./lib/直播.txt","jar": "./fm.jar"},
+		
 		{
 			"key": "bili",
 			"name": "哔哔┃合集",
