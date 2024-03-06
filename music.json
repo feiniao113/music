@@ -56,7 +56,7 @@
 			"jar": "./pg.jar"
 		},
 {"key":"直播转点播1","name":"音乐┃现场","type": 3,"api":"./lib/apiv135直播转点播.js","ext":"./lib/直播.txt","jar": "./fm.jar"},
-		
+		    {"key": "meowtv_jdsp","name": "聚短┃视频","type": 3,"api": "MJS_jdsp"       ,"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "./lib/聚短视频.js","api": "./lib/apiv169drpy2.min.js"},
 		{
 			"key": "bili",
 			"name": "哔哔┃合集",
