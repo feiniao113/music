@@ -62,7 +62,7 @@
 			"type": 3,
 			"api": "csp_Hmys",
 			"playerType": 1,
-			"ext": "https://m.jmzp.net.cn$$$null$$$1"
+			"ext": "https://m.jmzp.net.cn$$$null$$$1","jar": "./pg.jar"
 		},
 		{
 			"key": "bili",
