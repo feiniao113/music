@@ -1,5 +1,5 @@
 [
-{"name":"音乐现场","url":"https://github.com/feiniao113/music/blob/main/music.txt&&&https://raw.githubusercontent.com/feiniao113/background/main/cat.jpg"},
+{"name":"音乐现场","url":"https://raw.githubusercontent.com/feiniao113/music/main/music.txt&&&https://raw.githubusercontent.com/feiniao113/background/main/cat.jpg"},
 {"name":"南风直播","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt&&&https://api.likepoems.com/img/mc"},
 {"name":"多多直播","url":"https://bitbucket.org/xduo/duoapi/raw/master/v.txt&&&https://api.likepoems.com/img/mc"},
 {"name":"唐三直播","url":"http://home.jundie.top:81/Cat/tv/live.txt&&&https://api.likepoems.com/img/mc"}
