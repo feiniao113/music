@@ -54,7 +54,7 @@
 			"changeable": 0,
 			"jar": "./pg.jar"
 		},
-{"key":"直播转点播1","name":"音乐┃MV","type": 3,"api":"./lib/apiv135直播转点播.js","ext":"./lib/直播.txt"},
+{"key":"直播转点播1","name":"音乐┃现场","type": 3,"api":"./lib/apiv135直播转点播.js","ext":"./lib/直播.txt"},
 		{
 			"key": "直播转点播",
 			"name": "音乐┃合集",
