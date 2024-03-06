@@ -127,6 +127,7 @@
             "changeable": 1,
             "timeout": 10
         },
+{"key": "yqkan_open","name": "影视|一起看","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "./fm.jar"},
 
 {"key": "软件","name": " 软件┃教程","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "./lib/软件教程.json","jar": "./fm.jar"},
 		{
