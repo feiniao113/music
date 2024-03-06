@@ -62,7 +62,7 @@
 			"type": 3,
 			"api": "csp_Hmys",
 			"playerType": 1,
-			"ext": "https://m.jmzp.net.cn$$$null$$$1","jar": "./pg.jar"
+			"ext": "https://m.jmzp.net.cn$$$null$$$1","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/huu3323/pg/main/pg.jar"
 		},
 		{
 			"key": "bili",
