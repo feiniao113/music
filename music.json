@@ -62,7 +62,7 @@
 {"key": "舞蹈","name": "哔哩┃舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./lib/哔哩舞蹈.json","jar": "./fm.jar"},
 {"key": "南瓜","name": "南瓜┃App","type": 3,"api": "csp_NanGua","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./fm.jar"},
 
-{"key": "索尼采集","name": "索尼┃影视","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["科幻片","动作片","恐怖片","纪录片","爱情片","战争片","剧情片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},"jar": "./fm.jar",},
+{"key": "索尼采集","name": "索尼┃影视","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["科幻片","动作片","恐怖片","纪录片","爱情片","战争片","剧情片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},"jar": "./fm.jar"},
 		{
 			"key": "bili",
 			"name": "哔哔┃合集",
