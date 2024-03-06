@@ -56,6 +56,17 @@
 			"jar": "./pg.jar"
 		},
 {"key":"直播转点播1","name":"音乐┃现场","type": 3,"api":"./lib/apiv135直播转点播.js","ext":"./lib/直播.txt","jar": "./fm.jar"},
+{
+            "key": "聚短视频js",
+            "name": "聚短┃视频",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/duanshipin.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "timeout": 10
+        },
 		    {"key": "小姐姐","name": "哔哩┃姐姐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./lib/哔哩xjj.json","jar": "./fm.jar"},
 {"key": "歌舞","name": "印度┃歌舞","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./lib/印度歌舞.json","jar": "./fm.jar"},
 {"key": "车模","name": "哔哩┃车模","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./lib/哔哩车模.json","jar": "./fm.jar"},
