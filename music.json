@@ -243,7 +243,7 @@
 		},
 		{
 			"key": "yqkan_open",
-			"name": "影视┃一起看",
+			"name": "影视┃一起",
 			"type": 3,
 			"api": "csp_YQKan",
 			"searchable": 1,
