@@ -177,16 +177,7 @@
 			],
 			"jar": "./fm.jar"
 		},
-		{
-			"key": "星星",
-			"name": "星星 | 海外",
-			"type": 3,
-			"api": "csp_Star",
-			"searchable": 1,
-			"changeable": 0,
-			"ext": "",
-			"jar": "./pg.jar"
-		},
+		
 		{
 			"key": "泥巴",
 			"name": "泥巴 | 海外",
@@ -243,7 +234,7 @@
 		},
 		{
 			"key": "星星",
-			"name": "星星┃直连",
+			"name": "星星┃海外",
 			"type": 3,
 			"api": "csp_Star",
 			"searchable": 1,
