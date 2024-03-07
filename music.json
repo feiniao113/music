@@ -56,8 +56,6 @@
 			"jar": "./pg.jar"
 		},
 {"key":"直播转点播1","name":"音乐┃现场","type": 3,"api":"./lib/apiv135直播转点播.js","ext":"./lib/直播.txt","jar": "./fm.jar"},
-{"key":"drpy_js_A8音乐","name":"A8 | 音乐","type":3,"api":"./lib/apiv19drpy2.min.js","ext":"./lib/A8音乐.js","jar": "./custom_spider.jar"},
-{"key":"drpy_js_酷奇MV","name":"酷奇 | MV","type":3,"api":"./lib/apiv19drpy2.min.js","ext":"./lib/酷奇MV.js","jar": "./custom_spider.jar"},
 {
             "key": "聚短视频js",
             "name": "聚短┃视频",
@@ -130,7 +128,7 @@
             "timeout": 10
         },
 {"key": "yqkan_open","name": "影视┃一起看","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "./fm.jar"},
-{"key":"drpy_js_相声随身听","name":"相声 | 随身听","type":3,"api":"./lib/apiv19drpy2.min.js","ext":"./lib/相声随身听.js","playerType":"2","jar": "./custom_spider.jar"},
+
 
 {"key": "软件","name": " 软件┃教程","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "./lib/软件教程.json","jar": "./fm.jar"},
 		{
