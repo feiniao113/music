@@ -56,6 +56,8 @@
 			"jar": "./pg.jar"
 		},
 {"key":"直播转点播1","name":"音乐┃现场","type": 3,"api":"./lib/apiv135直播转点播.js","ext":"./lib/直播.txt","jar": "./fm.jar"},
+{"key":"drpy_js_A8音乐","name":"A8 | 音乐","type":3,"api":"./lib/apiv19drpy2.min.js","ext":"./lib/A8音乐.js"},
+{"key":"drpy_js_酷奇MV","name":"酷奇 | MV","type":3,"api":"./lib/apiv19drpy2.min.js","ext":"./lib/酷奇MV.js"},
 {
             "key": "聚短视频js",
             "name": "聚短┃视频",
