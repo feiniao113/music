@@ -148,6 +148,19 @@
 			"ext": "http://op.ysdqjs.cn$$$null$$$1",
 			"jar": "./pg.jar"
 		},
+{
+            "key": "爱看Bot弹幕版",
+            "name": "爱看┃弹幕",
+            "type": 3,
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 10
+        },
 		{
 			"key": "索尼采集",
 			"name": "索尼┃影视",
