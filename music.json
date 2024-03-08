@@ -294,6 +294,20 @@
 			"filterable": 0,
 			"jar": "./fm.jar"
 		},
+		 {
+      "key": "看球",
+      "name": "看球┃在线",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 10
+    },
+		
+    },
 		{
 			"key": "软件",
 			"name": " 软件┃教程",
