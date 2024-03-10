@@ -149,19 +149,6 @@
 			"jar": "./pg.jar"
 		},
 		{
-			"key": "爱看Bot弹幕版",
-			"name": "爱看┃弹幕",
-			"type": 3,
-			"api": "csp_Ikanbot",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"danmu": true
-			},
-			"timeout": 10
-		},
-		{
 			"key": "大师兄js",
 			"name": "师兄┃在线",
 			"type": 3,
