@@ -126,7 +126,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-			 "jar": "./fm.txt"
+			 "jar": "./fan.txt"
     },
 		 {
       "key": "厂长",
@@ -139,7 +139,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.czzy77.com/",
-	 "jar": "./fm.txt"		 
+	 "jar": "./fan.txt"		 
     },
 		 {
       "key": "白嫖",
@@ -150,7 +150,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-	 "jar": "./fm.txt"		
+	 "jar": "./fan.txt"		
     },
 		{
 			"key": "南瓜",
