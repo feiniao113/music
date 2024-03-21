@@ -134,7 +134,8 @@
                 "搜索url":"/search?os=pc&k={wd}",
                 "分类url":"https://www.keke13.com:51111/show/{cateId}--{class}--{year}--{catePg}.html;;a",
                 "分类":"电影$1#电视剧$2#综艺$4#动漫$3#短剧$6"  
-            }
+            },
+			 "jar": "./fan.txt"
         },
 
 		 {
