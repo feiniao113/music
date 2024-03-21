@@ -3,6 +3,17 @@
 	"wallpaper": "",
 	"warningText": "免费线路，请勿购买",
 	"sites": [
+		  {
+            "key": "lf_js_search",
+            "name": "影视 | 搜索",
+            "type": 3,
+            "searchable": 0,
+            "changeable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "api": "./lf_search3_min.js"
+        },
+
 		{
 			"key": "biliych",
 			"name": "哔哔┃歌曲",
