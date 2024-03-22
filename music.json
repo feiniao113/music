@@ -14,24 +14,7 @@
             "api": "./lf_search3_min.js"
         },
 
-		{
-			"key": "biliych",
-			"name": "哔哔┃歌曲",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 1.433
-			},
-			"ext": {
-				"cookie": "file://TV/bili_cookie.txt",
-				"json": "https://jihulab.com/okcaptain/kko/-/raw/main/biliych.json"
-			},
-			"timeout": 20
-		},
+	{	"key": "演唱会自定义","name": "流行┃音乐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./lib/哔哩演唱会.json"},
 		
 		{
 			"key": "Yinyuetai",
