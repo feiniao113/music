@@ -481,24 +481,6 @@
 			"filterable": 1,
 			"ext": "./lib/软件教程.json",
 			"jar": "./fm.jar"
-		},
-		{
-			"key": "bili",
-			"name": "哔哔┃合集",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 1.433
-			},
-			"ext": {
-				"cookie": "file://TV/bili_cookie.txt",
-				"json": "https://jihulab.com/okcaptain/kko/-/raw/main/bili.json"
-			},
-			"timeout": 20
 		}
 	],
 	"parses": [
