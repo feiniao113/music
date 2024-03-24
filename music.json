@@ -190,6 +190,16 @@
       "changeable": 0,
 	 "jar": "./fan.txt"	
     },
+{
+      "key": "苹果",
+      "name": "苹果┃复活",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+	 "jar": "./fan.txt"	
+    },
 		{
       "key": "saohuo",
       "name": "骚火┃影视",
