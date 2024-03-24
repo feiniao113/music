@@ -198,7 +198,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./lib/txqq.js"
+			"ext": "./lib/txqq.js",
+			"jar": "./fm.jar"
 		},
 		{
 			"key": "drpy_爱奇艺",
@@ -208,7 +209,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./lib/iqy.js"
+			"ext": "./lib/iqy.js",
+			"jar": "./fm.jar"
 		},
 		{
 			"key": "drpy_优酷",
@@ -218,7 +220,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./lib/youku.js"
+			"ext": "./lib/youku.js",
+			"jar": "./fm.jar"
 		},
 		{
 			"key": "drpy_芒果",
@@ -228,7 +231,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./lib/mangguo.js"
+			"ext": "./lib/mangguo.js",
+			"jar": "./fm.jar"
 		},
 		{
 			"key": "drpy_搜狗",
@@ -238,7 +242,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./lib/sougou.js"
+			"ext": "./lib/sougou.js",
+			"jar": "./fm.jar"
 		},
 
 
