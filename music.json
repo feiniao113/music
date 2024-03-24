@@ -200,7 +200,7 @@
       "type": 3,
       "playerType": "1",
       "api": "csp_Freeok",
-	 "jar": "./panda.jar"	
+			"jar": "./Panda.jar"
     },
 {
       "key": "csp_Bttoo",
