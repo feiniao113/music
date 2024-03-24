@@ -190,6 +190,18 @@
       "changeable": 0,
 	 "jar": "./fan.txt"	
     },
+
+
+
+
+{
+      "key": "csp_Freeok",
+      "name": "️️FreeOK┃影视",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_Freeok",
+	 "jar": "./fan.txt"	
+    },
 {
       "key": "csp_Bttoo",
       "name": "比特┃秒播",
