@@ -214,26 +214,7 @@
       }
     },
 		
-    {
-      "key": "双黄",
-      "name": "蛋蛋┃影视",
-      "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_XBPQ",
-      "ext": {
-        "嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
-        "请求头": "手机#Referer$https://www.dandanju.cc/",
-        "分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html",
-        "分类": "电影$1#剧集$2#动漫$4#综艺$4",
-        "数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li",
-        "搜索模式": "1",
-        "搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html",
-        "搜索数组": "<li class=\"active clearfix&&</li"
-      }
-    },
-   
-   
-   
+    
 		{
             "key": "csp_XBPQ",
             "name": "花开┃可可",
@@ -279,17 +260,7 @@
       "ext": "https://www.czzy77.com/",
 	 "jar": "./fan.txt"		 
     },
-		 {
-      "key": "白嫖",
-      "name": "白飘┃无广",
-      "type": 3,
-      "api": "csp_BaiPiao",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-	 "jar": "./fan.txt"		
-    },
+		 
 		{ "key": "csp_桵空影院","name": "桵空┃影院","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.maigo.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/","分类": "电影$84#综艺$91#大陆剧$81#港台剧$82#海外剧$83#纪录片$88#动漫$1#日剧$32#日漫$46#国漫$47#美漫$85"},
 			 "jar": "./xyqxbpq.jar"},
 
