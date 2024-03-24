@@ -199,7 +199,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./lib/txqq.js",
-			"jar": "./fm.jar"
+			"jar": "./fty.jar"
 		},
 		{
 			"key": "drpy_爱奇艺",
@@ -210,7 +210,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./lib/iqy.js",
-			"jar": "./fm.jar"
+			"jar": "./fty.jar"
 		},
 		{
 			"key": "drpy_优酷",
@@ -221,7 +221,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./lib/youku.js",
-			"jar": "./fm.jar"
+			"jar": "./fty.jar"
 		},
 		{
 			"key": "drpy_芒果",
@@ -232,7 +232,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./lib/mangguo.js",
-			"jar": "./fm.jar"
+			"jar": "./fty.jar"
 		},
 		{
 			"key": "drpy_搜狗",
@@ -243,7 +243,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./lib/sougou.js",
-			"jar": "./fm.jar"
+			"jar": "./fty.jar"
 		},
 
 
