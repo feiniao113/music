@@ -192,8 +192,6 @@
     },
 
 
-{"key":"csp_SP360","name":""️️360┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/360影视.json",
-			"jar": "./fm.jar"},
 
 {
       "key": "csp_Freeok",
