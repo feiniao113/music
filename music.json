@@ -377,40 +377,7 @@
 			"ext": "https://d.kstore.space/download/6741/lib/nmys.json",
 			"jar": "https://d.kstore.space/download/6741/fan.jar"
 		},
-		{
-			"key": "baipiaoys",
-			"name": "白嫖┃影视",
-			"type": 3,
-			"changeable": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"api": "csp_XBPQ",
-			"ext": "https://d.kstore.space/download/6741/lib/xbpq_白嫖影视.json",
-			"jar": "https://d.kstore.space/download/6741/xbpq.jar"
-		},
-		{
-			"key": "YZ",
-			"name": "宇宙┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "https://d.kstore.space/download/6741/xbpq.jar",
-			"searchable": 1,
-			"quickSearch": 1,
-			"playerType": 2,
-			"filterable": 0,
-			"ext": "https://d.kstore.space/download/6741/lib/yz.json"
-		},
-		{
-			"key": "短剧",
-			"name": "短剧┃影视",
-			"type": 3,
-			"api": "csp_Duanju",
-			"searchable": 0,
-			"changeable": 1,
-			"ext": "https://www.duanjutv.icu",
-			"jar": "https://d.kstore.space/download/6741/pg.jar"
-		},
+		
 		{
 			"key": "索尼采集",
 			"name": "索尼┃影视",
