@@ -191,7 +191,56 @@
 	 "jar": "./fan.txt"	
     },
 
-
+{
+			"key": "drpy_腾讯",
+			"name": "腾讯┃视频",
+			"type": 3,
+			"api": "./lib/apiv47drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./lib/txqq.js"
+		},
+		{
+			"key": "drpy_爱奇艺",
+			"name": "奇艺┃影视",
+			"type": 3,
+			"api": "./lib/apiv47drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./lib/iqy.js"
+		},
+		{
+			"key": "drpy_优酷",
+			"name": "优酷┃视频",
+			"type": 3,
+			"api": "./lib/apiv47drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./lib/youku.js"
+		},
+		{
+			"key": "drpy_芒果",
+			"name": "芒果┃影视",
+			"type": 3,
+			"api": "./lib/apiv47drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./lib/mangguo.js"
+		},
+		{
+			"key": "drpy_搜狗",
+			"name": "搜狗┃视频",
+			"type": 3,
+			"api": "./lib/apiv47drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./lib/sougou.js"
+		},
 {
       "key": "csp_Freeok",
       "name": "️️FrOK┃影视",
