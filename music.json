@@ -3,27 +3,18 @@
 	"wallpaper": "",
 	"warningText": "免费线路，请勿购买",
 	"sites": [
-	
-{
-			"key": "csp_XBPQ",
-			"name": "花开┃可可",
+	{
+			"key": "酷看",
+			"name": "酷看┃秒播",
 			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": {
-				"线路数组": "source-item-label&&</div>[不包含:FF线路#LZ线路#XL线路#HN线路#SB线路#蓝光91#蓝光81#蓝光71]",
-				"播放数组": "episode-list\"&&</div>",
-				"数组": "<a&&</a>",
-				"副标题": "<span>&&</span>",
-				"图片": "https://vres.vukfnqr.com+data-original=\"&&\"",
-				"导演": "导演*</div>&&</div>",
-				"主演": "演员*</div>&&</div>",
-				"简介": "detail-desc\">&&</div>",
-				"搜索url": "/search?os=pc&k={wd}",
-				"分类url": "https://www.keke13.com:51111/show/{cateId}--{class}--{year}--{catePg}.html;;a",
-				"分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$6"
-			},
-			"jar": "./xyqxbpq.jar"
+			"api": "csp_Kkys",
+			"timeout": 15,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"jar": "./fan.txt"
 		},
+
 	{
 			"key": "lf_js_search",
 			"name": "影视 | 搜索",
@@ -258,15 +249,24 @@
 			"jar": "./fan.txt"
 		},
 		{
-			"key": "酷看",
-			"name": "酷看┃秒播",
+			"key": "csp_XBPQ",
+			"name": "花开┃可可",
 			"type": 3,
-			"api": "csp_Kkys",
-			"timeout": 15,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "./fan.txt"
+			"api": "csp_XBPQ",
+			"ext": {
+				"线路数组": "source-item-label&&</div>[不包含:FF线路#LZ线路#XL线路#HN线路#SB线路#蓝光91#蓝光81#蓝光71]",
+				"播放数组": "episode-list\"&&</div>",
+				"数组": "<a&&</a>",
+				"副标题": "<span>&&</span>",
+				"图片": "https://vres.vukfnqr.com+data-original=\"&&\"",
+				"导演": "导演*</div>&&</div>",
+				"主演": "演员*</div>&&</div>",
+				"简介": "detail-desc\">&&</div>",
+				"搜索url": "/search?os=pc&k={wd}",
+				"分类url": "https://www.keke13.com:51111/show/{cateId}--{class}--{year}--{catePg}.html;;a",
+				"分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$6"
+			},
+			"jar": "./xyqxbpq.jar"
 		},
 		{
 			"key": "苹果",
