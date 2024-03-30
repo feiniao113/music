@@ -89,6 +89,17 @@
       "ext": "http://v.rbotv.cn",
 			"jar": "./qiaoji.jar"
     },
+
+    {
+      "key": "萌米",
+      "name": "萌米┃App",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
+			"jar": "./fan.txt"
+    },
 	{
 			"key": "lf_js_search",
 			"name": "影视 | 搜索",
