@@ -5,7 +5,7 @@
 	"sites": [
 	{
 			"key": "酷看",
-			"name": "酷看┃秒播",
+			"name": "酷看┃无广",
 			"type": 3,
 			"api": "csp_Kkys",
 			"timeout": 15,
@@ -14,7 +14,81 @@
 			"changeable": 1,
 			"jar": "./fan.txt"
 		},
-
+{
+      "key": "白嫖",
+      "name": "白飘┃无广",
+      "type": 3,
+      "api": "csp_BaiPiao",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.baipiaoys.com:9092/",
+			"jar": "./fan.txt"
+    },
+		{
+			"key": "苹果",
+			"name": "苹果┃无广",
+			"type": 3,
+			"api": "csp_LiteApple",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"jar": "./fan.txt"
+		},
+{
+			"key": "原创",
+			"name": "原创┃无广",
+			"type": 3,
+			"api": "csp_YCyz",
+			"timeout": 15,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"jar": "./fan.txt"
+		},
+		{
+			"key": "厂长",
+			"name": "厂长┃无广",
+			"type": 3,
+			"api": "csp_Czsapp",
+			"timeout": 15,
+			"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "https://www.czzy77.com/",
+			"jar": "./fan.txt"
+		},
+{
+			"key": "南瓜",
+			"name": "南瓜┃App",
+			"type": 3,
+			"api": "csp_NanGua",
+			"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"jar": "./fm.jar"
+		},
+		{
+			"key": "天天",
+			"name": "天天┃App",
+			"type": 3,
+			"api": "csp_TTian",
+			"playerType": 1,
+			"ext": "http://op.ysdqjs.cn$$$null$$$1",
+			"jar": "./pg.jar"
+		},
+{
+      "key": "热播",
+      "name": "热播┃App",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 2,
+      "ext": "http://v.rbotv.cn",
+			"jar": "./qiaoji.jar"
+    },
 	{
 			"key": "lf_js_search",
 			"name": "影视 | 搜索",
@@ -95,16 +169,7 @@
 			},
 			"jar": "./xyqxbpq.jar"
 		},
-		{
-			"key": "苹果",
-			"name": "苹果┃复活",
-			"type": 3,
-			"api": "csp_LiteApple",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "./fan.txt"
-		},
+
 		{
 			"key": "saohuo",
 			"name": "骚火┃影视",
@@ -165,30 +230,7 @@
 			"jar": "./hhh.txt"
     },
 		
-		{
-			"key": "原创",
-			"name": "原创┃无广",
-			"type": 3,
-			"api": "csp_YCyz",
-			"timeout": 15,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "./fan.txt"
-		},
-		{
-			"key": "厂长",
-			"name": "厂长┃无广",
-			"type": 3,
-			"api": "csp_Czsapp",
-			"timeout": 15,
-			"playerType": 2,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "https://www.czzy77.com/",
-			"jar": "./fan.txt"
-		},
+		
 		{
 			"key": "csp_桵空影院",
 			"name": "桵空┃影院",
@@ -200,35 +242,7 @@
 			},
 			"jar": "./xyqxbpq.jar"
 		},
-		{
-			"key": "南瓜",
-			"name": "南瓜┃App",
-			"type": 3,
-			"api": "csp_NanGua",
-			"playerType": 2,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "./fm.jar"
-		},
-		{
-			"key": "天天",
-			"name": "天天┃App",
-			"type": 3,
-			"api": "csp_TTian",
-			"playerType": 1,
-			"ext": "http://op.ysdqjs.cn$$$null$$$1",
-			"jar": "./pg.jar"
-		},
-{
-      "key": "热播",
-      "name": "热播┃App",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 2,
-      "ext": "http://v.rbotv.cn",
-			"jar": "./qiaoji.jar"
-    },
+		
 		{
 			"key": "大师兄js",
 			"name": "师兄┃在线",
