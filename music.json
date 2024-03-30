@@ -220,6 +220,15 @@
 			"ext": "http://op.ysdqjs.cn$$$null$$$1",
 			"jar": "./pg.jar"
 		},
+{
+      "key": "热播",
+      "name": "热播┃App",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 2,
+      "ext": "http://v.rbotv.cn",
+			"jar": "./qiaoji.jar"
+    },
 		{
 			"key": "大师兄js",
 			"name": "师兄┃在线",
