@@ -407,16 +407,7 @@
 			"ext": "https://d.kstore.space/download/6741/lib/nmys.json",
 			"jar": "https://d.kstore.space/download/6741/fan.jar"
 		},
-		{
-			"key": "yqkan_open",
-			"name": "影视┃一起",
-			"type": 3,
-			"api": "csp_YQKan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"jar": "./fm.jar"
-		},
+		
 			{
 			"key": "暴風",
 			"name": "暴風┃影视",
