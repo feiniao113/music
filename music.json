@@ -491,13 +491,15 @@
 			"jar": "./pg.jar"
 		},
 		{
-      "key": "泥巴",
-      "name": "泥巴┃挂梯",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 10
+"key": "泥巴",
+			"name": "泥巴┃海外",
+			"type": 3,
+			"api": "csp_NiNi",
+			"searchable": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"jar": "./pg.jar"
+      
     },
 	{
 			"key": "haiwaikan",
