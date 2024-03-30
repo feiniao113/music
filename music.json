@@ -490,7 +490,15 @@
 			],
 			"jar": "./pg.jar"
 		},
-		
+		{
+      "key": "泥巴弹幕版",
+      "name": "泥巴┃挂梯",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "changeable": 1
+      
+    },
 	{
 			"key": "haiwaikan",
 			"name": "外看┃挂梯",
@@ -535,7 +543,7 @@
 			],
 			"jar": "./pg.jar"
 		},
-	{ "key":"csp_YingShi","name":"影视|挂梯","type":3,"api":"csp_YingShi","ext":"",
+	{ "key":"csp_YingShi","name":"影视┃挂梯","type":3,"api":"csp_YingShi","ext":"",
 			"jar": "./pg.jar"},
 		{
 			"key": "星星",
