@@ -230,6 +230,18 @@
 			"api": "https://agit.ai/30215429/TVBox/raw/branch/master/JS/lib/drpy.min.js",
 			"ext": "https://agit.ai/30215429/TVBox/raw/branch/master/JS/js/奇珍异兽.js"
 		},
+{
+      "key": "sliu_spider",
+      "name": "石榴┃直连",
+      "api": "csp_ShiLiuDY",
+      "type": 3,
+      "filterable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": "",
+			"jar": "./qiaoji.jar"
+    },
 		{
 			"key": "csp_Freeok",
 			"name": "️️FrOK┃影视",
