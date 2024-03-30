@@ -37,177 +37,12 @@
 			"jar": "./fm.jar"
 		},
 		{
-			"key": "Yinyuetai",
-			"name": "音乐┃ MV",
-			"type": 3,
-			"api": "csp_Yinyuetai",
-			"searchable": 1,
-			"changeable": 0,
-			"jar": "./0229.jar"
-		},
-		{
-			"key": "酷狗",
-			"name": "酷狗┃音乐",
-			"type": 3,
-			"api": "csp_Kugou",
-			"searchable": 1,
-			"changeable": 0,
-			"jar": "./pg.jar"
-		},
-		{
-			"key": "Iktv",
-			"name": "KTV┃音乐",
-			"type": 3,
-			"api": "csp_Iktv",
-			"searchable": 1,
-			"changeable": 0,
-			"jar": "./pg.jar"
-		},
-		{
 			"key": "直播转点播1",
 			"name": "电视┃直播",
 			"type": 3,
 			"api": "./lib/apiv135直播转点播.js",
 			"ext": "./lib/直播.txt",
 			"jar": "./fm.jar"
-		},
-		{
-			"key": "聚短视频js",
-			"name": "聚短┃视频",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./lib/duanshipin.js",
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0,
-			"timeout": 10
-		},
-		{
-			"key": "小姐姐",
-			"name": "哔哩┃姐姐",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./lib/哔哩xjj.json",
-			"jar": "./fm.jar"
-		},
-		{
-			"key": "歌舞",
-			"name": "印度┃歌舞",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./lib/印度歌舞.json",
-			"jar": "./fm.jar"
-		},
-		{
-			"key": "车模",
-			"name": "哔哩┃车模",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./lib/哔哩车模.json",
-			"jar": "./fm.jar"
-		},
-		{
-			"key": "舞蹈",
-			"name": "哔哩┃舞蹈",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./lib/哔哩舞蹈.json",
-			"jar": "./fm.jar"
-		},
-		{
-			"key": "相声",
-			"name": "BPQ┃相声",
-			"type": 3,
-			"searchable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"quickSearch": 0,
-			"api": "csp_XBPQ",
-			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;1484e86a3a4463eaf8ef41c6832a1df0",
-			"ext": {
-				"主页url": "https://www.xsmp3.com",
-				"数组二次截取": "<ul id=\"post_list_box\">&&</ul",
-				"数组": "<li class=\"www_xsmp3_com post_list_li\">&&</div>",
-				"图片": "https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/59385/6a211035-3658-45ce-a476-79f6f5dc02b71172884.png?x-oss-process=image/resize,h_1308/interlace,1",
-				"标题": "title=\"&&\"",
-				"副标题": ">&&</a",
-				"链接": "href=\"&&\"",
-				"播放二次截取": "autoplay&&;</script>",
-				"播放数组": "\\[&&\\]",
-				"播放列表": "{&&}",
-				"播放链接": "url*\"&&\"",
-				"播放标题": "name*\"&&\"",
-				"播放副标题": "artist*\"&&\"",
-				"线路数组": "相声随身听",
-				"线路标题": "相声随身听",
-				"导演": "小米",
-				"主演": "相声明星",
-				"简介": "相声合集",
-				"分类url": "https://www.xsmp3.com/{cateId}/{catePg}.html;;av",
-				"分类": "郭德纲$gdg#德云社$dys#新势力$xsxsl#青区社$qqs#马三立$msl#更多$xsmj"
-			}
-		},
-		{
-			"key": "评书",
-			"name": "BPQ┃评书",
-			"type": 3,
-			"searchable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"quickSearch": 0,
-			"api": "csp_XBPQ",
-			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;1484e86a3a4463eaf8ef41c6832a1df0",
-			"ext": {
-				"主页url": "https://www.psmp3.com",
-				"数组二次截取": "<ul id=\"post_list_box\">&&</ul",
-				"数组": "<li class=\"www_psmp3_com post_list_li\">&&</div>",
-				"图片": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f07084e3cb402ee24b899a901f2f3",
-				"标题": "title=\"&&\"",
-				"副标题": ">&&</a",
-				"链接": "href=\"&&\"",
-				"播放二次截取": "autoplay&&;</script>",
-				"播放数组": "\\[&&\\]",
-				"播放列表": "{&&}",
-				"播放链接": "url*\"&&\"",
-				"播放标题": "name*\"&&\"",
-				"播放副标题": "artist*\"&&\"",
-				"线路数组": "评书随身听",
-				"线路标题": "评书随身听",
-				"导演": "小米",
-				"主演": "评书明星",
-				"简介": "评书合集",
-				"分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av",
-				"分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
-			}
-		},
-		{
-			"key": "88js",
-			"name": "球赛┃直播",
-			"type": 3,
-			"api": "csp_Kanqiu",
-			"style": {
-				"type": "list"
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0,
-			"jar": "./fan.txt"
 		},
 		
 {
@@ -416,6 +251,172 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"jar": "./fm.jar"
+		},
+{
+			"key": "Yinyuetai",
+			"name": "音乐┃ MV",
+			"type": 3,
+			"api": "csp_Yinyuetai",
+			"searchable": 1,
+			"changeable": 0,
+			"jar": "./0229.jar"
+		},
+		{
+			"key": "酷狗",
+			"name": "酷狗┃音乐",
+			"type": 3,
+			"api": "csp_Kugou",
+			"searchable": 1,
+			"changeable": 0,
+			"jar": "./pg.jar"
+		},
+		{
+			"key": "Iktv",
+			"name": "KTV┃音乐",
+			"type": 3,
+			"api": "csp_Iktv",
+			"searchable": 1,
+			"changeable": 0,
+			"jar": "./pg.jar"
+		},
+		
+		{
+			"key": "聚短视频js",
+			"name": "聚短┃视频",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"ext": "./lib/duanshipin.js",
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"timeout": 10
+		},
+		{
+			"key": "小姐姐",
+			"name": "哔哩┃姐姐",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "./lib/哔哩xjj.json",
+			"jar": "./fm.jar"
+		},
+		{
+			"key": "歌舞",
+			"name": "印度┃歌舞",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "./lib/印度歌舞.json",
+			"jar": "./fm.jar"
+		},
+		{
+			"key": "车模",
+			"name": "哔哩┃车模",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "./lib/哔哩车模.json",
+			"jar": "./fm.jar"
+		},
+		{
+			"key": "舞蹈",
+			"name": "哔哩┃舞蹈",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "./lib/哔哩舞蹈.json",
+			"jar": "./fm.jar"
+		},
+		{
+			"key": "相声",
+			"name": "BPQ┃相声",
+			"type": 3,
+			"searchable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"quickSearch": 0,
+			"api": "csp_XBPQ",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+			"ext": {
+				"主页url": "https://www.xsmp3.com",
+				"数组二次截取": "<ul id=\"post_list_box\">&&</ul",
+				"数组": "<li class=\"www_xsmp3_com post_list_li\">&&</div>",
+				"图片": "https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/59385/6a211035-3658-45ce-a476-79f6f5dc02b71172884.png?x-oss-process=image/resize,h_1308/interlace,1",
+				"标题": "title=\"&&\"",
+				"副标题": ">&&</a",
+				"链接": "href=\"&&\"",
+				"播放二次截取": "autoplay&&;</script>",
+				"播放数组": "\\[&&\\]",
+				"播放列表": "{&&}",
+				"播放链接": "url*\"&&\"",
+				"播放标题": "name*\"&&\"",
+				"播放副标题": "artist*\"&&\"",
+				"线路数组": "相声随身听",
+				"线路标题": "相声随身听",
+				"导演": "小米",
+				"主演": "相声明星",
+				"简介": "相声合集",
+				"分类url": "https://www.xsmp3.com/{cateId}/{catePg}.html;;av",
+				"分类": "郭德纲$gdg#德云社$dys#新势力$xsxsl#青区社$qqs#马三立$msl#更多$xsmj"
+			}
+		},
+		{
+			"key": "评书",
+			"name": "BPQ┃评书",
+			"type": 3,
+			"searchable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"quickSearch": 0,
+			"api": "csp_XBPQ",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+			"ext": {
+				"主页url": "https://www.psmp3.com",
+				"数组二次截取": "<ul id=\"post_list_box\">&&</ul",
+				"数组": "<li class=\"www_psmp3_com post_list_li\">&&</div>",
+				"图片": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f07084e3cb402ee24b899a901f2f3",
+				"标题": "title=\"&&\"",
+				"副标题": ">&&</a",
+				"链接": "href=\"&&\"",
+				"播放二次截取": "autoplay&&;</script>",
+				"播放数组": "\\[&&\\]",
+				"播放列表": "{&&}",
+				"播放链接": "url*\"&&\"",
+				"播放标题": "name*\"&&\"",
+				"播放副标题": "artist*\"&&\"",
+				"线路数组": "评书随身听",
+				"线路标题": "评书随身听",
+				"导演": "小米",
+				"主演": "评书明星",
+				"简介": "评书合集",
+				"分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av",
+				"分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
+			}
+		},
+		{
+			"key": "88js",
+			"name": "球赛┃直播",
+			"type": 3,
+			"api": "csp_Kanqiu",
+			"style": {
+				"type": "list"
+			},
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"jar": "./fan.txt"
 		},
 			{
 			"key": "暴風",
