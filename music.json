@@ -492,13 +492,13 @@
 		},
 		{
 "key": "泥巴",
-			"name": "泥巴┃海外",
+			"name": "泥巴┃挂梯",
 			"type": 3,
 			"api": "csp_NiNi",
 			"searchable": 1,
 			"filterable": 1,
 			"changeable": 1,
-			"jar": "./pg.jar"
+			"jar": "./niba.jar"
       
     },
 	{
