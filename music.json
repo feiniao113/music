@@ -100,6 +100,16 @@
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
 			"jar": "./fan.txt"
     },
+{
+      "key": "一起看 ",
+      "name": "一起┃App",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+			"jar": "./fan.txt"
+    },
 	{
 			"key": "lf_js_search",
 			"name": "影视 | 搜索",
@@ -141,6 +151,57 @@
       "searchable": 1,
       "ext": "",
 			"jar": "./qiaoji.jar"
+    },
+
+		
+{
+      "key": "Xinsj",
+      "name": "视觉┃直连",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.80yy3.com/",
+			"jar": "./fan.txt"
+
+    {
+      "key": "Lib",
+      "name": "立播┃直连",
+      "type": 3,
+      "api": "csp_Libvio",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.libvio.pw/",
+			"jar": "./fan.txt"
+    },
+    {
+      "key": "Auete",
+      "name": "奥特┃直连",
+      "type": 3,
+      "api": "csp_Auete",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://auete.pro/",
+			"jar": "./fan.txt"
+    },
+    },
+    {
+      "key": "zxzj",
+      "name": "在线┃外剧",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzja.com/",
+			"jar": "./fan.txt"
     },
 		{
 			"key": "csp_Freeok",
@@ -276,16 +337,7 @@
 			"ext": "https://d.kstore.space/download/6741/lib/nmys.json",
 			"jar": "https://d.kstore.space/download/6741/fan.jar"
 		},
-		{
-			"key": "yqkan_open",
-			"name": "影视┃一起",
-			"type": 3,
-			"api": "csp_YQKan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"jar": "./fm.jar"
-		},
+    
 {
 			"key": "Yinyuetai",
 			"name": "音乐┃ MV",
