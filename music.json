@@ -228,20 +228,7 @@
 				"三次跳转播放链接": "\"url\"*\"&&\""
 			}
 		},
-		{
-			"key": "神仙影视",
-			"name": "神仙┃自营",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"jar": "./xyqxbpq.jar",
-			"filterable": 1,
-			"ext": {
-				"分类url": "https://ys.sxtv.top/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-				"分类": "电影$1#电视剧$2#综艺$3#动漫$5#短剧$21"
-			}
-		},
+		
 		{
 			"key": "业余采集A",
 			"name": "业余┃自营 ",
