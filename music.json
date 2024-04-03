@@ -218,7 +218,6 @@
 				"三次跳转播放链接": "\"url\"*\"&&\""
 			}
 		},
-		
 		{
 			"key": "业余采集A",
 			"name": "业余┃自营 ",
@@ -317,6 +316,38 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./lib/dashixiong.js",
 			"timeout": 15
+		},
+		{
+			"key": "cctv",
+			"name": "央视｜大全",
+			"type": 3,
+			"api": "csp_CCTV",
+			"searchable": 0,
+			"filterable": 0,
+			"ext": "./lib/央视大全.json",
+			"jar": "./cha.jar"
+		},
+		{
+			"key": "py_cctv_少儿",
+			"name": "央视｜少儿",
+			"type": 3,
+			"api": "py_cctv_full",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "./lib/py_央视少儿.py",
+			"jar": "./cha.jar"
+		},
+		{
+			"key": "央视经典",
+			"name": "央视｜经典",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./lib/哔哩经典.json",
+			"jar": "./cha.jar"
 		},
 		{
 			"key": "nmys_js",
