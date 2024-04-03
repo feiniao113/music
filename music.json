@@ -1,5 +1,5 @@
 {
-	"spider": "./okpng.txt",
+	"spider": "./fan.txt",
 	"wallpaper": "",
 	"warningText": "免费线路，请勿购买",
 	"sites": [
@@ -11,8 +11,7 @@
 			"timeout": 15,
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "./fan.txt"
+			"changeable": 1
 		},
 		{
 			"key": "白嫖",
@@ -23,8 +22,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://www.baipiaoys.com:9092/",
-			"jar": "./fan.txt"
+			"ext": "https://www.baipiaoys.com:9092/"
 		},
 		{
 			"key": "苹果",
@@ -33,8 +31,7 @@
 			"api": "csp_LiteApple",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "./fan.txt"
+			"changeable": 1
 		},
 		{
 			"key": "原创",
@@ -44,8 +41,7 @@
 			"timeout": 15,
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "./fan.txt"
+			"changeable": 1
 		},
 		{
 			"key": "厂长",
@@ -57,8 +53,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://www.czzy77.com/",
-			"jar": "./fan.txt"
+			"ext": "https://www.czzy77.com/"
 		},
 		{
 			"key": "南瓜",
@@ -87,8 +82,7 @@
 			"api": "csp_YQKan",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "./fan.txt"
+			"changeable": 1
 		},
 		{
 			"key": "lf_js_search",
@@ -140,8 +134,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://www.libvio.pw/",
-			"jar": "./fan.txt"
+			"ext": "https://www.libvio.pw/"
 		},
 		{
 			"key": "Auete",
@@ -152,8 +145,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://auete.pro/",
-			"jar": "./fan.txt"
+			"ext": "https://auete.pro/"
 		},
 		{
 			"key": "zxzj",
@@ -164,8 +156,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://www.zxzja.com/",
-			"jar": "./fan.txt"
+			"ext": "https://www.zxzja.com/"
 		},
 		{
 			"key": "csp_Freeok",
@@ -182,8 +173,7 @@
 			"api": "csp_Bttwoo",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "./fan.txt"
+			"changeable": 1
 		},
 		{
 			"key": "csp_XBPQ",
@@ -501,8 +491,7 @@
 			},
 			"searchable": 0,
 			"quickSearch": 0,
-			"changeable": 0,
-			"jar": "./fan.txt"
+			"changeable": 0
 		},
 		{
 			"key": "泥巴",
