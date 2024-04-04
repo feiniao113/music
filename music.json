@@ -318,7 +318,7 @@
 			"ext": "./lib/dashixiong.js",
 			"timeout": 15
 		},
-		
+		    {"key":"py_1905","name": "1905┃电影","type": 3,"api": "./lib/1905电影.py","searchable": 1,"quickSearch": 1,"filterable": 1},    
 		    {
       "key": "py_央视",
       "name": "CCTV┃央视",
