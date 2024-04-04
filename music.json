@@ -125,6 +125,7 @@
 			"ext": "",
 			"jar": "./qiaoji.jar"
 		},
+
 		{
 			"key": "Lib",
 			"name": "立播┃直连",
@@ -317,6 +318,17 @@
 			"ext": "./lib/dashixiong.js",
 			"timeout": 15
 		},
+		
+		    {
+      "key": "py_央视",
+      "name": "CCTV┃央视",
+      "type": 3,
+      "api": "https://d.kstore.space/download/6128/TVBOX/py/cctv.py",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+			"jar": "./cha.jar"
+    },
 		{
 			"key": "cctv",
 			"name": "央视｜大全",
