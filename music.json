@@ -326,8 +326,7 @@
       "api": "https://d.kstore.space/download/6128/TVBOX/py/cctv.py",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 1,
-			"jar": "./cha.jar"
+      "filterable": 1
     },
 		{
 			"key": "cctv",
