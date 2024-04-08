@@ -76,15 +76,6 @@
 			"jar": "./qiaoji.jar"
 		},
 		{
-			"key": "一起看 ",
-			"name": "一起┃App",
-			"type": 3,
-			"api": "csp_YQKan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-		},
-		{
 			"key": "lf_js_search",
 			"name": "影视 | 搜索",
 			"type": 3,
