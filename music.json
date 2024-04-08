@@ -351,17 +351,7 @@
 			"ext": "./lib/哔哩经典.json",
 			"jar": "./cha.jar"
 		},
-		{
-			"key": "nmys_js",
-			"name": "农民┃影视",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"api": "csp_Nmys",
-			"ext": "https://d.kstore.space/download/6741/lib/nmys.json",
-			"jar": "https://d.kstore.space/download/6741/fan.jar"
-		},
+		
 		{
 			"key": "Yinyuetai",
 			"name": "音乐┃ MV",
