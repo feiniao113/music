@@ -391,17 +391,6 @@
 			"timeout": 10
 		},
 		{
-			"key": "小姐姐",
-			"name": "哔哩┃姐姐",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./lib/哔哩xjj.json",
-			"jar": "./fm.jar"
-		},
-		{
 			"key": "歌舞",
 			"name": "印度┃歌舞",
 			"type": 3,
