@@ -400,6 +400,7 @@
 			"changeable": 0,
 			"timeout": 10
 		},
+		{"key":"drpy_js_蜻蜓FM","name":"广播┃蜻蜓","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/蜻蜓FM.js","playerType":"2"},
 		{
 			"key": "相声",
 			"name": "BPQ┃相声",
