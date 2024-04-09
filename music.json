@@ -55,8 +55,12 @@
 			"changeable": 1,
 			"ext": "https://www.czzy77.com/"
 		},
-{"key": "T4-mingri", "name": "明日┃T 4","type": 4, "api": "https://catbox.n13.club/mingri.php"},
-
+		{
+			"key": "T4-mingri",
+			"name": "明日┃T 4",
+			"type": 4,
+			"api": "https://catbox.n13.club/mingri.php"
+		},
 		{
 			"key": "南瓜",
 			"name": "南瓜┃App",
@@ -87,17 +91,7 @@
 			"filterable": 0,
 			"api": "./lf_search3_min.js"
 		},
-		{
-			"key": "演唱会自定义",
-			"name": "流行┃音乐",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./lib/哔哩演唱会.json",
-			"jar": "./fm.jar"
-		},
+		
 		{
 			"key": "直播转点播1",
 			"name": "电视┃直播",
@@ -118,7 +112,6 @@
 			"ext": "",
 			"jar": "./qiaoji.jar"
 		},
-
 		{
 			"key": "Lib",
 			"name": "立播┃直连",
@@ -311,16 +304,15 @@
 			"ext": "./lib/dashixiong.js",
 			"timeout": 15
 		},
-		   
-		    {
-      "key": "py_央视",
-      "name": "CCTV┃央视",
-      "type": 3,
-      "api": "https://d.kstore.space/download/6128/TVBOX/py/cctv.py",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
-    },
+		{
+			"key": "py_央视",
+			"name": "CCTV┃央视",
+			"type": 3,
+			"api": "https://d.kstore.space/download/6128/TVBOX/py/cctv.py",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1
+		},
 		{
 			"key": "cctv",
 			"name": "央视｜大全",
@@ -353,7 +345,17 @@
 			"ext": "./lib/哔哩经典.json",
 			"jar": "./cha.jar"
 		},
-		
+		{
+			"key": "演唱会自定义",
+			"name": "流行┃音乐",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "./lib/哔哩演唱会.json",
+			"jar": "./fm.jar"
+		},
 		{
 			"key": "Yinyuetai",
 			"name": "音乐┃ MV",
@@ -391,51 +393,6 @@
 			"quickSearch": 0,
 			"changeable": 0,
 			"timeout": 10
-		},
-
-		{
-			"key": "小姐姐",
-			"name": "哔哩┃姐姐",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./lib/哔哩xjj.json",
-			"jar": "./fm.jar"
-		},
-		{
-			"key": "歌舞",
-			"name": "印度┃歌舞",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./lib/印度歌舞.json",
-			"jar": "./fm.jar"
-		},
-		{
-			"key": "车模",
-			"name": "哔哩┃车模",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./lib/哔哩车模.json",
-			"jar": "./fm.jar"
-		},
-		{
-			"key": "舞蹈",
-			"name": "哔哩┃舞蹈",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./lib/哔哩舞蹈.json",
-			"jar": "./fm.jar"
 		},
 		{
 			"key": "相声",
@@ -507,24 +464,7 @@
 				"分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
 			}
 		},
-		{
-			"key": "88js",
-			"name": "球赛┃直播",
-			"type": 3,
-			"api": "csp_Kanqiu",
-			"style": {
-				"type": "list"
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0
-		},
-{
-            "key": "T4-qietiyu",
-            "name": "企鹅┃体育",
-            "type": 4,
-            "api": "https://catbox.n13.club/qietiyu.php"
-},
+	
 		{
 			"key": "泥巴",
 			"name": "泥巴┃挂梯",
@@ -608,19 +548,19 @@
 			"api": "https://agit.ai/30215429/TVBox/raw/branch/master/JS/lib/drpy.min.js",
 			"ext": "https://agit.ai/30215429/TVBox/raw/branch/master/JS/js/奇珍异兽.js"
 		},
-		 {
-      "key": "Aid",
-      "name": "急救┃教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      }
-    },
+		{
+			"key": "Aid",
+			"name": "急救┃教学",
+			"type": 3,
+			"api": "csp_FirstAid",
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 3.8
+			}
+		},
 		{
 			"key": "软件",
 			"name": " 软件┃教程",
