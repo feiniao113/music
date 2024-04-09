@@ -1,0 +1,12 @@
+{
+	"urls": [
+		{
+			"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/feiniao113/music/main/music.json",
+			"name": "影音视界"
+		},
+		{
+			"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/feiniao113/music/main/boy.json",
+			"name": "For Boys"
+		}
+	]
+}
