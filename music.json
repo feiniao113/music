@@ -56,6 +56,14 @@
 			"ext": "https://www.czzy77.com/"
 		},
 		{
+      "key": "drpy_js_农民",
+      "name": "农民┃秒播",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/农民影视.js"
+    },
+
+		{
 			"key": "T4-mingri",
 			"name": "明日┃T 4",
 			"type": 4,
