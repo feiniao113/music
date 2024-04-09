@@ -608,6 +608,19 @@
 			"api": "https://agit.ai/30215429/TVBox/raw/branch/master/JS/lib/drpy.min.js",
 			"ext": "https://agit.ai/30215429/TVBox/raw/branch/master/JS/js/奇珍异兽.js"
 		},
+		 {
+      "key": "Aid",
+      "name": "急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
 		{
 			"key": "软件",
 			"name": " 软件┃教程",
