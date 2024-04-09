@@ -519,6 +519,12 @@
 			"quickSearch": 0,
 			"changeable": 0
 		},
+{
+            "key": "T4-qietiyu",
+            "name": "企鹅┃体育",
+            "type": 4,
+            "api": "https://catbox.n13.club/qietiyu.php"
+},
 		{
 			"key": "泥巴",
 			"name": "泥巴┃挂梯",
