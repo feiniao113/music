@@ -481,6 +481,14 @@
 				"分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
 			}
 		},
+    {
+      "key": "drpy_js_喜马拉雅",
+      "name": "喜马┃拉雅",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/喜马拉雅.js",
+      "playerType": "2"
+    },
 		{
 			"key": "泥巴",
 			"name": "泥巴┃挂梯",
