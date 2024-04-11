@@ -1,0 +1,12 @@
+{
+	"urls": [
+		{
+			"url": "https://raw.githubusercontent.com/feiniao113/music/main/music.json",
+			"name": "影音视界"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/feiniao113/music/main/boy.json",
+			"name": "For Boys"
+		}
+	]
+}
