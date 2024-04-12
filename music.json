@@ -369,7 +369,17 @@
 			"changeable": 0,
 			"jar": "./0229.jar"
 		},
+
 {"key":"drpy_js_酷奇MV","name":"酷奇┃M V","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/酷奇MV.js","playerType":"2"},
+{
+			"key": "Iktv",
+			"name": "KTV┃现场",
+			"type": 3,
+			"api": "csp_Iktv",
+			"searchable": 1,
+			"changeable": 0,
+			"jar": "./pg.jar"
+		},
 		{
 			"key": "酷狗",
 			"name": "酷狗┃音乐",
@@ -379,16 +389,11 @@
 			"changeable": 0,
 			"jar": "./pg.jar"
 		},
-		{
-			"key": "Iktv",
-			"name": "KTV┃音乐",
-			"type": 3,
-			"api": "csp_Iktv",
-			"searchable": 1,
-			"changeable": 0,
-			"jar": "./pg.jar"
-		},
+		
 {"key":"drpy_js_A8音乐","name":"A 8┃音乐","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/A8音乐.js","playerType":"2"},
+
+{"key":"drpy_js_清风DJ","name":"清风┃D J","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/清风DJ.js","playerType":"2"},
+
 		{
 			"key": "聚短视频js",
 			"name": "聚短┃视频",
