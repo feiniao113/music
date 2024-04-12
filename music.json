@@ -172,7 +172,8 @@
 		
 		
 		
-		
+		{"key":"Bdys_spider","name":"哔滴┃直连","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"",
+			"jar": "./qiaoji.jar"},
 {
 			"key": "drpy_低端",
 			"name": "低端┃外剧",
