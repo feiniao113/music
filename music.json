@@ -194,20 +194,7 @@
 			}
 		},
 		
-		{
-			"key": "XBPQ_麻衣影院",
-			"name": "麻衣┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"分类url": "https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
-				"分类": "电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"
-			},
-			"jar": "./xyqxbpq.jar"
-		},
+		
 		{"key": "csp_XBPQ_小鱼影视",
   "name": "小鱼┃影视",
   "type": 3,
