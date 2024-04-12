@@ -107,18 +107,6 @@
 			"jar": "./fm.jar"
 		},
 		{
-			"key": "sliu_spider",
-			"name": "石榴┃直连",
-			"api": "csp_ShiLiuDY",
-			"type": 3,
-			"filterable": 1,
-			"playerType": 2,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": "",
-			"jar": "./qiaoji.jar"
-		},
-		{
 			"key": "Lib",
 			"name": "立播┃直连",
 			"type": 3,
