@@ -193,28 +193,7 @@
 				"三次跳转播放链接": "\"url\"*\"&&\""
 			}
 		},
-		{
-			"key": "业余采集A",
-			"name": "业余┃自营 ",
-			"type": 1,
-			"api": "http://154.3.2.163/api.php/provide/vod/",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"categories": [
-				"短剧",
-				"电影",
-				"电视剧",
-				"动漫",
-				"综艺",
-				"记录片",
-				"音乐",
-				"影视解说",
-				"体育"
-			],
-			"jar": "./hhh.txt"
-		},
+		
 		{
 			"key": "XBPQ_麻衣影院",
 			"name": "麻衣┃影视",
