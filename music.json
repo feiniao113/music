@@ -63,12 +63,6 @@
 			"ext": "./lib/农民影视.js"
 		},
 		{
-			"key": "T4-mingri",
-			"name": "明日┃T 4",
-			"type": 4,
-			"api": "https://catbox.n13.club/mingri.php"
-		},
-		{
 			"key": "南瓜",
 			"name": "南瓜┃App",
 			"type": 3,
