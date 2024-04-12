@@ -387,6 +387,7 @@
 			"changeable": 0,
 			"jar": "./pg.jar"
 		},
+{"key":"drpy_js_A8音乐","name":"A 8┃音乐","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/A8音乐.js","playerType":"2"},
 		{
 			"key": "聚短视频js",
 			"name": "聚短┃视频",
