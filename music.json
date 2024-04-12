@@ -133,14 +133,7 @@
 			"changeable": 1,
 			"ext": "https://www.zxzja.com/"
 		},
-		{
-			"key": "csp_Freeok",
-			"name": "️️FrOK┃影视",
-			"type": 3,
-			"playerType": "1",
-			"api": "csp_Freeok",
-			"jar": "./Panda.jar"
-		},
+		
 		{
 			"key": "csp_Bttoo",
 			"name": "比特┃秒播",
