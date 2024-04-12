@@ -56,13 +56,6 @@
 			"ext": "https://www.czys01.com/"
 		},
 		{
-			"key": "drpy_js_农民",
-			"name": "农民┃秒播",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./lib/农民影视.js"
-		},
-		{
 			"key": "南瓜",
 			"name": "南瓜┃App",
 			"type": 3,
