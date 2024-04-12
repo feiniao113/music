@@ -369,6 +369,7 @@
 			"changeable": 0,
 			"jar": "./0229.jar"
 		},
+{"key":"drpy_js_酷齐MV","name":"酷齐┃M V","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/酷齐MV.js","playerType":"2"},
 		{
 			"key": "酷狗",
 			"name": "酷狗┃音乐",
