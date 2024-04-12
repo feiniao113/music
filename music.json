@@ -195,16 +195,7 @@
 		},
 		
 		
-		{"key": "csp_XBPQ_小鱼影视",
-  "name": "小鱼┃影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "./xyqxbpq.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "{\"分类\":\"电影$dianying#电视剧$dianshiju#动漫$dongman\",\"分类url\":\"https://www.zsxy.link/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}.html\"}"},
-
+		
 		
 		
 		{
