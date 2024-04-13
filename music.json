@@ -248,7 +248,7 @@
       "searchable": 0,
       "ext": "./lib/cctv.json",
       
-      "jar":"./cha.jar"
+      "jar":"./ys.jar"
     },
 		{
 			"key": "cctv",
