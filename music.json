@@ -278,6 +278,29 @@
 			]
 		},
 		{
+			"key": "跑马采集",
+			"name": "跑马┃集合",
+			"type": 1,
+			"api": "http://154.3.2.163/api.php/provide/vod/",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+			"jar": "./pg.jar",
+			"playerType": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"categories": [
+				"短剧",
+				"电影",
+				"电视剧",
+				"动漫",
+				"综艺",
+				"记录片",
+				"音乐",
+				"影视解说",
+				"体育"
+			]
+		},
+		{
 			"key": "央视大全",
 			"name": "CCTV｜央视",
 			"type": 3,
