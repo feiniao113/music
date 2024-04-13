@@ -240,14 +240,16 @@
 			"jar": "./pg.jar"
 		},
 		{
-			"key": "py_央视",
-			"name": "CCTV┃央视",
-			"type": 3,
-			"api": "https://d.kstore.space/download/6128/TVBOX/py/cctv.py",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1
-		},
+      "key": "央视大全",
+      "name": "CCTV｜央视",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_CCTV",
+      "searchable": 0,
+      "ext": "./lib/cctv.json",
+      
+      "jar":"./cha.jar"
+    },
 		{
 			"key": "cctv",
 			"name": "央视｜大全",
