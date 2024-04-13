@@ -174,18 +174,16 @@
 		
 		{"key":"Bdys_spider","name":"哔滴┃直连","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"",
 			"jar": "./qiaoji.jar"},
-{
-			"key": "drpy_低端",
-			"name": "低端┃外剧",
-			"type": 3,
-			"api": "./lib/apiv201drpy2.min.js",
-			"playerType": 2,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/低端影院.js"
-		},
-
+   {
+      "key": "低端",
+      "name": "低端┃外剧",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
 {
 			"key": "量子",
 			"name": "量子┃影视",
