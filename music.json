@@ -312,6 +312,20 @@
 			"changeable": 0,
 			"jar": "./0229.jar"
 		},
+		 {
+      "key": "MTV",
+      "name": "明星┃MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/MTV.json"
+    },
 
 {"key":"drpy_js_酷奇MV","name":"酷奇┃M V","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/酷奇MV.js","playerType":"2"},
 {
