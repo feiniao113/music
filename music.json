@@ -217,22 +217,21 @@
 		},
 		{
 			"key": "量子",
-			"name": "量子┃影视",
+			"name": "量子┃采集",
 			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/http://cj.lziapi.com/api.php/provide/vod/?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"playerType": 1,
+			"api": "https://cj.lziapi.com/api.php/provide/vod/",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+			"jar": "./pg.jar",
 			"searchable": 1,
-			"changeable": 1,
-			"jar": "./pg.jar"
+			"changeable": 1
 		},
 		{
 			"key": "非凡",
-			"name": "非凡┃影视",
+			"name": "非凡┃采集",
 			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/http://cj.ffzyapi.com/api.php/provide/vod/?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"playerType": 1,
+			"api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+			"jar": "./pg.jar",
 			"searchable": 1,
 			"changeable": 1,
 			"categories": [
@@ -265,8 +264,7 @@
 				"欧美动漫",
 				"港台动漫",
 				"海外动漫"
-			],
-			"jar": "./pg.jar"
+			]
 		},
 		{
 			"key": "央视大全",
@@ -1312,7 +1310,7 @@
 			}
 		},
 		{
-			"name": "YuMi-vip🥭",
+			"name": "YuMi-vip??",
 			"type": 0,
 			"url": "https://jx.xmflv.com/?url=",
 			"ext": {
