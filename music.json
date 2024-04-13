@@ -863,35 +863,7 @@
 				}
 			}
 		},
-		{
-			"name": "米饭",
-			"type": 1,
-			"url": "https://api.json.icu/api/?key=b1f3b1a9e1c0a42ae969db10bd315a95&url=",
-			"ext": {
-				"flag": [
-					"爱奇艺",
-					"奇艺",
-					"qq",
-					"腾讯",
-					"youku",
-					"优酷",
-					"pptv",
-					"PPTV",
-					"letv",
-					"乐视",
-					"leshi",
-					"bilibili",
-					"哔哩哔哩",
-					"哔哩",
-					"mgtv",
-					"芒果",
-					"芒果"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.1.0"
-				}
-			}
-		},
+		
 		{
 			"name": "虾米",
 			"type": 0,
