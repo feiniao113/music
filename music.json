@@ -280,6 +280,8 @@
 			"ext": "./lib/哔哩经典.json",
 			"jar": "./cha.jar"
 		},
+		{"key":"drpy_js_哔哩记录1","name":"哔哩┃记录1","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/纪录片1.js","playerType":"2"},
+		{"key":"drpy_js_哔哩记录2","name":"哔哩┃记录2","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/纪录片2.js","playerType":"2"},
 		{
 			"key": "演唱会自定义",
 			"name": "流行┃音乐",
