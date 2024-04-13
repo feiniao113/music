@@ -93,6 +93,15 @@
 			"jar": "./qiaoji.jar"
 		},
 		{
+			"key": "YGP",
+			"name": "预告┃新片",
+			"type": 3,
+			"api": "csp_YGP",
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0
+		},
+		{
 			"key": "lf_js_search",
 			"name": "影视 | 搜索",
 			"type": 3,
@@ -266,9 +275,9 @@
 			"playerType": 1,
 			"api": "csp_CCTV",
 			"searchable": 0,
-			"ext":  {
-                        "json":"./lib/cctv.json"
-                },
+			"ext": {
+				"json": "./lib/cctv.json"
+			},
 			"jar": "http://175.24.189.226/box/tvbox/PG/ys.jar"
 		},
 		{
