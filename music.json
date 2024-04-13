@@ -266,7 +266,9 @@
 			"playerType": 1,
 			"api": "csp_CCTV",
 			"searchable": 0,
-			"ext": "./lib/cctv.json",
+			"ext":  {
+                        "json":"./lib/cctv.json"
+                },
 			"jar": "http://175.24.189.226/box/tvbox/PG/ys.jar"
 		},
 		{
