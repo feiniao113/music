@@ -93,6 +93,17 @@
 			"jar": "./qiaoji.jar"
 		},
 		{
+			"key": "YQKan",
+			"name": "一起┃看看",
+			"type": 3,
+			"api": "csp_YQKan",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"jar": "./pg.jar"
+		},
+		{
 			"key": "YGP",
 			"name": "预告┃新片",
 			"type": 3,
