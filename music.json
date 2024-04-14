@@ -121,6 +121,7 @@
 			"ext": "./lib/直播.txt",
 			"jar": "./fm.jar"
 		},
+{"key":"lf_js_lf_live","name":"电视 | LIVE","type":3,"api":"./lib/apiv209lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./lib/lf_live.txt"},
 		{
 			"key": "Lib",
 			"name": "立播┃直连",
