@@ -92,17 +92,8 @@
 			"ext": "http://v.rbotv.cn",
 			"jar": "./qiaoji.jar"
 		},
-		{
-			"key": "YQKan",
-			"name": "一起┃看看",
-			"type": 3,
-			"api": "csp_YQKan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"jar": "./pg.jar"
-		},
+		
+{"key":"drpy_js_子子影视","name":"子子┃影视","type":3,"api":"./lib/apiv65drpy2.min.js","ext":"./lib/子子影视.js"},
 		{
 			"key": "YGP",
 			"name": "预告┃新片",
