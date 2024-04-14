@@ -25,7 +25,7 @@ http://home.jundie.top:81/Cat/tv/live.txt
 #初秋语•电台
 ../radio.txt
 #范明明•电台
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/feiniao113/music/main/index.m3u
 #肥羊•斗鱼
 https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u
 #肥羊•虎牙
