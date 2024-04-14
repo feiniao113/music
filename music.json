@@ -219,6 +219,8 @@
 		},
 {"key":"drpy_js_子子影视","name":"子子┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/子子影视.js"},
 {"key":"drpy_js_思古影视","name":"思古┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/思古影视.js"},
+
+{"key":"drpy_js_网飞.TV","name":"网飞 | 影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/网飞.TV.js"},
 		{
 			"key": "量子",
 			"name": "量子┃采集",
