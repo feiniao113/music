@@ -92,6 +92,17 @@
 			"ext": "http://v.rbotv.cn",
 			"jar": "./qiaoji.jar"
 		},
+		 {
+      "key": "农民",
+      "name": "农民┃秒播",
+      "type": 3,
+      "api": "csp_Nmys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/nmys.json"
+    },
 		{
 			"key": "YGP",
 			"name": "预告┃新片",
