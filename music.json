@@ -92,8 +92,6 @@
 			"ext": "http://v.rbotv.cn",
 			"jar": "./qiaoji.jar"
 		},
-		
-
 		{
 			"key": "YGP",
 			"name": "预告┃新片",
@@ -121,7 +119,20 @@
 			"ext": "./lib/直播.txt",
 			"jar": "./fm.jar"
 		},
-{"key":"lf_js_lf_live","name":"电视 | LIVE","type":3,"api":"./lib/apiv209lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./lib/lf_live.txt"},
+		{
+			"key": "lf_js_lf_live",
+			"name": "电视 | LIVE",
+			"type": 3,
+			"api": "./lib/apiv209lf_live_min.js",
+			"style": {
+				"type": "oval"
+			},
+			"searchable": 1,
+			"changeable": 0,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./lib/lf_live.txt"
+		},
 		{
 			"key": "Lib",
 			"name": "立播┃直连",
@@ -218,10 +229,27 @@
 			"changeable": 0,
 			"ext": "http://www.xb6v.com/"
 		},
-{"key":"drpy_js_子子影视","name":"子子┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/子子影视.js"},
-{"key":"drpy_js_思古影视","name":"思古┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/思古影视.js"},
-
-{"key":"drpy_js_网飞.TV","name":"网飞 | 影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/网飞.TV.js"},
+		{
+			"key": "drpy_js_子子影视",
+			"name": "子子┃影视",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"ext": "./lib/子子影视.js"
+		},
+		{
+			"key": "drpy_js_思古影视",
+			"name": "思古┃影视",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"ext": "./lib/思古影视.js"
+		},
+		{
+			"key": "drpy_js_网飞.TV",
+			"name": "网飞 | 影视",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"ext": "./lib/网飞.TV.js"
+		},
 		{
 			"key": "量子",
 			"name": "量子┃采集",
@@ -356,7 +384,8 @@
 			"ext": "./lib/纪录片2.js",
 			"playerType": "2"
 		},
-		{"key": "csp_Biliych",
+		{
+			"key": "csp_Biliych",
 			"name": "哔哩┃音乐",
 			"type": 3,
 			"api": "csp_Bili",
@@ -482,8 +511,14 @@
 			"changeable": 0,
 			"timeout": 10
 		},
-
-{"key":"drpy_js_广播迷FM","name":"广播 | 电视","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./lib/广播迷FM.js"},
+		{
+			"key": "drpy_js_广播迷FM",
+			"name": "广播 | 电视",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"changeable": 0,
+			"ext": "./lib/广播迷FM.js"
+		},
 		{
 			"key": "drpy_js_蜻蜓FM",
 			"name": "广播┃蜻蜓",
@@ -566,8 +601,8 @@
 			"key": "drpy_js_喜马拉雅",
 			"name": "喜马┃拉雅",
 			"type": 3,
-			"api":"./lib/drpy2.min.js",
-			"ext":"./lib/喜马拉雅.js",
+			"api": "./lib/drpy2.min.js",
+			"ext": "./lib/喜马拉雅.js",
 			"playerType": "2"
 		},
 		{
@@ -864,7 +899,6 @@
 				}
 			}
 		},
-		
 		{
 			"name": "虾米",
 			"type": 0,
