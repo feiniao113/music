@@ -779,27 +779,6 @@
 		},
 		
 		{
-			"name": "嗅探1",
-			"type": 0,
-			"url": "https://jx.m3u8.tv/jiexi/?url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"iqiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"yk",
-					"优酷",
-					"mgtv",
-					"imgo",
-					"芒果"
-				]
-			}
-		},
-		{
 			"name": "嗅探2",
 			"type": 0,
 			"url": "https://jx.xmflv.com/?url="
