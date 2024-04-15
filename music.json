@@ -385,6 +385,20 @@
 			"playerType": "2"
 		},
 		{
+			"key": "Bili",
+			"name": "哔哔┃合集",
+			"type": 3,
+			"api": "csp_Bili",
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext": "./lib/bilibili.json"
+		},
+		{
 			"key": "csp_Biliych",
 			"name": "哔哩┃音乐",
 			"type": 3,
@@ -453,20 +467,7 @@
 			"changeable": 0,
 			"jar": "./pg.jar"
 		},
-		{
-			"key": "Bili",
-			"name": "哔哔┃合集",
-			"type": 3,
-			"api": "csp_Bili",
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext": "./lib/bilibili.json"
-		},
+		
 		
 		{
 			"key": "酷狗",
