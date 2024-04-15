@@ -400,6 +400,20 @@
 			"jar": "./fm.jar"
 		},
 		{
+			"key": "Biliych",
+			"name": "音乐┃哔哩",
+			"type": 3,
+			"api": "csp_Bili",
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext": "./lib/biliych.json"
+		},
+		{
 			"key": "Yinyuetai",
 			"name": "音乐┃ MV",
 			"type": 3,
@@ -453,20 +467,7 @@
 			"changeable": 0,
 			"ext": "./lib/bilibili.json"
 		},
-		{
-			"key": "Biliych",
-			"name": "明星┃现场",
-			"type": 3,
-			"api": "csp_Bili",
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext": "./lib/biliych.json"
-		},
+		
 		{
 			"key": "酷狗",
 			"name": "酷狗┃音乐",
