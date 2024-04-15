@@ -356,7 +356,7 @@
 			"ext": "./lib/纪录片2.js",
 			"playerType": "2"
 		},
-		"key": "csp_Biliych",
+		{"key": "csp_Biliych",
 			"name": "哔哩┃音乐",
 			"type": 3,
 			"api": "csp_Bili",
