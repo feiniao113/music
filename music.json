@@ -403,6 +403,7 @@
 			"changeable": 0,
 			"ext": "./lib/bilibili.json"
 		},
+{"key":"美食","name":"美食┃合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/美食.json""},
 		{
 			"key": "csp_Biliych",
 			"name": "哔哩┃音乐",
