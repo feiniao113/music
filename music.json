@@ -756,34 +756,14 @@
 		}
 	],
 	"parses": [
-		{
-			"name": "并发",
-			"type": 2,
-			"url": "Parallel"
-		},
-		{
-			"name": "轮询",
-			"type": 2,
-			"url": "Sequence"
-		},
-		{
-			"name": "聚合",
-			"type": 3,
-			"url": "Demo"
-		},
-		{
-			"name": "嗅探",
-			"type": 3,
-			"url": "Web"
-		},
 		
 		{
-			"name": "嗅探2",
+			"name": "嗅探1",
 			"type": 0,
 			"url": "https://jx.xmflv.com/?url="
 		},
 		{
-			"name": "嗅探3",
+			"name": "嗅探2",
 			"type": 0,
 			"url": "https://www.yemu.xyz/?url="
 		},
