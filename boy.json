@@ -4,14 +4,15 @@
 	"warningText": "免费线路，请勿购买",
 	"sites": [
 		{
-			"key": "短剧",
-			"name": "短剧┃上头",
+			"key": "小姐姐",
+			"name": "哔哩┃姐姐",
 			"type": 3,
-			"api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-			"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "./lib/哔哩xjj.json",
+			"jar": "./fm.jar"
 		},
 		{
 			"key": "Pandalivetv",
@@ -41,17 +42,7 @@
 			"changeable": 0,
 			"jar": "./wex.txt;md5;cdc9664110746fc5217bd6795f2a681b"
 		},
-		{
-			"key": "小姐姐",
-			"name": "哔哩┃姐姐",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./lib/哔哩xjj.json",
-			"jar": "./fm.jar"
-		},
+		
 		{
 			"key": "车模",
 			"name": "哔哩┃车模",
@@ -126,6 +117,7 @@
 			"quickSearch": 0,
 			"changeable": 0
 		},
+		
 		{
 			"key": "演唱会自定义",
 			"name": "流行┃音乐",
