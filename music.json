@@ -63,17 +63,16 @@
 			"ext": "./lib/荐片.js",
 			"playerType": "1"
 		},
-
-		 {
-      "key": "农民",
-      "name": "农民┃秒播",
+{
+      "key": "csp_XBPQ_可可",
+      "name": "可可┃影视",
       "type": 3,
-      "api": "csp_Nmys",
-      "timeout": 15,
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/nmys.json"
+      "filterable": 1,
+      	"ext": "./lib/可可.json",
+			"jar": "./xyqxbpq.jar"
     },
 		{
 			"key": "南瓜",
