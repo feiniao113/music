@@ -244,8 +244,9 @@
 			"key": "Jrsjs",
 			"name": "Jrs┃球迷",
 			"type": 3,
-			"api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-			"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jrk.js",
+			"api": "./lib/drpy2.min.js",
+			"ext": "./lib/jrk.js",
+			
 			"style": {
 				"type": "list"
 			},
@@ -257,8 +258,9 @@
 			"key": "310js",
 			"name": "310┃看球",
 			"type": 3,
-			"api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-			"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/310直播.js",
+			"api": "./lib/drpy2.min.js",
+			"ext": "./lib/310直播.js",
+			
 			"style": {
 				"type": "list"
 			},
