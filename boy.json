@@ -88,37 +88,6 @@
 			"jar": "./fm.jar"
 		},
 		{
-			"key": "虎牙直播js",
-			"name": "虎牙┃直播",
-			"type": 3,
-			"api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-			"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/huya2.js",
-			"style": {
-				"type": "rect",
-				"ratio": 1.755
-			},
-			"playerType": "1",
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0
-		},
-		{
-			"key": "斗鱼js",
-			"name": "斗鱼┃直播",
-			"type": 3,
-			"api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-			"ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
-			"style": {
-				"type": "rect",
-				"ratio": 1.755
-			},
-			"playerType": "1",
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0
-		},
-		
-		{
 			"key": "演唱会自定义",
 			"name": "流行┃音乐",
 			"type": 3,
@@ -194,7 +163,7 @@
 			},
 			"quickSearch": 0,
 			"api": "csp_XBPQ",
-			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+			"jar": "./c (1).txt;md5;1484e86a3a4463eaf8ef41c6832a1df0",
 			"ext": {
 				"主页url": "https://www.xsmp3.com",
 				"数组二次截取": "<ul id=\"post_list_box\">&&</ul",
@@ -229,7 +198,7 @@
 			},
 			"quickSearch": 0,
 			"api": "csp_XBPQ",
-			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+			"jar": "./c (1).txt;md5;1484e86a3a4463eaf8ef41c6832a1df0",
 			"ext": {
 				"主页url": "https://www.psmp3.com",
 				"数组二次截取": "<ul id=\"post_list_box\">&&</ul",
