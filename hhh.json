@@ -160,17 +160,6 @@
 			"quickSearch": 1
 		},
 	
-		
-		{
-			"key": "快看",
-			"name": "快看┃影视",
-			"type": 3,
-			"api": "csp_Kuaikan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"filterable": 1
-		},
 		{ "key": "Ikanbot", "name": "爱看┃影视", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$proxy"},
 		{ "key":"csp_YingShi","name":"影视┃海外","type":3,"api":"csp_YingShi","ext":"proxy"},
 		{ 
