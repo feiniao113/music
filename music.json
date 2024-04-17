@@ -516,6 +516,14 @@
 			"changeable": 0,
 			"ext": "./lib/biliych.json"
 		},
+{
+			"key": "Iktv",
+			"name": "KTV┃音乐",
+			"type": 3,
+			"api": "csp_Iktv",
+			"searchable": 1,
+			"changeable": 0
+		},
 		{
 			"key": "Yinyuetai",
 			"name": "音乐┃ MV",
@@ -556,8 +564,7 @@
 			"type": 3,
 			"api": "csp_Kugou",
 			"searchable": 1,
-			"changeable": 0,
-			"jar": "./pg.jar"
+			"changeable": 0
 		},
 		{
 			"key": "drpy_js_A8音乐",
