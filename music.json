@@ -464,15 +464,7 @@
 			"ext": "./lib/酷奇MV.js",
 			"playerType": "2"
 		},
-		{
-			"key": "Iktv",
-			"name": "KTV┃现场",
-			"type": 3,
-			"api": "csp_Iktv",
-			"searchable": 1,
-			"changeable": 0,
-			"jar": "./pg.jar"
-		},
+	
 		
 		
 		{
