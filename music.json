@@ -77,7 +77,7 @@
       "quickSearch": 1,
       "filterable": 1,
       	"ext": "./lib/可可.json",
-			"jar": "./xbpq.jar"
+			"jar": "./xyqxbpq.jar"
     },
 		{
 			"key": "南瓜",
