@@ -3,7 +3,18 @@
 	"wallpaper": "",
 	"warningText": "免费线路，请勿购买",
 	"sites": [
-		{
+		
+{
+			"key": "drpy_360",
+			"name": "360┃影视",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./lib/360ys.js"
+		},
+{
 			"key": "酷看",
 			"name": "酷看┃无广",
 			"type": 3,
