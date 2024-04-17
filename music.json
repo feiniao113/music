@@ -1,5 +1,6 @@
 {
-	"spider":"./pg.jar",
+	
+	"spider": "./pg.jar;md5;0e252f5adb9f65c15845718c57971cbe",
 	"wallpaper": "",
 	"warningText": "免费线路，请勿购买",
 	"sites": [
