@@ -81,14 +81,14 @@
 		},
 {
       "key": "csp_XBPQ_可可",
-      "name": "可可┃影视",
+      "name": "可可┃有广",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       	"ext": "./lib/可可.json",
-			"jar": "./xbpq.jar"
+			"jar": "./xyqxbpq.jar"
     },
 		{
 			"key": "南瓜",
