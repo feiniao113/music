@@ -188,7 +188,7 @@
 		},
 {
 			"key":"XBPQ_电影先生",
-			"name": "电影先生|XBPQ",
+			"name": "电影┃先生",
 			"jar": "./XBPQ.jar",
 			"type": 3,
 			"api": "csp_XBPQ",
@@ -207,10 +207,10 @@
 				"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
 			}
 		},
-		{"key": "XBPQ_麻衣影院","name":"麻衣影院|XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./XBPQ.jar",
+		{"key": "XBPQ_麻衣影院","name":"麻衣┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./XBPQ.jar",
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
 		},
-	{"key":"XBPQ_文才","name":"文才|影视","type":3,"api":"csp_XBPQ", "jar":"./XBPQ.jar",
+	{"key":"XBPQ_文才","name":"文才┃影视","type":3,"api":"csp_XBPQ", "jar":"./XBPQ.jar",
 			"ext":{"分类": "国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧",
 				"分类值": "14&42&22&26&36&25&30&23&69&15&16&62",
 				"分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
@@ -253,7 +253,7 @@
 			"changeable": 0,
 			"quickSearch": 1,
 			"playerType": "2",
-			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "./XBPQ.jar",
 			"api": "csp_XBPQ",
 			"ext": {
 				"嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
