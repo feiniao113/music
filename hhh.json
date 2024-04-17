@@ -160,7 +160,7 @@
 			"quickSearch": 1
 		},
 	
-		{"key":"drpy_js_人人影视","name":"人人┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/yyets.js", "quickSearch":1, "changeable":1, "timeout":60,
+		{"key":"drpy_js_人人影视","name":"人人┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/yyets.js", "quickSearch":1, "changeable":1, "timeout":60,
 			"style": {
 				"type": "list",
 				"ratio": 1.1
@@ -168,7 +168,7 @@
 		},
 		
 		
-		{"key":"drpy_js_酷吧","name":"酷吧┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
+		{"key":"drpy_js_酷吧","name":"酷吧┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
 	
 		{
 			"key": "快看",
@@ -201,15 +201,7 @@
 			"changeable": 0,
 			"ext":"proxy"
 		},
-		{
-			"key": "獨播",
-			"name": "獨播 | 海外",
-			"type": 3,
-			"api": "csp_XPathMacFilter",
-			"searchable": 1,
-			"changeable": 0,
-			"ext": "./lib/duboku.json$$$proxy"
-		},
+		
 		{
 			"key": "haiwaikan",
 			"name": "海外┃看看",
@@ -253,16 +245,7 @@
 				"经典片"
 			]
 		},
-		{
-			"key": "ikun",
-			"name": "Ikun┃影视",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/https://ikunzyapi.com/api.php/provide/vod/?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"playerType":1,
-			"searchable": 1,
-			"changeable": 1
-		},
+		
 		{
 			"key": "飞速资源",
 			"name": "飞速┃资源",
@@ -349,29 +332,12 @@
 				"欧美动漫",
 				"港台动漫",
 				"海外动漫"
-			]
-		},
-		{
-			"key": "愛看",
-			"name": "愛看┃影视",
-			"type": 3,
-			"api": "./lib/ikanbot_open.js",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
-			"key": "短剧",
-			"name": "短剧┃影视",
-			"type": 3,
-			"api": "csp_Duanju",
-			"searchable": 0,
-			"changeable": 1,
-			"ext":"https://www.duanjutv.icu"
-		},
+			]},
 	
 		{
 			"key": "酷狗",
-			"name": "酷狗",
+			"name": "酷狗┃音乐",
+			
 			"type": 3,
 			"api": "csp_Kugou",
 			"searchable": 1,
@@ -379,7 +345,7 @@
 		},
 		{
 			"key": "Iktv",
-			"name": "KTV",
+			"name": "KTV┃音乐",
 			"type": 3,
 			"api": "csp_Iktv",
 			"searchable": 1,
