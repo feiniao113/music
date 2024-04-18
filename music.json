@@ -88,20 +88,7 @@
 			"filterable": 1,
 			"ext": "./lib/可可.json",
 			"jar": "./xyqxbpq.jar"
-		}, {
-    "key": "csp_奇异开心",
-    "name": "奇异┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,    
-    "jar":"./xbpq.jar",
-    "ext": {
-        "分类url": "https://www.777111.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/year/{year}/page/{catePg}.html;;mak",
-        "分类": "电影$1#连续剧$2#综艺$3#动漫$4"
-    }
-},                
+		}, 
 		
 		{
 			"key": "南瓜",
