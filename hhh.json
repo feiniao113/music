@@ -130,7 +130,7 @@
 		},
 		{
 			"key": "wangfei",
-			"name": " ‍🔥网飞BPQ",
+			"name": "网飞┃影视",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "./XBPQ.jar",
@@ -141,66 +141,10 @@
 				"分类": "电影$dy#剧集$juji#国产$guochanju#港剧$xianggangju#动漫$dongman"
 			}
 		},
-		{
-			"key": "libhd",
-			"name": " ‍🔥利播BPQ",
-			"type": 3,
-			"jar": "./XBPQ.jar",
-			"api": "csp_XBPQ",
-			"ext": {
-				"分类": "电影$1#剧集$2#动漫$4",
-				"搜索url": "https://www.libhd.com/vodsearch/{wd}----------{pg}---.html",
-				"分类url": "https://www.libhd.com/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html;;ak",
-				"图片": "data-src=\"&&\"",
-				"简介": "text cor3&&</div>",
-				"线路数组": "\"swiper-slide&&</a>[不包含:夸克]",
-				"线路标题": "</i>&&"
-			}
-		},
-		{
-			"key": "OK",
-			"name": " ‍🔥OK影视BPQ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "./XBPQ.jar",
-			"ext": {
-				"分类url": "https://www.okys5.com/show/{cateId}-{area}-------{catePg}---{year}.html",
-				"分类": "电影$1#电视剧$2"
-			}
-		},
-		{
-			"key": "XBPQ_AMD",
-			"name": " ‍🔥AMD|BPQ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "./XBPQ.jar",
-			"ext": {
-				"搜索url": "https://cms.fdue.de/index.php/vod/search.html?wd={wd}",
-				"分类url": "https://cms.fdue.de/index.php/vod/type/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-				"分类": "电影&连续剧&动漫",
-				"分类值": "1&2&4"
-			}
-		},
-		{
-			"key": "PPTV06",
-			"name": " ‍🔥PPTV┃BPQ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "./XBPQ.jar",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"分类url": "https://www.pptv06.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-				"分类": "电影$1#电视剧$2#动漫$4"
-			}
-		},
+		
 		{
 			"key": " 茶杯狐",
-			"name": "  ‍🔥茶杯狐BPQ",
+			"name": " 茶杯┃影视",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 0,
