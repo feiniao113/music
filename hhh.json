@@ -186,23 +186,7 @@
 				"分类url": "https://moguys.xyz/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ak"
 			}
 		},
-		{
-			"key": "小草",
-			"name": "小草电影",
-			"type": 3,
-			"jar": "./XBPQ.jar",
-			"api": "csp_XBPQ",
-			"ext": {
-				"直接播放": "1",
-				"搜索url": "https://www.golden06.com/search/{wd}/{pg}",
-				"数组": "<p&&</p>",
-				"标题": "title=\"&&\"",
-				"链接": "href=\"&&\"",
-				"图片": "src=\"&&\"",
-				"分类": "热门影片$hits#最佳影片$best/2024-03/",
-				"分类url": "https://www.golden06.com/{cateId}/{catePg}[https://www.golden06.com/{cateId}]"
-			}
-		},
+		
 		{
 			"key": "NanGua",
 			"name": "南瓜┃弹幕",
