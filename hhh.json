@@ -151,7 +151,7 @@
     "filterable": 1,    
     "jar":"./xbpq.jar",
     "ext": {
-        "分类url": "https://www.777111.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/year/{year}/page/{catePg}.html;;mak",<
+        "分类url": "https://www.777111.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/year/{year}/page/{catePg}.html;;mak",
         "分类": "电影$1#连续剧$2#综艺$3#动漫$4"
     }
 },                
