@@ -531,7 +531,8 @@
 			"type": 3,
 			"api": "csp_Iktv",
 			"searchable": 1,
-			"changeable": 0
+			"changeable": 0,
+"jar": "./pg.jar;md5;0e252f5adb9f65c15845718c57971cbe"
 		},
 		{
 			"key": "Yinyuetai",
