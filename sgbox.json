@@ -7,6 +7,10 @@
 		{
 			"url": "https://raw.githubusercontent.com/feiniao113/music/main/boy.json",
 			"name": "For Boys"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/feiniao113/music/main/hhh.json",
+			"name": "AI去广"
 		}
 	]
 }
