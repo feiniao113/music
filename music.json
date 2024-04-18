@@ -744,14 +744,16 @@
 				"科幻片",
 				"纪录片",
 				"经典片"
-			]
+			],
+"jar": "./pg.jar;md5;0e252f5adb9f65c15845718c57971cbe"
 		},
 		{
 			"key": "csp_YingShi",
 			"name": "影视┃挂梯",
 			"type": 3,
 			"api": "csp_YingShi",
-			"ext": ""
+			"ext": "",
+"jar": "./pg.jar;md5;0e252f5adb9f65c15845718c57971cbe"
 		},
 		{
 			"key": "drpy_腾讯",
