@@ -1,5 +1,5 @@
 {
-	"spider": "./pg.jar;md5;0e252f5adb9f65c15845718c57971cbe",
+	"spider": "./fan.txt;md5;c84c36278bd8bc95a63449a128074be0"
 	"wallpaper": "",
 	"warningText": "免费线路，请勿购买",
 	"sites": [
@@ -21,8 +21,7 @@
 			"timeout": 15,
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "./fan.txt;md5;c84c36278bd8bc95a63449a128074be0"
+			"changeable": 1
 		},
 		{
 			"key": "白嫖",
@@ -33,8 +32,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://www.baipiaoys.com:9092/",
-			"jar": "./fan.txt;md5;c8e7b51e9cf0fae22899ca9470d34c4c"
+			"ext": "https://www.baipiaoys.com:9092/"
 		},
 		{
 			"key": "苹果",
@@ -43,8 +41,7 @@
 			"api": "csp_LiteApple",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "./fan.txt;md5;c8e7b51e9cf0fae22899ca9470d34c4c"
+			"changeable": 1
 		},
 		{
 			"key": "原创",
@@ -54,8 +51,7 @@
 			"timeout": 15,
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "./fan.txt;md5;c8e7b51e9cf0fae22899ca9470d34c4c"
+			"changeable": 1
 		},
 		{
 			"key": "厂长",
@@ -67,8 +63,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://www.cz233.com/",
-			"jar": "./fan.txt;md5;c8e7b51e9cf0fae22899ca9470d34c4c"
+			"ext": "https://www.cz233.com/"
 		},
 		{
 			"key": "drpy_js_荐片",
@@ -126,8 +121,7 @@
 			"api": "csp_YGP",
 			"searchable": 0,
 			"quickSearch": 0,
-			"changeable": 0,
-			"jar": "./fan.txt;md5;c8e7b51e9cf0fae22899ca9470d34c4c"
+			"changeable": 0
 		},
 		{
 			"key": "lf_js_search",
@@ -170,8 +164,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://www.libvio.pw/",
-			"jar": "./fan.txt;md5;c8e7b51e9cf0fae22899ca9470d34c4c"
+			"ext": "https://www.libvio.pw/"
 		},
 		{
 			"key": "Auete",
@@ -182,8 +175,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://auete.pro/",
-			"jar": "./fan.txt;md5;c8e7b51e9cf0fae22899ca9470d34c4c"
+			"ext": "https://auete.pro/"
 		},
 		{
 			"key": "zxzj",
@@ -194,8 +186,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://www.zxzja.com/",
-			"jar": "./fan.txt;md5;c8e7b51e9cf0fae22899ca9470d34c4c"
+			"ext": "https://www.zxzja.com/"
 		},
 		{
 			"key": "csp_Bttoo",
@@ -204,8 +195,7 @@
 			"api": "csp_Bttwoo",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "./fan.txt;md5;c8e7b51e9cf0fae22899ca9470d34c4c"
+			"changeable": 1
 		},
 		{
 			"key": "XBPQ_电影先生",
@@ -325,8 +315,7 @@
 			"playerType": "2",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "./fan.txt;md5;c8e7b51e9cf0fae22899ca9470d34c4c"
+			"changeable": 1
 		},
 		{
 			"key": "新6V",
@@ -336,8 +325,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"ext": "http://www.xb6v.com/",
-			"jar": "./fan.txt;md5;c8e7b51e9cf0fae22899ca9470d34c4c"
+			"ext": "http://www.xb6v.com/"
 		},
 		{
 			"key": "drpy_js_子子影视",
@@ -535,8 +523,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0,
-			"ext": "./lib/biliych.json",
-			"jar": "./fan.txt;md5;c8e7b51e9cf0fae22899ca9470d34c4c"
+			"ext": "./lib/biliych.json"
 		},
 		{
 			"key": "Iktv",
@@ -567,8 +554,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"changeable": 0,
-			"ext": "./lib/MTV.json",
-			"jar": "./fan.txt;md5;c8e7b51e9cf0fae22899ca9470d34c4c"
+			"ext": "./lib/MTV.json"
 		},
 		{
 			"key": "drpy_js_酷奇MV",
@@ -818,8 +804,7 @@
 			"style": {
 				"type": "rect",
 				"ratio": 3.8
-			},
-			"jar": "./fan.txt;md5;c8e7b51e9cf0fae22899ca9470d34c4c"
+			}
 		},
 		{
 			"key": "软件",
