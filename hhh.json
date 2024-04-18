@@ -130,7 +130,8 @@
 			}
 		},
 		
-		
+		{"key": "wangfei","name": " ‍🔥网飞BPQ","type": 3,"api": "csp_XBPQ",   "jar": "./XBPQ.jar","ext": {"线路数组":"<div class=\"module-tab-item&&</div>[排序:][排序:HN线路>SO线路>KK线路]","线路标题":"<span>&&</small>[替换:</span><small>>>✮更新]","分类url": "https://www.wangfei.live/vodshow/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$dy#剧集$juji#国产$guochanju#港剧$xianggangju#动漫$dongman"}},
+
 		{
 			"key": "NanGua",
 			"name": "南瓜┃弹幕",
