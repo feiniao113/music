@@ -190,7 +190,7 @@
 			"key": "小草",
 			"name": "小草电影",
 			"type": 3,
-			"jar": ".XBPQ.jar",
+			"jar": "./XBPQ.jar",
 			"api": "csp_XBPQ",
 			"ext": {
 				"直接播放": "1",
