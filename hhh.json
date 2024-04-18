@@ -141,7 +141,22 @@
 				"分类": "电影$dy#剧集$juji#国产$guochanju#港剧$xianggangju#动漫$dongman"
 			}
 		},
-		  
+{
+    "key": "csp_奇异开心",
+    "name": "奇异┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,    
+    "jar":"./xbpq.jar",
+    "ext": {
+        "分类url": "https://www.777111.xyz/index.php/vod/show/{cateId}--{class}--{year}--{catePg}.html;;a",
+        "分类": "电影$1#连续剧$2#综艺$3#动漫$4"
+    }
+},       
+
+		
 		
 		{
 			"key": "NanGua",
