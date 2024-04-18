@@ -103,7 +103,7 @@
 		
 {
       "key": "BT天堂",
-      "name":"BT ┃ 天堂",
+      "name":"BT ┃ 天堂-测试",
       "type":3,
       "api":"csp_XBPQ",
       "searchable":1,
@@ -114,7 +114,7 @@
     },
 		{
       "key": "bugu",
-      "name":"布谷 ┃ 影视",
+      "name":"布谷 ┃ 影视-测试",
       "type":3,
       "api":"csp_XBPQ",
       "searchable":1,
