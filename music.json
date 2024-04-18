@@ -514,7 +514,8 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0,
-			"ext": "./lib/biliych.json"
+			"ext": "./lib/biliych.json",
+"jar": "./fan.txt;md5;c8e7b51e9cf0fae22899ca9470d34c4c"
 		},
 {
 			"key": "Iktv",
