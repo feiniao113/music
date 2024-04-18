@@ -142,30 +142,7 @@
 			}
 		},
 		
-		{
-			"key": " 茶杯狐",
-			"name": " 茶杯┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 0,
-			"quickSearch": 1,
-			"filterable": 1,
-			"playerType": "2",
-			"jar": "./XBPQ.jar",
-			"ext": {
-				"主页url": "https://www.cupfox.cc",
-				"数组": "li class=\"fed-list-item fed-padding fed&&</li>",
-				"图片": "data-original=\"&&\"",
-				"标题": "fed-list-title*>&&</a>",
-				"副标题": "fed-text-center\">&&</span>",
-				"线路数组": "class=\"fed-padding fed-col-xs4&&</li>",
-				"线路标题": ">&&<",
-				"跳转播放链接": "var now=\"&&\"",
-				"分类url": "https://www.cupfox.cc/fox/{cateId}-{catePg}.html",
-				"分类": "电影&电视剧&综艺&动漫&伦理",
-				"分类值": "1&2&3&4&20"
-			}
-		},
+		
 		{
 			"key": "NanGua",
 			"name": "南瓜┃弹幕",
