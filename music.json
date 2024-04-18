@@ -566,7 +566,8 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"changeable": 0,
-			"ext": "./lib/MTV.json"
+			"ext": "./lib/MTV.json",
+			"jar": "./fan.txt;md5;c8e7b51e9cf0fae22899ca9470d34c4c"
 		},
 		{
 			"key": "drpy_js_酷奇MV",
