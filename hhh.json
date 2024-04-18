@@ -101,28 +101,118 @@
 			}
 		},
 		
+  },
+{     
+"key": "zying",      
+"name": "追影┃BPQ",      
+"type": 3,      
+"api": "csp_XBPQ",   
+"jar": "./XBPQ.jar",
+"ext": {
+
+
+  "线路数组": "data-hash=\"slide{1}\"&&</small>[排序:4K蓝光]",
+"搜索url":"http://vip.zhuiying.cyou/index.php/vod/search/wd/{wd}.html",
+"分类url":"http://vip.zhuiying.cyou/index.php/vod/show/id/{cateId}/page/{catePg}/are/{are}/by/{by}/class/{class}/lang/{lang}/year/{year}.html",
+"分类":"电影$2#剧集$1#综艺$3#动漫$4#短剧$20#体育$21"
+
+
+}
+},
+
 {
-      "key": "BT天堂",
-      "name":"BT ┃ 天堂-测试",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{"分类链接": "https://www.bt-tt.com/html/{cateId}-{catePg}.html"},
-      "jar": "./XBPQ.jar"
-    },
-		{
-      "key": "bugu",
-      "name":"布谷 ┃ 影视-测试",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{"分类链接": "https://www.bugutv.org/{cateId}/page/{catePg}"},
-      "jar": "./XBPQ.jar"
-    },
+            "key": "ai-看客",
+            "name": "看客|BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+"jar": "./XBPQ.jar",
+            "filterable": 1,
+            "ext": {
+                "主页url": "https://kanke.cc/",
+                "分类url": "https://kanke.cc/Show/{cateId}-{area}--{class}-{lang}----{catePg}---{year}/",
+                "分类": "电影&电视剧&记录&番剧",
+                "分类值": "2&1&3&4",
+                "AI为爱发光":""
+            }
+        },
+
+
+{ 
+            "key": "爱乐",
+            "name": "爱乐影院",
+            "type": 3,
+            "jar":"./XBPQ.jar",
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext":{
+   "分类url":"https://66686.xyz/vod/show/id/{cateId}/{area}/{year}/{lang}/{letter}/{catePg}.html",
+    
+    "分类":"电影$6#电视剧$13#综艺$3#动漫$4#伦理$37"      
+    }
+        },
+{
+            "key": "novipnoad.vip",
+            "name": "novip┃影视",
+            "type": 3,
+            "jar": "./xbpq.jar",
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "主页url": "https://www.novipnoad.top/",
+                "简介": "class=\"detail-content\" style=*>&&</span>",
+                "数组": "stui-vodlist__box\">&&<li>",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "pic-text text-right\">&&</span>",
+                "搜索url": "https://www.novipnoad.top/search/{wd}----------{catePg}---.html",
+                "线路数组": "data-toggle=&&</a>[不包含：视频下载(夸克网盘)]",
+                "线路标题": ">&&</a>[替换:（>>共#）>>集]",
+                "播放数组": "stui-content__playlist clearfix sort-list\">&&</ul>",
+                "播放列表": "<a&&</a>",
+                "播放标题": ">&&</a>",
+                "分类url": "https://www.novipnoad.top/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mak",
+                "分类": "电影$1#电视剧$2#动漫$3#综艺$4#纪录片$30#短剧$21"
+            }
+        },
+        {
+            "key": "蘑菇",
+            "name": "蘑菇┃剧场",
+            "type": 3,
+            "jar": "./xbpq.jar",
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "主页url": "https://moguys.xyz/",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+                "搜索url": "https://moguys.xyz/vodsearch/-------------.html?wd={wd}",
+                "分类url": "https://moguys.xyz/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ak"
+            }
+        },
+{
+  "key": "小草",
+  "name": "小草电影",
+  "type": 3,
+  "jar": ".XBPQ.jar",
+  "api": "csp_XBPQ",
+  "ext": {
+    "直接播放": "1",
+    "搜索url": "https://www.golden06.com/search/{wd}/{pg}",
+    "数组": "<p&&</p>",
+    "标题": "title=\"&&\"",
+    "链接": "href=\"&&\"",
+    "图片": "src=\"&&\"",
+    "分类": "热门影片$hits#最佳影片$best/2024-03/",
+    "分类url": "https://www.golden06.com/{cateId}/{catePg}[https://www.golden06.com/{cateId}]"
+  }
+},
 		{
 			"key": "NanGua",
 			"name": "南瓜┃弹幕",
