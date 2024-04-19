@@ -565,14 +565,18 @@
 			"ext": "./lib/酷奇MV.js",
 			"playerType": "2"
 		},
-		{
-			"key": "酷狗",
-			"name": "酷狗┃音乐",
-			"type": 3,
-			"api": "csp_Kugou",
-			"searchable": 1,
-			"changeable": 0
-		},
+{
+            "key": "music",
+            "name": "酷狗┃音乐",
+            "type": 3,
+            "api": "csp_Music",
+            
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
+        },
+		
 		{
 			"key": "drpy_js_A8音乐",
 			"name": "A 8┃音乐",
