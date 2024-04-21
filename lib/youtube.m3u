@@ -1,243 +1,33 @@
+#EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
+
 #EXTM3U
-#EXTINF:-1 tvg-id="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="MY TV",8TV (720p) [Geo-blocked]
-https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MY TV",Astro Awani (720p)
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MY TV",Berita RTM (720p) [Not 24/7]
-https://ythls.onrender.com/channel/UCjUxj4cyy_F0tVCT8WfmdZQ.m3u8
-#EXTINF:-1 tvg-id="tvNMoviesAsia.hk" tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="Movies",tvN Movies (Indonesian Subtitle) (576p)
-http://210.210.155.37/dr9445/h/h21/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MY TV",TV6 [Geo-blocked]
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MY TV",TV1 [Geo-blocked]
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MY TV",TV2 [Geo-blocked]
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
-#EXTINF:-1 tvg-id="Thrill.hk" tvg-logo="https://i.imgur.com/Y282owj.png" group-title="Movies",Thrill (576p)
-http://210.210.155.37/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 tvg-id="SukanRTM.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png" group-title="Undefined",Sukan RTM [Geo-blocked]
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Entertainment",ROCK Entertainment (576p) [Geo-blocked]
-http://210.210.155.37/dr9445/h/h16/index.m3u8
-#EXTINF:-1 tvg-id="ROCKAction.sg" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png" group-title="Movies",ROCK Action (576p) [Geo-blocked]
-http://210.210.155.37/dr9445/h/h15/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MY TV",Okey RTM [Geo-blocked]
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
-#EXTINF:-1 tvg-id="KIX.hk" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="Entertainment",Kix (Indonesian Subtitle) (576p)
-http://210.210.155.37/dr9445/h/h07/index.m3u8
-#EXTINF:-1 tvg-id="KPlus.sg" tvg-logo="https://i.imgur.com/RbS0q71.png" group-title="Entertainment",K+ (Indonesian subtitle) (576p)
-http://210.210.155.37/uq2663/h/h08/index.m3u8
-#EXTINF:-1 tvg-id="FTV.tw" tvg-logo="https://i.imgur.com/q8ahtbT.png" group-title="MY TV",FTV (民視) (720p) [Not 24/7]
-http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 tvg-id="CCM.hk" tvg-logo="https://i.imgur.com/1VhXilw.png" group-title="Movies",Celestial Classic 天映经典 (Celestial Classic Movies) (Indonesian Subtitle) (576p)
-http://210.210.155.37/qwr9ew/s/s31/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="General",CCTV-4 Asia (576p)
-http://210.210.155.37/qwr9ew/s/s19/index.m3u8
-#EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia (576p)
-http://210.210.155.37/dr9445/h/h03/index.m3u8
-#EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia Live Event (720p)
-https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-#EXTINF:-1 tvg-id="BernamaTV.my" tvg-logo="https://i.imgur.com/skJjF4m.png" group-title="MY TV",Bernama TV (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
-https://cntv.sbs/tv?auth=2309081833&id=cctv1
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
-https://cntv.sbs/tv?auth=2309081833&id=cctv2
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
-https://cntv.sbs/tv?auth=2309081833&id=cctv3
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
-https://cntv.sbs/tv?auth=2309081833&id=cctv4
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
-https://cntv.sbs/tv?auth=2309081833&id=cctv5
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
-https://cntv.sbs/tv?auth=2309081833&id=cctv5p
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
-https://cntv.sbs/tv?auth=2309081833&id=cctv6
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
-https://cntv.sbs/tv?auth=2309081833&id=cctv7
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
-https://cntv.sbs/tv?auth=2309081833&id=cctv8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
-https://cntv.sbs/tv?auth=2309081833&id=cctv9
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV-10 科教
-https://cntv.sbs/tv?auth=2309081833&id=cctv10
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲
-https://cntv.sbs/tv?auth=2309081833&id=cctv11
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV-12 社会与法
-https://cntv.sbs/tv?auth=2309081833&id=cctv12
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
-https://cntv.sbs/tv?auth=2309081833&id=cctv13
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV-14 少儿
-https://cntv.sbs/tv?auth=2309081833&id=cctv14
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
-https://cntv.sbs/tv?auth=2309081833&id=cctv15
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
-https://cntv.sbs/tv?auth=2309081833&id=cctv16
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
-https://cntv.sbs/tv?auth=2309081833&id=cctv17
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K 超高清
-https://cntv.sbs/tv?auth=2309081833&id=cctv4k
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 4K
-https://cntv.sbs/tv?auth=2309081833&id=cctv164k
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
-https://cntv.sbs/tv?auth=2309081833&id=bjws
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
-https://cntv.sbs/tv?auth=2309081833&id=dfws
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
-https://cntv.sbs/tv?auth=2309081833&id=tjws
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
-https://cntv.sbs/tv?auth=2309081833&id=cqws
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-https://cntv.sbs/tv?auth=2309081833&id=hljws
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
-https://cntv.sbs/tv?auth=2309081833&id=jlws
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
-https://cntv.sbs/tv?auth=2309081833&id=lnws
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-https://cntv.sbs/tv?auth=2309081833&id=nmws
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视",宁夏卫视
-https://cntv.sbs/tv?auth=2309081833&id=nxws
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
-https://cntv.sbs/tv?auth=2309081833&id=gsws
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视",青海卫视
-https://cntv.sbs/tv?auth=2309081833&id=qhws
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视",陕西卫视
-https://cntv.sbs/tv?auth=2309081833&id=sxws
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
-https://cntv.sbs/tv?auth=2309081833&id=hbws
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视",山西卫视
-https://cntv.sbs/tv?auth=2309081833&id=sxiws
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
-https://cntv.sbs/tv?auth=2309081833&id=sdws
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
-https://cntv.sbs/tv?auth=2309081833&id=ahws
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
-https://cntv.sbs/tv?auth=2309081833&id=hnws
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
-https://cntv.sbs/tv?auth=2309081833&id=hubws
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
-https://cntv.sbs/tv?auth=2309081833&id=hunws
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
-https://cntv.sbs/tv?auth=2309081833&id=jxws
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
-https://cntv.sbs/tv?auth=2309081833&id=jsws
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
-https://cntv.sbs/tv?auth=2309081833&id=zjws
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
-https://cntv.sbs/tv?auth=2309081833&id=dnws
-#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视",厦门卫视
-https://cntv.sbs/tv?auth=2309081833&id=xmws
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
-https://cntv.sbs/tv?auth=2309081833&id=gdws
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
-https://cntv.sbs/tv?auth=2309081833&id=szws
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
-https://cntv.sbs/tv?auth=2309081833&id=gxws
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
-https://cntv.sbs/tv?auth=2309081833&id=ynws
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
-https://cntv.sbs/tv?auth=2309081833&id=gzws
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
-https://cntv.sbs/tv?auth=2309081833&id=scws
-#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视",康巴卫视
-https://cntv.sbs/tv?auth=2309081833&id=kbws
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视",新疆卫视
-https://cntv.sbs/tv?auth=2309081833&id=xjws
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
-https://cntv.sbs/tv?auth=2309081833&id=btws
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视",西藏卫视
-https://cntv.sbs/tv?auth=2309081833&id=xzws
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
-https://cntv.sbs/tv?auth=2309081833&id=hinws
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视",三沙卫视
-https://cntv.sbs/tv?auth=2309081833&id=ssws
-#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="卫视",海峡卫视
-https://cntv.sbs/tv?auth=2309081833&id=hxws
-#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="卫视",北京纪实科教
-https://cntv.sbs/tv?auth=2309081833&id=bjjskj
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海",五星体育
-https://cntv.sbs/tv?auth=2309081833&id=wxty
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海",东方财经
-https://cntv.sbs/tv?auth=2309081833&id=dfcj
-#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海",第一财经
-https://cntv.sbs/tv?auth=2309081833&id=dycj
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="数字",哈哈炫动
-https://cntv.sbs/tv?auth=2309081833&id=hhxd
-#EXTINF:-1 tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="上海",法治天地
-https://cntv.sbs/tv?auth=2309081833&id=fztd
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字",欢笑剧场
-https://cntv.sbs/tv?auth=2309081833&id=hxjc
-#EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="数字",都市剧场
-https://cntv.sbs/tv?auth=2309081833&id=dsjc
-#EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海",上海新闻综合
-https://cntv.sbs/tv?auth=2309081833&id=shxwzh
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海",上海都市
-https://cntv.sbs/tv?auth=2309081833&id=shds
-#EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="上海",上海ICS外语
-https://cntv.sbs/tv?auth=2309081833&id=shics
-#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海",纪实人文
-https://cntv.sbs/tv?auth=2309081833&id=shjsrw
-#EXTINF:-1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="上海",七彩戏剧
-https://cntv.sbs/tv?auth=2309081833&id=qcxj
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="数字",动漫秀场
-https://cntv.sbs/tv?auth=2309081833&id=dmxc
-#EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="数字",劲爆体育
-https://cntv.sbs/tv?auth=2309081833&id=jbty
-#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="数字",新视觉
-https://cntv.sbs/tv?auth=2309081833&id=xsj
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="数字",游戏风云
-https://cntv.sbs/tv?auth=2309081833&id=yxfy
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="上海",生活时尚
-https://cntv.sbs/tv?auth=2309081833&id=shss
-#EXTINF:-1 tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="上海",金色学堂
-https://cntv.sbs/tv?auth=2309081833&id=jspd
-#EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字",乐游
-https://cntv.sbs/tv?auth=2309081833&id=qjs
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="数字",魅力足球
-https://cntv.sbs/tv?auth=2309081833&id=mlzq
-#EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="上海",上海教育
-https://cntv.sbs/tv?auth=2309081833&id=shjy
-#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="湖南",茶频道
-https://cntv.sbs/tv?auth=2309081833&id=cpd
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="湖南",快乐垂钓
-https://cntv.sbs/tv?auth=2309081833&id=klcd
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="湖南",金鹰纪实
-https://cntv.sbs/tv?auth=2309081833&id=jyjs
-#EXTINF:-1 tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="湖南",金鹰卡通
-https://cntv.sbs/tv?auth=2309081833&id=jykt
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="数字",嘉佳卡通
-https://cntv.sbs/tv?auth=2309081833&id=jjkt
-#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="数字",财富天下
-https://cntv.sbs/tv?auth=2309081833&id=cftx
-#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="教育",CETV1
-https://cntv.sbs/tv?auth=2309081833&id=cetv1
-#EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="教育",CETV2
-https://cntv.sbs/tv?auth=2309081833&id=cetv2
-#EXTINF:-1 tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="教育",CETV3
-http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
-#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="教育",CETV4
-https://cntv.sbs/tv?auth=2309081833&id=cetv4
-#EXTINF:-1 tvg-id="梨园" tvg-name=梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="河南",梨园频道
-https://pi.0472.org/tv/hn.php?id=154
-#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="数字",中国天气
-https://cntv.sbs/tv?auth=2309081833&id=zgtq
-#EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://live.fanmingming.com/tv/福建综合.png" group-title="福建",福建综合
-https://cntv.sbs/tv?auth=2309081833&id=fjzh
-#EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://live.fanmingming.com/tv/福建新闻.png" group-title="福建",福建新闻
-https://cntv.sbs/tv?auth=2309081833&id=fjxw
-#EXTINF:-1 tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://live.fanmingming.com/tv/福建电视剧.png" group-title="福建",福建电视剧
-https://cntv.sbs/tv?auth=2309081833&id=fjdsj
-#EXTINF:-1 tvg-id="福建文体" tvg-name="福建文体" tvg-logo="https://live.fanmingming.com/tv/福建文体.png" group-title="福建",福建文体
-https://cntv.sbs/tv?auth=2309081833&id=fjwt
-#EXTINF:-1 tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://live.fanmingming.com/tv/福建少儿.png" group-title="福建",福建少儿
-https://cntv.sbs/tv?auth=2309081833&id=fjse
-#EXTINF:-1 tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://live.fanmingming.com/tv/福建旅游.png" group-title="福建",福建旅游
-https://cntv.sbs/tv?auth=2309081833&id=fjly
-#EXTINF:-1 tvg-id="福建经济" tvg-name="福建经济" tvg-logo="https://live.fanmingming.com/tv/福建经济.png" group-title="福建",福建经济
-https://cntv.sbs/tv?auth=2309081833&id=fjjj
-#EXTINF:-1 tvg-id="福建公共" tvg-name="福建公共" tvg-logo="https://live.fanmingming.com/tv/福建公共.png" group-title="福建",福建公共
-https://cntv.sbs/tv?auth=2309081833&id=fjgg
-#EXTINF:-1 tvg-id="福建教育" tvg-name="福建教育" tvg-logo="https://live.fanmingming.com/tv/福建教育.png" group-title="福建",福建教育
-https://cntv.sbs/tv?auth=2309081833&id=fjjy
-#EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZOVGNLM09nRDRLSS0yUFFFTDJrbS1zVEw0dUQzQ0xyN0pSVF9UclpPZGcyUklFckN1VVNuRkFLUWZvTzZhcG5xV0lsSVBZTUZMV2lIUXFhbVBrYUVWRDJ1N2paUUFLY2NCRHVEdFlVT0FOUXRDcWRiNGI3c0lFQXlNMWsxSlYtMHI2QlBFM1F3NDYybTdIYno0cC1OT2tRVWpZa1d6cWJCUUplUDh3ZFE4UTFKVlozTFJFcmgxMFY0cThxTnhFZFU5ODlEZWR6NGpoN0Jla3E4U3dtS3VySldiLWRSM091b1U2SVFUTkZnNG51ZnNnaktBV0dNVEd0SUNzRzNFbDVxZG9wTmdhblBjNjFaOE9QTzg4djZSTllwenZzUXZCV2I4Q1RvenlOOEhlWmR4ZkwzV1p4dElfckpCNjFYUTBtbnJ5QkZ6MmN4c0daLXBReDlycFJpUGc9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDExNiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmTlRjSzNPZ0Q0S0ktMlBRRUwya20tc1RMNHVEM0NMcjdKUlRfVHJaT2RnMlJJRXJDdVVTbkZBS1Fmb082YXBucVdJbElQWU1GTFdpSFFxYW1Qa2FFVkQydTdqWlFBS2NjQkR1RHRZVU9BTlF0Q3FkYjRiN3NJRUF5TTFrMUpWLTByNkJQRTNRdzQ2Mm03SGJ6NHAtTk9rUVVqWWtXenFiQlFKZVA4d2RROFExSlZaM0xSRXJoMTBWNHE4cU54RWRVOTg5RGVkejRqaDdCZWtxOFN3bUt1ckpXYi1kUjNPdW9VNklRVE5GZzRudWZzZ2pLQVdHTVRHdElDc0czRWw1cWRvcE5nYW5QYzYxWjhPUE84OHY2Uk5ZcHp2c1F2QldiOENUb3p5TjhIZVpkeGZMM1daeHRJX3JKQjYxWFEwbW5yeUJGejJjeHNHWi1wUXg5cnBSaVBnPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=jEVLU1fIxEA3qa6YJadK5JVFkmg%3d
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZGYjZPaTVRVU9kWUdobVV6bUdJdUs0d21FYzZ3QnBZZXdYVmtmSFY4XzlQZlR1MDhWNnZxMDhfMXp3Z2dPLVd3eVVUR1A0bTg4WEJFNi1IejFTRUVsanVfWG5yOEFkd3NNZW56aXZrSHBJY3NlV1lTbWJ0ZlY4eHUtRFkyWW5OOC1zYkdkR3NhMnYzNzljaTN1QkxwcER6WHdaQWptRmJvbDFGT1JyR3l1N2hndmpKWEV2YlllTC1TNGhmWVN1bWd4cXpQMnZqOS15dHE4UFYzT1ZiTXhQQzMwM3oySmxodkVnYnZ1M3dVX2FWMGhBbmE3ZExpemRrRHlnLWo1ZWV2MElsSkJMcDBXXzE0aXVmNnRlWmx1RVZFZktiQzQ2Wm5tTFBhaUdCVUVhbkloYkw0UXJOcmEwb0dIRWVOU2pxeUE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMjQiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoOF9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkZiNk9pNVFVT2RZR2htVXptR0l1SzR3bUVjNndCcFlld1hWa2ZIVjhfOVBmVHUwOFY2dnEwOF8xendnZ08tV3d5VVRHUDRtODhYQkU2LUh6MVNFRWxqdV9YbnI4QWR3c01lbnppdmtIcEljc2VXWVNtYnRmVjh4dS1EWTJZbk44LXNiR2RHc2EydjM3OWNpM3VCTHBwRHpYd1pBam1GYm9sMUZPUnJHeXU3aGd2akpYRXZiWWVMLVM0aGZZU3VtZ3hxelAydmo5LXl0cThQVjNPVmJNeFBDMzAzejJKbGh2RWdidnUzd1VfYVYwaEFuYTdkTGl6ZGtEeWctajVlZXYwSWxKQkxwMFdfMTRpdWY2dGVabHVFVkVmS2JDNDZabm1MUGFpR0JVRWFuSWhiTDRRck5yYTBvR0hFZU5TanF5QT09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=BQUzRcNG7Z%2fLoNs1DFds1MvS%2fzo%3d
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel 8" tvg-chno="Channel 8" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776034%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=75&Height=101&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8 / 8 频道
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZCVjA5Yy1OSjRxWnJCb1BBSHVocDd6SEFxakZ4eGNXZm5KVGNab2tlMFUtVkpxcGxpWFYwZWhSWEZ6OExvYTdOVXBONFUtT2FlYWllTDVfS0lkaTg3bVBtXzc2b095Z0pyVFAxb2JNb3F5NGpZTDlZR0tiMzFYWFJkd3pfYTQxWVpYbXJDZVFjQ2pjNEw3aWExTGZfeTRHOF9KM2hlb0l1RWZiYm1EdjBLaXotZHFwX2ZvdnJDNi04XzNQR0Rxa0FPQUxGMEh6WUhORTk0eEJ2WkFPVDVQbERmbmhjRU5iZHh1M01QalZQdFVHc1Y5aDFLOExfU3RSaEE5M25RdTZmb2FFRW1vWk5PRmNBcy1EdjBjNWlEcHlMNXZGVHJNRVhZMnpTdDFSbHBhMmNKZ1R3MEg0cjdWWXdKZ2VDalc2THc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNTciLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoVV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkJWMDljLU5KNHFackJvUEFIdWhwN3pIQXFqRnh4Y1dmbkpUY1pva2UwVS1WSnFwbGlYVjBlaFJYRno4TG9hN05VcE40VS1PYWVhaWVMNV9LSWRpODdtUG1fNzZvT3lnSnJUUDFvYk1vcXk0allMOVlHS2IzMVhYUmR3el9hNDFZWlhtckNlUWNDamM0TDdpYTFMZl95NEc4X0ozaGVvSXVFZmJibUR2MEtpei1kcXBfZm92ckM2LThfM1BHRHFrQU9BTEYwSHpZSE5FOTR4QnZaQU9UNVBsRGZuaGNFTmJkeHUzTVBqVlB0VUdzVjloMUs4TF9TdFJoQTkzblF1NmZvYUVFbW9aTk9GY0FzLUR2MGM1aURweUw1dkZUck1FWFkyelN0MVJscGEyY0pnVHcwSDRyN1ZZd0pnZUNqVzZMdz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=v2VUGFznwylOtLErK%2fLj7epjmZM%3d
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel U" tvg-chno="Channel U" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776040%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U / U 频道
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMbkNiWnpPYWFKMUkzY3lTcXktcDN2emtOTDBnMGFhUG81UUFWNndKRENyTGFEeXZWeGFaeDJ4TkNpNzBXMXJvMWxQajk5aTBTWlU1RGVhWDhjTGdaWVhOMXpKMnJ0TngtaXdPeDNFeWxsZGJ2MnB6LW5MVXkxaXV4UFRsNVVSUnVPdUlYSHpHZW11ejE1NzFndnRoOFJjMEJxcF92LUlDUV85Z2tNWjdnN0RCWEVBb1pGcEd2RGw3OFYyeFZhX3FGRElZMTFHSkhIMDhPRmpvcVlrM0xXN0ZIb19TeFM5YVFYVkNMWjNoSjJzQkQzZXUyZDlaYmRUVUhvNGlHeDJRdzREUU9aSjJNU2doNmlxRUM5RFo2LTZIMmdLSHUyeHo0T1ViSlJtMV9DbXpqLVJhT09YWTd4UHZQYl9ablgxZkE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNDkiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NuYVNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZMbkNiWnpPYWFKMUkzY3lTcXktcDN2emtOTDBnMGFhUG81UUFWNndKRENyTGFEeXZWeGFaeDJ4TkNpNzBXMXJvMWxQajk5aTBTWlU1RGVhWDhjTGdaWVhOMXpKMnJ0TngtaXdPeDNFeWxsZGJ2MnB6LW5MVXkxaXV4UFRsNVVSUnVPdUlYSHpHZW11ejE1NzFndnRoOFJjMEJxcF92LUlDUV85Z2tNWjdnN0RCWEVBb1pGcEd2RGw3OFYyeFZhX3FGRElZMTFHSkhIMDhPRmpvcVlrM0xXN0ZIb19TeFM5YVFYVkNMWjNoSjJzQkQzZXUyZDlaYmRUVUhvNGlHeDJRdzREUU9aSjJNU2doNmlxRUM5RFo2LTZIMmdLSHUyeHo0T1ViSlJtMV9DbXpqLVJhT09YWTd4UHZQYl9ablgxZkE9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=Wqht0OjOL3rq4EBIv%2brO6dL7Mwo%3d
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776042%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=78&Height=96&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZHVjNWclhJdnZYaDA1WlN2b0NCNzZCa3dpRENxSGNOUU56Rk5MNVdFYjFlN3J6Z0paUExjUFBXbElXU2JYbml4dl94TFVEdEJSMmYwQW8tZnhTdk8tSG9Sb1BnZVlMTGlUNTFSRWtDMWdlRFdUclJYSzN6Q2NzcXNVbnlzdjFEaVZJNkFDUzVnYjY4MkhJTlFhWFYtajhfX053dzNqTVVLc182TEtfSHdORDVWLWt2aUFNSzBIcFBHOUNxVkV1ZXlBUndDMm00cjVZNXBPVVIxZFZhRWZvTFlNZmFNQ1FXZExtNTBhNU9xeDgzWUl5YnRnbTMxZFVDS1ZGa3VMMEFhbllPM1E5TGZuTkFneVZwWXNRaHpJenIycFZ2TmRRdW9lLWhyN19LRGVvSmp6TE42RXB1QUw1WlJNNGhpcFRrYnZYVHJLa005b3NrYmpMZ3ZTUDhyM0E9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZHVjNWclhJdnZYaDA1WlN2b0NCNzZCa3dpRENxSGNOUU56Rk5MNVdFYjFlN3J6Z0paUExjUFBXbElXU2JYbml4dl94TFVEdEJSMmYwQW8tZnhTdk8tSG9Sb1BnZVlMTGlUNTFSRWtDMWdlRFdUclJYSzN6Q2NzcXNVbnlzdjFEaVZJNkFDUzVnYjY4MkhJTlFhWFYtajhfX053dzNqTVVLc182TEtfSHdORDVWLWt2aUFNSzBIcFBHOUNxVkV1ZXlBUndDMm00cjVZNXBPVVIxZFZhRWZvTFlNZmFNQ1FXZExtNTBhNU9xeDgzWUl5YnRnbTMxZFVDS1ZGa3VMMEFhbllPM1E5TGZuTkFneVZwWXNRaHpJenIycFZ2TmRRdW9lLWhyN19LRGVvSmp6TE42RXB1QUw1WlJNNGhpcFRrYnZYVHJLa005b3NrYmpMZ3ZTUDhyM0E9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=7dnRov98E4KAR%2bgYExLFIWknzEc%3d
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271375229%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Suria
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZDSjlFd0h3d2hETjNrU1d4S0kwMGE5RE50LWRWU3RPblphZWZ5VHAwMGwxVzA0MjJhV1hBZURidjQ4OU1HLThVbTdGV18yYkwxOUU0T3N0aE5sTWFwS05WQThaeXc2OGh0UTM0UEFlMlpNVXdMOEdRZ1lZN0w2Rl9ocS1ib05XMjhyMUtCS0ZsUURxMFZ6NVU3N0t2TGRuSjZUSC0yU2ExOEhFYkN6bVE3RkxtN1pxdEpsZ0xvRllIM0wtX1FTMmZnV2JydzN4NnhVandsN2JHZFh2OE9lZnhUUnhCYURXNzU5bUN2ck9wc1JCTDJ5LTZ4YnQtcFNVUWpyNDdwb1YwUXZXN2FrTHJwZWdaTV93akh6ZzRLcjFpYWNfTHB3aDZhMHVJYVFxUlAzUTFOTF9YT015SDRyLWlTT1V1TWZyREtKOUF0cHRsNzVuZjdXbzhuRDN4MmlPZ1hBMi10NnRHd1ZxQUVkOW9WblImY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTA4IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV92YXNhbnRoYW1fZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZDSjlFd0h3d2hETjNrU1d4S0kwMGE5RE50LWRWU3RPblphZWZ5VHAwMGwxVzA0MjJhV1hBZURidjQ4OU1HLThVbTdGV18yYkwxOUU0T3N0aE5sTWFwS05WQThaeXc2OGh0UTM0UEFlMlpNVXdMOEdRZ1lZN0w2Rl9ocS1ib05XMjhyMUtCS0ZsUURxMFZ6NVU3N0t2TGRuSjZUSC0yU2ExOEhFYkN6bVE3RkxtN1pxdEpsZ0xvRllIM0wtX1FTMmZnV2JydzN4NnhVandsN2JHZFh2OE9lZnhUUnhCYURXNzU5bUN2ck9wc1JCTDJ5LTZ4YnQtcFNVUWpyNDdwb1YwUXZXN2FrTHJwZWdaTV93akh6ZzRLcjFpYWNfTHB3aDZhMHVJYVFxUlAzUTFOTF9YT015SDRyLWlTT1V1TWZyREtKOUF0cHRsNzVuZjdXbzhuRDN4MmlPZ1hBMi10NnRHd1ZxQUVkOW9WblIiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=pZFoLKgGhB%2bL4ry3QZ1Ukbhscps%3d
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
