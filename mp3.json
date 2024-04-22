@@ -2,9 +2,9 @@
 	"plugins": [
 		
 	{
-			"name": "liuying",
-			"url":"./lib/liuying107.js",
-			"version": "1.0.7"
+			"name": "野草音源",
+			"url":"./lib/野草音源.js",
+			"version": ""
 		},
 {
 			"name": "5sing",
