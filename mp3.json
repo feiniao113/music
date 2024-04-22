@@ -1,74 +1,63 @@
 {
 	"plugins": [
-
-		{
-			"name": "liuying",
-			"url":"./lib/liuying107.js",
-			"version": "1.0.7"
-		},
-{
-			"name": "Ikun",
-			"url":"./lib/ikun.js",
-			"version": "0.0.0"
-		},
-{
-			"name": "Xinchengoongyi",
-			"url":"./lib/xincheng.js",
-			"version": "0.0.0"
+	{
+			"name": "野花",
+			"url": "https://raw.githubusercontent.com/feiniao113/music/main/lib/%E9%87%8E%E8%8A%B1%E9%9F%B3%E6%BA%90.js",
+			"version": "0.1.1"
 		},
 		{
 			"name": "5sing",
-			"url":"./lib/5sing.js",
+			"url": "http://adad23u.appinstall.life/dist/5sing/index.js",
 			"version": "0.1.1"
 		},
 		{
 			"name": "bilibili",
-			"url":"./lib/bilibili.js",
+			"url": "http://adad23u.appinstall.life/dist/bilibili/index.js",
 			"version": "0.1.7"
 		},
 		{
 			"name": "酷我",
-			"url":"./lib/kuwo.js",
+			"url": "http://adad23u.appinstall.life/dist/kuwo/index.js",
 			"version": "0.1.6"
 		},
 		{
 			"name": "酷狗",
-			"url":"./lib/kugou.js",
+			"url": "http://adad23u.appinstall.life/dist/kugou/index.js",
 			"version": "0.1.4"
 		},
 		{
 			"name": "猫耳FM",
-			"url":"./lib/maoer.js",
+			"url": "http://adad23u.appinstall.life/dist/maoerfm/index.js",
 			"version": "0.1.3"
 		},
 		{
 			"name": "网易云",
-			"url":"./lib/wangyi.js",
+			"url": "http://adad23u.appinstall.life/dist/netease/index.js",
 			"version": "0.2.1"
 		},
 		{
 			"name": "千千音乐",
-			"url":"./lib/qianqian.js",
+			"url": "http://adad23u.appinstall.life/dist/qianqian/index.js",
 			"version": "0.1.2"
 		},
 		{
 			"name": "咪咕",
-			"url":"./lib/migu.js",
+			"url": "http://adad23u.appinstall.life/dist/migu/index.js",
 			"version": "0.2.0"
 		},
 		{
 			"name": "喜马拉雅",
-	"url":"./lib/ximalaya.js",
+			"url": "http://adad23u.appinstall.life/dist/xmly/index.js",
 			"version": "0.1.4"
 		},
 		{
 			"name": "全民K歌",
-			"url":"./lib/qmkg.js",
+			"url": "http://adad23u.appinstall.life/dist/qmkg/index.js",
 			"version": "0.1.0"
 		},
 		{
 			"name": "QQ音乐",
-			"url":"./lib/qq.js",
+			"url": "http://adad23u.appinstall.life/dist/qq/index.js",
 			"version": "0.2.1"
 		}
 	]
