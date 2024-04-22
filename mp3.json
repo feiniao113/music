@@ -6,6 +6,11 @@
 			"url":"./lib/liuying107.js",
 			"version": "1.0.7"
 		},
+{
+			"name": "Ikun",
+			"url":"./lib/ikun.js",
+			"version": "0.0.0"
+		},
 		{
 			"name": "5sing",
 			"url":"./lib/5sing.js",
