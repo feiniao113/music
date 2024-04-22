@@ -2,7 +2,7 @@
 	"plugins": [
 		{
 			"name": "5sing",
-			"url": "http://adad23u.appinstall.life/dist/5sing/index.js",
+			"url":"./lib/5sing.js",
 			"version": "0.1.1"
 		},
 		{
