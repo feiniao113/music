@@ -1,10 +1,5 @@
 {
 	"plugins": [
-	{
-			"name": "野花",
-			"url": "https://raw.githubusercontent.com/feiniao113/music/main/lib/%E9%87%8E%E8%8A%B1%E9%9F%B3%E6%BA%90.js",
-			"version": "0.1.1"
-		},
 		{
 			"name": "5sing",
 			"url": "http://adad23u.appinstall.life/dist/5sing/index.js",
