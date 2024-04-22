@@ -7,7 +7,7 @@
 		},
 		{
 			"name": "bilibili",
-			"url": "http://adad23u.appinstall.life/dist/bilibili/index.js",
+			"url":"./lib/bilibili.js",
 			"version": "0.1.7"
 		},
 		{
