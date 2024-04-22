@@ -11,6 +11,11 @@
 			"url":"./lib/ikun.js",
 			"version": "0.0.0"
 		},
+{
+			"name": "Xinchengoongyi",
+			"url":"./lib/xincheng.js",
+			"version": "0.0.0"
+		},
 		{
 			"name": "5sing",
 			"url":"./lib/5sing.js",
