@@ -1,5 +1,11 @@
 {
 	"plugins": [
+
+		{
+			"name": "liuying",
+			"url":"./lib/liuying107.js",
+			"version": "1.0.7"
+		},
 		{
 			"name": "5sing",
 			"url":"./lib/5sing.js",
