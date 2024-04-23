@@ -1,53 +1,102 @@
-#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/default.xml, https://xmltv.tvkaista.net/guides/abc.net.au.xml, https://xmltv.tvkaista.net/guides/allente.dk.xml, https://xmltv.tvkaista.net/guides/allente.fi.xml, https://xmltv.tvkaista.net/guides/allente.no.xml, https://xmltv.tvkaista.net/guides/allente.se.xml, https://xmltv.tvkaista.net/guides/andorradifusio.ad.xml, https://xmltv.tvkaista.net/guides/anteltv.com.uy.xml, https://xmltv.tvkaista.net/guides/arianaafgtv.com.xml, https://xmltv.tvkaista.net/guides/arianatelevision.com.xml, https://xmltv.tvkaista.net/guides/arirang.com.xml, https://xmltv.tvkaista.net/guides/artonline.tv.xml, https://xmltv.tvkaista.net/guides/bein.com.xml, https://xmltv.tvkaista.net/guides/beinsports.com.xml, https://xmltv.tvkaista.net/guides/berrymedia.co.kr.xml, https://xmltv.tvkaista.net/guides/cablego.com.pe.xml, https://xmltv.tvkaista.net/guides/cableplus.com.uy.xml, https://xmltv.tvkaista.net/guides/canalplus.com_bf.xml, https://xmltv.tvkaista.net/guides/canalplus.com_bi.xml, https://xmltv.tvkaista.net/guides/canalplus.com_bj.xml, https://xmltv.tvkaista.net/guides/canalplus.com_bl.xml, https://xmltv.tvkaista.net/guides/canalplus.com_cd.xml, https://xmltv.tvkaista.net/guides/canalplus.com_cf.xml, https://xmltv.tvkaista.net/guides/canalplus.com_cg.xml, https://xmltv.tvkaista.net/guides/canalplus.com_ch.xml, https://xmltv.tvkaista.net/guides/canalplus.com_ci.xml, https://xmltv.tvkaista.net/guides/canalplus.com_cm.xml, https://xmltv.tvkaista.net/guides/canalplus.com_cv.xml, https://xmltv.tvkaista.net/guides/canalplus.com_dj.xml, https://xmltv.tvkaista.net/guides/canalplus.com_fr.xml, https://xmltv.tvkaista.net/guides/canalplus.com_ga.xml, https://xmltv.tvkaista.net/guides/canalplus.com_gf.xml, https://xmltv.tvkaista.net/guides/canalplus.com_gh.xml, https://xmltv.tvkaista.net/guides/canalplus.com_gm.xml, https://xmltv.tvkaista.net/guides/canalplus.com_gn.xml, https://xmltv.tvkaista.net/guides/canalplus.com_gw.xml, https://xmltv.tvkaista.net/guides/canalplus.com_mf.xml, https://xmltv.tvkaista.net/guides/canalplus.com_ml.xml, https://xmltv.tvkaista.net/guides/canalplus.com_mq.xml, https://xmltv.tvkaista.net/guides/canalplus.com_mr.xml, https://xmltv.tvkaista.net/guides/canalplus.com_mu.xml, https://xmltv.tvkaista.net/guides/canalplus.com_nc.xml, https://xmltv.tvkaista.net/guides/canalplus.com_ne.xml, https://xmltv.tvkaista.net/guides/canalplus.com_re.xml, https://xmltv.tvkaista.net/guides/canalplus.com_rw.xml, https://xmltv.tvkaista.net/guides/canalplus.com_sl.xml, https://xmltv.tvkaista.net/guides/canalplus.com_sn.xml, https://xmltv.tvkaista.net/guides/canalplus.com_td.xml, https://xmltv.tvkaista.net/guides/canalplus.com_tg.xml, https://xmltv.tvkaista.net/guides/canalplus.com_wf.xml, https://xmltv.tvkaista.net/guides/canalplus.com_yt.xml, https://xmltv.tvkaista.net/guides/cgates.lt.xml, https://xmltv.tvkaista.net/guides/chaines-tv.orange.fr.xml, https://xmltv.tvkaista.net/guides/clickthecity.com.xml, https://xmltv.tvkaista.net/guides/content.astro.com.my.xml, https://xmltv.tvkaista.net/guides/cosmote.gr.xml, https://xmltv.tvkaista.net/guides/cubmu.com.xml, https://xmltv.tvkaista.net/guides/dens.tv.xml, https://xmltv.tvkaista.net/guides/digiturk.com.tr.xml, https://xmltv.tvkaista.net/guides/directv.com.uy.xml, https://xmltv.tvkaista.net/guides/dishtv.in.xml, https://xmltv.tvkaista.net/guides/disneystar.com.xml, https://xmltv.tvkaista.net/guides/dsmart.com.tr.xml, https://xmltv.tvkaista.net/guides/dstv.com_ao.xml, https://xmltv.tvkaista.net/guides/dstv.com_bf.xml, https://xmltv.tvkaista.net/guides/dstv.com_bi.xml, https://xmltv.tvkaista.net/guides/dstv.com_bj.xml, https://xmltv.tvkaista.net/guides/dstv.com_bw.xml, https://xmltv.tvkaista.net/guides/dstv.com_cd.xml, https://xmltv.tvkaista.net/guides/dstv.com_cf.xml, https://xmltv.tvkaista.net/guides/dstv.com_cg.xml, https://xmltv.tvkaista.net/guides/dstv.com_ci.xml, https://xmltv.tvkaista.net/guides/dstv.com_cm.xml, https://xmltv.tvkaista.net/guides/dstv.com_dj.xml, https://xmltv.tvkaista.net/guides/dstv.com_er.xml, https://xmltv.tvkaista.net/guides/dstv.com_et.xml, https://xmltv.tvkaista.net/guides/dstv.com_gh.xml, https://xmltv.tvkaista.net/guides/dstv.com_gm.xml, https://xmltv.tvkaista.net/guides/dstv.com_gn.xml, https://xmltv.tvkaista.net/guides/dstv.com_gq.xml, https://xmltv.tvkaista.net/guides/dstv.com_gw.xml, https://xmltv.tvkaista.net/guides/dstv.com_ke.xml, https://xmltv.tvkaista.net/guides/dstv.com_km.xml, https://xmltv.tvkaista.net/guides/dstv.com_lr.xml, https://xmltv.tvkaista.net/guides/dstv.com_mg.xml, https://xmltv.tvkaista.net/guides/dstv.com_ml.xml, https://xmltv.tvkaista.net/guides/dstv.com_mr.xml, https://xmltv.tvkaista.net/guides/dstv.com_mu.xml, https://xmltv.tvkaista.net/guides/dstv.com_mw.xml, https://xmltv.tvkaista.net/guides/dstv.com_mz.xml, https://xmltv.tvkaista.net/guides/dstv.com_na.xml, https://xmltv.tvkaista.net/guides/dstv.com_ne.xml, https://xmltv.tvkaista.net/guides/dstv.com_ng.xml, https://xmltv.tvkaista.net/guides/dstv.com_rw.xml, https://xmltv.tvkaista.net/guides/dstv.com_sc.xml, https://xmltv.tvkaista.net/guides/dstv.com_sd.xml, https://xmltv.tvkaista.net/guides/dstv.com_sl.xml, https://xmltv.tvkaista.net/guides/dstv.com_sn.xml, https://xmltv.tvkaista.net/guides/dstv.com_so.xml, https://xmltv.tvkaista.net/guides/dstv.com_ss.xml, https://xmltv.tvkaista.net/guides/dstv.com_st.xml, https://xmltv.tvkaista.net/guides/dstv.com_td.xml, https://xmltv.tvkaista.net/guides/dstv.com_tg.xml, https://xmltv.tvkaista.net/guides/dstv.com_tz.xml, https://xmltv.tvkaista.net/guides/dstv.com_ug.xml, https://xmltv.tvkaista.net/guides/dstv.com_za.xml, https://xmltv.tvkaista.net/guides/dstv.com_zm.xml, https://xmltv.tvkaista.net/guides/dstv.com_zw.xml, https://xmltv.tvkaista.net/guides/elcinema.com.xml, https://xmltv.tvkaista.net/guides/ena.skylifetv.co.kr.xml, https://xmltv.tvkaista.net/guides/energeek.cl.xml, https://xmltv.tvkaista.net/guides/entertainment.ie.xml, https://xmltv.tvkaista.net/guides/firstmedia.com.xml, https://xmltv.tvkaista.net/guides/flixed.io.xml, https://xmltv.tvkaista.net/guides/foxsports.com.au.xml, https://xmltv.tvkaista.net/guides/foxtel.com.au.xml, https://xmltv.tvkaista.net/guides/frikanalen.no.xml, https://xmltv.tvkaista.net/guides/gatotv.com.xml, https://xmltv.tvkaista.net/guides/getafteritmedia.com.xml, https://xmltv.tvkaista.net/guides/guida.tv.xml, https://xmltv.tvkaista.net/guides/guidatv.sky.it.xml, https://xmltv.tvkaista.net/guides/horizon.tv.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_au.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_dstv.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_hgtvgo.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_metv.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_nz.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_optus.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_pbs.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_plex.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_pluto.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_roku.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_samsung.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_singtel.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_skygo.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_skysportnow.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_stirr.xml, https://xmltv.tvkaista.net/guides/i24news.tv.xml, https://xmltv.tvkaista.net/guides/iltalehti.fi.xml, https://xmltv.tvkaista.net/guides/indihometv.com.xml, https://xmltv.tvkaista.net/guides/ipko.com.xml, https://xmltv.tvkaista.net/guides/knr.gl.xml, https://xmltv.tvkaista.net/guides/kvf.fo.xml, https://xmltv.tvkaista.net/guides/m.tv.sms.cz.xml, https://xmltv.tvkaista.net/guides/m.tving.com.xml, https://xmltv.tvkaista.net/guides/magticom.ge.xml, https://xmltv.tvkaista.net/guides/mako.co.il.xml, https://xmltv.tvkaista.net/guides/maxtv.hrvatskitelekom.hr.xml, https://xmltv.tvkaista.net/guides/maxtvgo.mk.xml, https://xmltv.tvkaista.net/guides/mediagenie.co.kr.xml, https://xmltv.tvkaista.net/guides/mediaklikk.hu.xml, https://xmltv.tvkaista.net/guides/mediasetinfinity.mediaset.it.xml, https://xmltv.tvkaista.net/guides/melita.com.xml, https://xmltv.tvkaista.net/guides/meo.pt.xml, https://xmltv.tvkaista.net/guides/meuguia.tv.xml, https://xmltv.tvkaista.net/guides/mewatch.sg.xml, https://xmltv.tvkaista.net/guides/mi.tv_ar.xml, https://xmltv.tvkaista.net/guides/mi.tv_br.xml, https://xmltv.tvkaista.net/guides/mi.tv_cl.xml, https://xmltv.tvkaista.net/guides/mi.tv_co.xml, https://xmltv.tvkaista.net/guides/mi.tv_gt.xml, https://xmltv.tvkaista.net/guides/mi.tv_hn.xml, https://xmltv.tvkaista.net/guides/mi.tv_mx.xml, https://xmltv.tvkaista.net/guides/mi.tv_pe.xml, https://xmltv.tvkaista.net/guides/mi.tv_py.xml, https://xmltv.tvkaista.net/guides/mi.tv_sv.xml, https://xmltv.tvkaista.net/guides/mncvision.id.xml, https://xmltv.tvkaista.net/guides/moji.id.xml, https://xmltv.tvkaista.net/guides/mon-programme-tv.be.xml, https://xmltv.tvkaista.net/guides/movistarplus.es.xml, https://xmltv.tvkaista.net/guides/mtel.ba.xml, https://xmltv.tvkaista.net/guides/mts.rs.xml, https://xmltv.tvkaista.net/guides/mujtvprogram.cz.xml, https://xmltv.tvkaista.net/guides/musor.tv.xml, https://xmltv.tvkaista.net/guides/mysky.com.ph.xml, https://xmltv.tvkaista.net/guides/mytelly.co.uk.xml, https://xmltv.tvkaista.net/guides/mytvsuper.com.xml, https://xmltv.tvkaista.net/guides/nhkworldpremium.com.xml, https://xmltv.tvkaista.net/guides/nostv.pt.xml, https://xmltv.tvkaista.net/guides/novacyprus.com.xml, https://xmltv.tvkaista.net/guides/novasports.gr.xml, https://xmltv.tvkaista.net/guides/nowplayer.now.com_en.xml, https://xmltv.tvkaista.net/guides/nowplayer.now.com_zh.xml, https://xmltv.tvkaista.net/guides/nuevosiglo.com.uy.xml, https://xmltv.tvkaista.net/guides/nzxmltv.com_freeview.xml, https://xmltv.tvkaista.net/guides/nzxmltv.com_pluto.xml, https://xmltv.tvkaista.net/guides/nzxmltv.com_redbull.xml, https://xmltv.tvkaista.net/guides/nzxmltv.com_sky.xml, https://xmltv.tvkaista.net/guides/ontvtonight.com_au.xml, https://xmltv.tvkaista.net/guides/ontvtonight.com_ca.xml, https://xmltv.tvkaista.net/guides/ontvtonight.com_us.xml, https://xmltv.tvkaista.net/guides/osn.com.xml, https://xmltv.tvkaista.net/guides/pbsguam.org.xml, https://xmltv.tvkaista.net/guides/player.ee.co.uk.xml, https://xmltv.tvkaista.net/guides/playtv.unifi.com.my.xml, https://xmltv.tvkaista.net/guides/plex.tv.xml, https://xmltv.tvkaista.net/guides/programacion-tv.elpais.com.xml, https://xmltv.tvkaista.net/guides/programacion.tcc.com.uy.xml, https://xmltv.tvkaista.net/guides/programetv.ro.xml, https://xmltv.tvkaista.net/guides/programme-tv.net.xml, https://xmltv.tvkaista.net/guides/programme-tv.vini.pf.xml, https://xmltv.tvkaista.net/guides/programtv.onet.pl.xml, https://xmltv.tvkaista.net/guides/raiplay.it.xml, https://xmltv.tvkaista.net/guides/reportv.com.ar.xml, https://xmltv.tvkaista.net/guides/rotana.net.xml, https://xmltv.tvkaista.net/guides/rthk.hk.xml, https://xmltv.tvkaista.net/guides/rtmklik.rtm.gov.my.xml, https://xmltv.tvkaista.net/guides/rtp.pt.xml, https://xmltv.tvkaista.net/guides/ruv.is.xml, https://xmltv.tvkaista.net/guides/sat.tv_ar.xml, https://xmltv.tvkaista.net/guides/sat.tv_en.xml, https://xmltv.tvkaista.net/guides/shahid.mbc.net.xml, https://xmltv.tvkaista.net/guides/siba.com.co.xml, https://xmltv.tvkaista.net/guides/singtel.com.xml, https://xmltv.tvkaista.net/guides/sjonvarp.is.xml, https://xmltv.tvkaista.net/guides/sky.co.nz.xml, https://xmltv.tvkaista.net/guides/sky.com.xml, https://xmltv.tvkaista.net/guides/sky.de.xml, https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml, https://xmltv.tvkaista.net/guides/startimestv.com.xml, https://xmltv.tvkaista.net/guides/streamingtvguides.com.xml, https://xmltv.tvkaista.net/guides/superguidatv.it.xml, https://xmltv.tvkaista.net/guides/taiwanplus.com.xml, https://xmltv.tvkaista.net/guides/tapdmv.com.xml, https://xmltv.tvkaista.net/guides/telenet.tv.xml, https://xmltv.tvkaista.net/guides/teliatv.ee.xml, https://xmltv.tvkaista.net/guides/telkussa.fi.xml, https://xmltv.tvkaista.net/guides/telsu.fi.xml, https://xmltv.tvkaista.net/guides/tivu.tv.xml, https://xmltv.tvkaista.net/guides/toonamiaftermath.com.xml, https://xmltv.tvkaista.net/guides/turksatkablo.com.tr.xml, https://xmltv.tvkaista.net/guides/tv-programme.telecablesat.fr.xml, https://xmltv.tvkaista.net/guides/tv.blue.ch.xml, https://xmltv.tvkaista.net/guides/tv.cctv.com.xml, https://xmltv.tvkaista.net/guides/tv.dir.bg.xml, https://xmltv.tvkaista.net/guides/tv.lv.xml, https://xmltv.tvkaista.net/guides/tv.magenta.at.xml, https://xmltv.tvkaista.net/guides/tv.mail.ru.xml, https://xmltv.tvkaista.net/guides/tv.movistar.com.pe.xml, https://xmltv.tvkaista.net/guides/tv.nu.xml, https://xmltv.tvkaista.net/guides/tv.post.lu.xml, https://xmltv.tvkaista.net/guides/tv.trueid.net.xml, https://xmltv.tvkaista.net/guides/tv.yandex.ru.xml, https://xmltv.tvkaista.net/guides/tv24.co.uk.xml, https://xmltv.tvkaista.net/guides/tv24.se.xml, https://xmltv.tvkaista.net/guides/tv2go.t-2.net.xml, https://xmltv.tvkaista.net/guides/tvcesoir.fr.xml, https://xmltv.tvkaista.net/guides/tvcubana.icrt.cu.xml, https://xmltv.tvkaista.net/guides/tvgids.nl.xml, https://xmltv.tvkaista.net/guides/tvguide.com.xml, https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml, https://xmltv.tvkaista.net/guides/tvhebdo.com.xml, https://xmltv.tvkaista.net/guides/tvheute.at.xml, https://xmltv.tvkaista.net/guides/tvim.tv.xml, https://xmltv.tvkaista.net/guides/tvireland.ie.xml, https://xmltv.tvkaista.net/guides/tvmi.mt.xml, https://xmltv.tvkaista.net/guides/tvmusor.hu.xml, https://xmltv.tvkaista.net/guides/tvpassport.com.xml, https://xmltv.tvkaista.net/guides/tvplus.com.tr.xml, https://xmltv.tvkaista.net/guides/tvprofil.com.xml, https://xmltv.tvkaista.net/guides/tvtv.us.xml, https://xmltv.tvkaista.net/guides/v3.myafn.dodmedia.osd.mil.xml, https://xmltv.tvkaista.net/guides/vidio.com.xml, https://xmltv.tvkaista.net/guides/virginmediatelevision.ie.xml, https://xmltv.tvkaista.net/guides/virgintvgo.virginmedia.com.xml, https://xmltv.tvkaista.net/guides/visionplus.id.xml, https://xmltv.tvkaista.net/guides/vtm.be.xml, https://xmltv.tvkaista.net/guides/walesi.com.fj.xml, https://xmltv.tvkaista.net/guides/watch.sportsnet.ca.xml, https://xmltv.tvkaista.net/guides/watchyour.tv.xml, https://xmltv.tvkaista.net/guides/wavve.com.xml, https://xmltv.tvkaista.net/guides/web.magentatv.de.xml, https://xmltv.tvkaista.net/guides/webtv.delta.nl.xml, https://xmltv.tvkaista.net/guides/worldfishingnetwork.com.xml, https://xmltv.tvkaista.net/guides/www3.nhk.or.jp.xml, https://xmltv.tvkaista.net/guides/xumo.tv.xml, https://xmltv.tvkaista.net/guides/zap.co.ao.xml, https://xmltv.tvkaista.net/guides/ziggogo.tv.xml, https://xmltv.tvkaista.net/guides/znbc.co.zm.xml, https://xmltv.tvkaista.net/guides/zuragt.mn.xml"
-#EXTINF:-1 tvg-name="Kanali 7 Ⓢ" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-id="Kanali7.al" group-title="Albania",Kanali 7 Ⓢ
-https://fe.tring.al/delta/105/out/u/1200_1.m3u8
-#EXTINF:-1 tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-id="A2CNN.al" group-title="Albania",A2 CNN Albania
-https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="ABC News Albania Ⓣ" tvg-logo="https://i.imgur.com/aObcudw.png" tvg-id="ABCNewsAlbania.al" group-title="Albania",ABC News Albania Ⓣ
-https://www.twitch.tv/abcnewsal
-#EXTINF:-1 tvg-name="AlbKanale Music TV Ⓢ" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-id="AlbKanaleMusicTV.al" group-title="Albania",AlbKanale Music TV Ⓢ
-https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1 tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-id="AlpoTV.al" group-title="Albania",Alpo TV
-https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
-#EXTINF:-1 tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-id="CNA.al" group-title="Albania",CNA
-https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:-1 tvg-name="Euronews Albania Ⓨ" tvg-logo="https://i.imgur.com/Skf6vdi.png" tvg-id="EuronewsAlbania.al" group-title="Albania",Euronews Albania Ⓨ
-https://www.youtube.com/@EuronewsAlbania/live
-#EXTINF:-1 tvg-name="News 24 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-id="News24.al" group-title="Albania",News 24 Ⓢ
-https://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-id="OraNews.al" group-title="Albania",Ora News
-https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1 tvg-name="Panorama TV Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/512px-Panorama_logo.svg.png" tvg-id="PanoramaTV.al" group-title="Albania",Panorama TV Ⓢ
-http://198.244.188.94/panorama/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-id="ReportTV.al" group-title="Albania",Report TV
-https://deb10stream.duckdns.org/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Syri" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-id="Syri.al" group-title="Albania",Syri
-https://stream.syritv.al/SyriTV/index.m3u8
-#EXTINF:-1 tvg-name="Top News Ⓣ" tvg-logo="https://i.imgur.com/tBAXkOW.png" tvg-id="TopNews.al" group-title="Albania",Top News Ⓣ
-https://www.twitch.tv/topnewsal
-#EXTINF:-1 tvg-name="Tropoja" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-id="TropojaTelevizion.al" group-title="Albania",Tropoja
-https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-id="TV7Albania.al" group-title="Albania",TV 7 Albania
-https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Apollon Ⓢ" tvg-logo="https://i.imgur.com/gUz2AjM.png" tvg-id="TVApollon.al" group-title="Albania",TV Apollon Ⓢ
-https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
-#EXTINF:-1 tvg-name="Vizion Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png" tvg-id="VizionPlus.al" group-title="Albania",Vizion Plus
-https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
-#EXTINF:-1 tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-id="AndorraTV.ad" group-title="Andorra",Andorra TV
-https://videos.rtva.ad/live/rtva/playlist.m3u8
-#EXTINF:-1 tvg-name="TN Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/200px-TN_todo_noticias_logo.svg.png" tvg-id="TodoNoticias.ar" group-title="Argentina",TN Todo Noticias
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-name="Encuentro Ⓨ Ⓖ" tvg-logo="https://i.imgur.com/IyP2UIx.png" tvg-id="Encuentro.ar" group-title="Argentina",Encuentro Ⓨ Ⓖ
-https://www.youtube.com/user/encuentro/live
-#EXTINF:-1 tvg-name="Pakapaka Ⓨ Ⓖ" tvg-logo="https://i.imgur.com/Q4zaCuM.png" tvg-id="Pakapaka.ar" group-title="Argentina",Pakapaka Ⓨ Ⓖ
-https://www.youtube.com/user/CanalPakapaka/live
-#EXTINF:-1 tvg-name="Mirador TV" tvg-logo="https://i.imgur.com/KjD1uJS.png" tvg-id="Mirador.ar" group-title="Argentina",Mirador TV
-https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
-#EXTINF:-1 tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-id="CineAr.ar" group-title="Argentina",Cine.AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1 tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-id="TECTV.ar" group-title="Argentina",Tec TV
-https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-#EXTINF:-1 tvg-name="Televisión Pública Ⓨ" tvg-logo="https://i.imgur.com/4hYYpiu.png" tvg-id="TVPublica.ar" group-title="Argentina",Televisión Pública Ⓨ
-https://www.youtube.com/user/TVPublicaArgentina/live
-#EXTINF:-1 tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-id="DeporTV.ar" group-title="Argentina",DeporTV
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/pl
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 综合
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2 财经
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3 综艺
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文国际
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5 体育
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+ 体育赛事
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6 电影
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8 电视剧
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV-9 纪录
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV-10 科教
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV-12 社会与法
+http://111.59.63.32:9901/tsfile/live/1019_1.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV-13 新闻
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV-14 少儿
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15 音乐
+http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16 奥林匹克
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV-17 农业农村
+http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
+	@@ -41,72 +37,68 @@ http://221.213.43.82:8888/newlive/live/hls/20/live.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png",天津卫视
+http://111.59.63.32:9901/tsfile/live/1047_1.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视
+https://iptv.luas.edu.cn/liverespath/b14734af7f740eb61419248c57e25551a7d1093f/5d2b5d0510-0-0-105d2ca44ae2d9aab6095bbd2b23d67d/index.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png",黑龙江卫视
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png",吉林卫视
+http://111.59.63.32:9901/tsfile/live/1043_1.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视
+https://iptv.luas.edu.cn/liverespath/2844a81a1ac7f57ada10433dacb258b595a3a774/8a3a2fd2cf-0-0-3d689a5c5d9fd77adfec7c402da05854/index.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png",内蒙古卫视
+http://111.59.63.32:9901/tsfile/live/1038_1.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png",宁夏卫视
+http://111.59.63.32:9901/tsfile/live/1040_1.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png",青海卫视
+http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png",陕西卫视
+http://221.213.43.82:8888/newlive/live/hls/41/live.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png",河北卫视
+http://221.213.43.82:8888/newlive/live/hls/45/live.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png",山西卫视
+http://111.59.63.32:9901/tsfile/live/1046_1.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",山东卫视
+http://221.213.43.82:8888/newlive/live/hls/30/live.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
+http://111.59.63.32:9901/tsfile/live/1027_1.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
+http://221.213.43.82:8888/newlive/live/hls/33/live.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png",湖北卫视
+http://221.213.43.82:8888/newlive/live/hls/34/live.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
+http://111.59.63.32:9901/tsfile/live/1028_1.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png",江西卫视
+http://221.2.36.34:8888/newlive/live/hls/48/live.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
+http://221.213.43.82:8888/newlive/live/hls/22/live.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png",东南卫视
+https://iptv.luas.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/17e62c2e01-0-0-70b94eb3e45746c6a9af7be4bcd47bf2/index.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
+https://iptv.luas.edu.cn/liverespath/57e80ee85ec1f4e523e1bca55f5a676abd292db8/da9447e5bb-0-0-f5f61780d2c38572372fb5aafad399f0/index.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视
+http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png",云南卫视
+http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png",贵州卫视
+http://111.59.63.32:9901/tsfile/live/1036_1.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视
+http://111.59.63.32:9901/tsfile/live/1029_1.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png",新疆卫视
+http://111.59.63.32:9901/tsfile/live/1039_1.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png",兵团卫视
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png",西藏卫视
+http://221.213.43.82:8888/newlive/live/hls/37/live.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png",三沙卫视
+https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+#EXTINF:-1 group-title="电影" tvg-id="CHC动作电影频道" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png",CHC动作电影频道
+https://iptv.luas.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/73806b841d-0-0-49fbde5c705d9930c203f18caff64fe0/index.m3u8
+#EXTINF:-1 group-title="数字电视" tvg-id="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",中国天气
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+#EXTINF:-1 group-title="教育" tvg-id="CETV3中国教育电视台三套" tvg-logo="https://live.fanmingming.com/tv/CETV3.png",CETV3中国教育电视台三套
+https://iptv.luas.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/063125215c-0-0-7677012e61c4b04f692f5f8e49d953c9/index.m3u8
