@@ -1,169 +1,400 @@
 #EXTM3U
-#EXTINF:-1 group-title="湖南台" tvg-id="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A.png",湖南爱晚
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWJjYWFlNWI0NWQ5MDhkMzJlODVmNjJlYmY0NThiZTk0JmVzPTE3MTM5MDE1MzMmdXVpZD1mNmJiMmZhYTdhYTA2NTNiYTcxYjkwZDNlNGJhODg5MC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGGMPP360.m3u8
-#EXTINF:-1 tvg-id="湖南都市" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png" group-title="湖南台",湖南都市
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTI2ZTdjMTVlMThkZjA2N2FkODYwN2I5Zjk0MTVmMjNkJmVzPTE3MTM5MDI0MTkmdXVpZD0zZWQ5ZDI3MjgyYTYxODE0M2E0ZjZlMDcxNjZkMWFkNy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNDSMPP360.m3u8
-#EXTINF:-1 group-title="湖南台" tvg-id="湖南娱乐频道" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417125630263.jpg",湖南娱乐频道
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTE4MmE1YzQ3OTQxYTUzODk1OWI3NjlhYzhhNmU0NjE3JmVzPTE3MTM4OTM1NzYmdXVpZD0wZGRhYmM1NzY0OWQxNGNhZWU0MjY4NTk1NWZlNjU0ZS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNYLMPP360.m3u8
-#EXTINF:-1 tvg-id="eco.hunan" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%BB%8F%E8%A7%86.png" group-title="湖南台",湖南经视
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWU1NjdlMmUxYmMyYzhjZDhhZDAxNjMzODU3ZTBmY2FjJmVzPTE3MTM5MDIzNjcmdXVpZD03ZmIyYjdlMmNjZDBkNWNkOTU5YmEwYTY1NzZjYmRjMi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNJSMPP360.m3u8
-#EXTINF:-1 group-title="湖南台" tvg-id="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png",金鹰卡通
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTM1MGU3MzlkOTRkNzMyZDM1Njg0MzZkZDg5NTE4ZmQwJmVzPTE3MTM4ODkyOTMmdXVpZD1hNDAzNmJhNGFiMGQyNzVhNWVmNzBjNmE2NDg5NjcyMC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYKTMPP360.m3u8
-#EXTINF:-1 group-title="湖南台" tvg-id="湖南国际频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0614/20160614032623217.jpg",湖南国际频道
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTcyZWNhODdhY2FmY2VjY2M3ZmExNmUyOWEwYjI2NmUwJmVzPTE3MTM4ODk2NDcmdXVpZD0wYjM3ODEzMTc0NzEzOTc5YTczYjlkNDgxN2JmYTFhMC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNGJMPP360.m3u8
-#EXTINF:-1 tvg-id="dianshiju.hunan" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7.png" group-title="湖南台",湖南电视剧
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTMzMzIzYjgzZGViNzc3ZjY0Nzg3YjQzNzU1MWY5OWYzJmVzPTE3MTM4OTA0NTcmdXVpZD03OWIzZWVhNWVlZmY3N2NhY2QxNzcyZDA2MDE4NWE4Mi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSJMPP360.m3u8
-#EXTINF:-1 group-title="湖南台" tvg-id="长沙新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2021/0215/small7ff3d34c5627b5c263817abeff70e23d.gif",长沙新闻频道
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWU3ZDkwM2E1MWNjMDcwY2ZmNjExNDFhZTI5MWNiMTg0JmVzPTE3MTM5MDE2ODkmdXVpZD1lNmQzNTc5MWUxZTRiNWZjMWM1ZjA4MmYyMzIyOWMzYy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/CSXWMPP360.m3u8
-#EXTINF:-1 group-title="湖南台" tvg-id="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视
-http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/qDI3aMp.png" tvg-id="澳门卫视",澳门卫视
-http://61.244.22.4/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/ykPNNwQ.png" tvg-id="Pet Club TV",Pet Club TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-id="Bloomberg TV Asia",Bloomberg TV Asia
-http://210.210.155.37/dr9445/h/h03/index.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/zWcUAdb.png" tvg-id="KIX",KIX
-http://210.210.155.37/dr9445/h/h07/index.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/UhwlxwL.png" tvg-id="HKS",HKS
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/Mb5ssnu.png" tvg-id="Celestial Movies",Celestial Movies
-http://210.210.155.37/dr9445/h/h14/index.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/c4XvwO2.png" tvg-id="tvN Movies Asia",tvN Movies Asia
-http://210.210.155.37/dr9445/h/h21/index.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/Gwij0Fj.png" tvg-id="TVB News",TVB News
-http://r.jdshipin.com/CkuBd
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/k28Kc3o.png" tvg-id="Good",Good
-https://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/YxFRoft.png" tvg-id="Good 2",Good 2
-https://live.streamingfast.net/osmflivech2.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/hkwcBM9.png" tvg-id="Beautiful Life TV",Beautiful Life TV
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/kFMHayP.png" tvg-id="Supreme Master TV",Supreme Master TV
-https://lbs-us1.suprememastertv.com/720p.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/4S1rkhm.png" tvg-id="TVBS-Asia",TVBS-Asia
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/SfcZyqm.png" tvg-id="Taiwan Plus TV",Taiwan Plus TV
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/GGdnGqH.png" tvg-id="Genius Go Go Go",Genius Go Go Go
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/KdJi9af.png" tvg-id="DaAi 1",DaAi 1
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/KdJi9af.png" tvg-id="DaAi 2",DaAi 2
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/pFIMLsA.png" tvg-id="Dali TV",Dali TV
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="EBC YOYO",EBC YOYO
-https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/fEUmRST.png" tvg-id="CTi News",CTi News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/fEUmRST.png" tvg-id="FTV News",FTV News
-https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/Q1Mrvjj.png" tvg-id="Global News",Global News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/NaOUWKf.png" tvg-id="SET iNews",SET iNews
-https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/AfkK0gv.png" tvg-id="TTV News",TTV News
-https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.ytimg.com/vi/5n0y6b0Q25o/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXIMr1Cb8PO2vs9ZtapIAlSro4cw" tvg-id="mnews",mnews
-https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/jkOgbLw.png" tvg-id="ET Mall 60",ET Mall 60
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/jkOgbLw.png" tvg-id="寰宇新闻台",寰宇新闻台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="东森财经新闻",东森财经新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="Momo 1",Momo 1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="Momo 2",Momo 2
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="信大",信大
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="DW",DW
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="中视新闻",中视新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="NU",NU
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="NU2",NU2
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="华视HD",华视HD
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="JP1",JP1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="KPop",KPop
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="民视新闻HD",民视新闻HD
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文国际
-https://edge2.laotv.la/live/CCTV4A/sc-gaFECQ/a1_index.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-4k" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4K 高清
-https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6 电影频道
-http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574302.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8 电视剧
-http://183.196.25.171:808/hls/77/index.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV-10 科教
-http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022573002.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV-11 戏曲
-http://183.196.25.171:808/hls/11/index.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15 音乐
-http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575502.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16 4K
-http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575402.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV-17 农业农村
-http://183.196.25.171:808/hls/93/index.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CGTN" tvg-logo="",CGNT 记录频道
-http://player.200877926.top/169l/vjs/?id=https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CGTN-News" tvg-logo="",CGNT 新闻频道
-http://player.200877926.top/169l/vjs/?id=http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
-https://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=1713880607-84e8b9d4d09a6beb594f6dbc40cf3f91-0-85337b51a3acb237fbc3a0614f3154f7
-#EXTINF:-1 group-title="卫视台" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png",凤凰资讯
-http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png",凤凰中文
-http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
-https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=0af7b6bb6b08be5f7de360e647f949b6&volcTime=1713967630
-#EXTINF:-1 group-title="卫视台" tvg-id="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
-http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000295602.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
-http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000298002.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视
-https://sjlivecdn9.cbg.cn/202404232109/app_2/_definst_/ls_2.stream/chunklist.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
-http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000272102.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视
-http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000281302.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png",黑龙江卫视
-http://player.200877926.top/videojs.php?id=https://idclive.hljtv.com:4430/live/hljws_own.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",山东卫视
-http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png",云南卫视
-http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视
-https://tvshow.scgchc.com/hdlive/sctv18f9fb5888dedbe0c6a1b/1.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=a5b665f5bd7bd44ce91bfcf290d93b07&wsTime=1713883509
-#EXTINF:-1 group-title="卫视台" tvg-id="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
-http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292702.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png",河北卫视
-http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
-#EXTINF:-1 group-title="卫视台" tvg-id="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png",吉林卫视
-http://stream1.jlntv.cn/jlws/playlist.m3u8?_upt=ca39cf0e1713888540
-#EXTINF:-1 group-title="卫视台" tvg-id="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png",山西卫视
-https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/5sq1R0W.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png",陕西卫视
-http://stream.snrtv.com/sxbc-star-sBGVY2.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png",宁夏卫视
-http://stream.nxtv.com.cn/wspd/sd/live.m3u8?_upt=0523f0be1714019952
-#EXTINF:-1 group-title="卫视台" tvg-id="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png",西藏卫视
-https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=343bc84c36091997ca40370779086a2c&time=6627c109
-#EXTINF:-1 group-title="卫视台" tvg-id="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png",新疆卫视
-http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=ac4608d03b3fec4557d137827a3f4bb6&txTime=95A66655
-#EXTINF:-1 group-title="卫视台" tvg-id="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
-https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=4692ba391713884379
-#EXTINF:-1 group-title="卫视台" tvg-id="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png",青海卫视
-http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=577eb04f1713875706
-#EXTINF:-1 group-title="卫视台" tvg-id="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png",三沙卫视
-https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=c69dee9f1713888573
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-TARGETDURATION:6
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000000.ts
+#EXTINF:4.080000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000001.ts
+#EXTINF:3.920000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000002.ts
+#EXTINF:4.200000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000003.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000004.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000005.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000006.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000007.ts
+#EXTINF:4.720000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000008.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000009.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000010.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000011.ts
+#EXTINF:3.800000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000012.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000013.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000014.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000015.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000016.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000017.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000018.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000019.ts
+#EXTINF:3.880000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000020.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000021.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000022.ts
+#EXTINF:3.480000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000023.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000024.ts
+#EXTINF:4.080000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000025.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000026.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000027.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000028.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000029.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000030.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000031.ts
+#EXTINF:4.200000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000032.ts
+#EXTINF:3.800000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000033.ts
+#EXTINF:4.680000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000034.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000035.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000036.ts
+#EXTINF:3.240000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000037.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000038.ts
+#EXTINF:4.880000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000039.ts
+#EXTINF:3.560000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000040.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000041.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000042.ts
+#EXTINF:3.920000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000043.ts
+#EXTINF:3.760000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000044.ts
+#EXTINF:4.080000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000045.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000046.ts
+#EXTINF:4.240000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000047.ts
+#EXTINF:3.480000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000048.ts
+#EXTINF:4.840000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000049.ts
+#EXTINF:3.640000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000050.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000051.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000052.ts
+#EXTINF:4.440000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000053.ts
+#EXTINF:3.560000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000054.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000055.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000056.ts
+#EXTINF:3.880000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000057.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000058.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000059.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000060.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000061.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000062.ts
+#EXTINF:4.600000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000063.ts
+#EXTINF:3.840000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000064.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000065.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000066.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000067.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000068.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000069.ts
+#EXTINF:3.960000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000070.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000071.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000072.ts
+#EXTINF:3.880000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000073.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000074.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000075.ts
+#EXTINF:3.960000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000076.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000077.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000078.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000079.ts
+#EXTINF:3.920000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000080.ts
+#EXTINF:3.960000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000081.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000082.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000083.ts
+#EXTINF:3.800000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000084.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000085.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000086.ts
+#EXTINF:4.520000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000087.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000088.ts
+#EXTINF:3.920000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000089.ts
+#EXTINF:3.520000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000090.ts
+#EXTINF:3.880000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000091.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000092.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000093.ts
+#EXTINF:4.440000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000094.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000095.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000096.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000097.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000098.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000099.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000100.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000101.ts
+#EXTINF:4.280000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000102.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000103.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000104.ts
+#EXTINF:3.800000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000105.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000106.ts
+#EXTINF:3.920000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000107.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000108.ts
+#EXTINF:3.920000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000109.ts
+#EXTINF:3.680000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000110.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000111.ts
+#EXTINF:4.800000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000112.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000113.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000114.ts
+#EXTINF:3.840000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000115.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000116.ts
+#EXTINF:3.960000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000117.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000118.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000119.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000120.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000121.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000122.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000123.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000124.ts
+#EXTINF:3.760000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000125.ts
+#EXTINF:3.720000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000126.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000127.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000128.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000129.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000130.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000131.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000132.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000133.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000134.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000135.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000136.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000137.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000138.ts
+#EXTINF:4.480000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000139.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000140.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000141.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000142.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000143.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000144.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000145.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000146.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000147.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000148.ts
+#EXTINF:5.166667,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea0198070418684.ts
+#EXTINF:5.366667,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea0198070418685.ts
+#EXTINF:3.333333,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea0198070418686.ts
+#EXTINF:2.766667,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea0198070418687.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000149.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000150.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000151.ts
+#EXTINF:3.800000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000152.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000153.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000154.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000155.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000156.ts
+#EXTINF:3.920000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000157.ts
+#EXTINF:3.840000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000158.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000159.ts
+#EXTINF:4.600000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000160.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000161.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000162.ts
+#EXTINF:3.800000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000163.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000164.ts
+#EXTINF:3.720000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000165.ts
+#EXTINF:3.920000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000166.ts
+#EXTINF:4.480000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000167.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000168.ts
+#EXTINF:3.840000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000169.ts
+#EXTINF:4.320000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000170.ts
+#EXTINF:3.960000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000171.ts
+#EXTINF:3.960000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000172.ts
+#EXTINF:3.560000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000173.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000174.ts
+#EXTINF:3.720000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000175.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000176.ts
+#EXTINF:4.600000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000177.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000178.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000179.ts
+#EXTINF:3.480000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000180.ts
+#EXTINF:4.480000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000181.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000182.ts
+#EXTINF:3.920000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000183.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000184.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000185.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000186.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000187.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000188.ts
+#EXTINF:3.440000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000189.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000190.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000191.ts
+#EXTINF:4.000000,
+https://yzzy.play-cdn21.com/20240415/33251_b66482d4/2000k/hls/83aea019807000192.ts
+#
