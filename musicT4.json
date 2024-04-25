@@ -1,7 +1,85 @@
 {
   "spider": "",
   "sites": [
-             { "key": "T4-mybili",
+             {
+      "key": "T4-qingting",
+      "name": "音频-蜻蜓(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/qingting.php"
+    },
+    {
+      "key": "yinyue",
+      "name": "音频-258(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/yyyy.php"
+    },
+    {
+      "key": "T4-suishenting",
+      "name": "音频-随身(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/suishenting.php"
+    },
+    {
+      "key": "T4-qingfeng",
+      "name": "音频-清风(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/qingfengdj.php"
+    },
+    {
+      "key": "T4-djuu",
+      "name": "音频-DJ(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/djuu.php"
+    },
+    {
+      "key": "xiaoyi",
+      "name": "音频-小姨(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/wy.php"
+    },
+    {
+      "key": "MV",
+      "name": "视频-酷奇(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/mv2.php"
+    },
+    {
+      "key": "yinyuetai",
+      "name": "视频-音悦(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/yyt.php"
+    },
+    {
+      "key": "T4-xiaogou",
+      "name": "视频-小狗(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/xiaogou.php"
+    },
+    {
+      "key": "T4-iktv",
+      "name": "视频-KTV(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/iktv.php"
+    },
+    {
+      "key": "T4-a8",
+      "name": "视频-A8(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/a8.php"
+    },
+    {
+      "key": "T4-bmtv",
+      "name": "视频-MTV(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/bili.php?id=bMTV"
+    },
+    {
+      "key": "T4-Bliych",
+      "name": "视频-现场(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/bili.php?id=Bliych"
+    },
+{ "key": "T4-mybili",
       "name": "B站-mybili(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/bili.php?id=我的哔哩"
