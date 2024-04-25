@@ -1,7 +1,7 @@
 {
   "spider": "",
   "sites": [
-          "key": "T4-mybili",
+             { "key": "T4-mybili",
       "name": "B站-mybili(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/bili.php?id=我的哔哩"
