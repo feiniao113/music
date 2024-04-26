@@ -292,7 +292,7 @@
 			"name": "飞兔┃影院",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "./xbpq.jar",
+			"jar": "./XBPQ.jar",
 			"ext": {
 				"分类url": "https://www.feitu.tv/filter/11//area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
 				"分类": "电影$1#电视剧$2#电视直播$86#体育$50#综艺$3#动漫$4"
@@ -303,7 +303,7 @@
 			"name": "欧帝┃海外",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "./xbpq.jar",
+		"jar": "./XBPQ.jar",
 			"ext": {
 				"分类url": " https://www.odivod.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
 				"分类": "电影$2#剧集$1#综艺$3#动漫$4"
@@ -313,7 +313,7 @@
 			"key": "华乐",
 			"name": "华乐┃海外",
 			"type": 3,
-			"jar": "./xbpq.jar",
+			"jar": "./XBPQ.jar",
 			"api": "csp_XBPQ",
 			"ext": {
 				"线路数组": "class=\"swiper-slide&&/a>",
@@ -327,7 +327,7 @@
 			"key": "幸福",
 			"name": "幸福┃海外",
 			"type": 3,
-			"jar": "./xbpq.jar",
+			"jar": "./XBPQ.jar",
 			"api": "csp_XBPQ",
 			"ext": {
 				"线路数组": "<a href=*&&/a>",
