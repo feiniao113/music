@@ -288,6 +288,58 @@
 			]
 		},
 		{
+			"key": "飞兔影院",
+			"name": "飞兔┃影院",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "./xbpq.jar",
+			"ext": {
+				"分类url": "https://www.feitu.tv/filter/11//area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+				"分类": "电影$1#电视剧$2#电视直播$86#体育$50#综艺$3#动漫$4"
+			}
+		},
+				{
+			"key": "欧帝",
+			"name": "欧帝┃海外",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "./xbpq.jar",
+			"ext": {
+				"分类url": " https://www.odivod.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
+				"分类": "电影$2#剧集$1#综艺$3#动漫$4"
+			}
+		},
+		{
+			"key": "华乐",
+			"name": "华乐┃海外",
+			"type": 3,
+			"jar": "./xbpq.jar",
+			"api": "csp_XBPQ",
+			"ext": {
+				"线路数组": "class=\"swiper-slide&&/a>",
+				"线路标题": "&nbsp;&&<",
+				"图片": "data-src=\"&&\"",
+				"分类url": "https://www.huale.tv/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/{page/{catePg}/year/{year}.html",
+				"分类": "电视剧$2#电影$1#综艺$3#动漫$4"
+			}
+		},
+		{
+			"key": "幸福",
+			"name": "幸福┃海外",
+			"type": 3,
+			"jar": "./xbpq.jar",
+			"api": "csp_XBPQ",
+			"ext": {
+				"线路数组": "<a href=*&&/a>",
+				"线路标题": "alt=\"&&\"",
+				"数组": "vodlist_thumb lazyload&&</a>",
+				"播放数组": "content_playlist clearfix\">&&</ul>",
+				"简介": "content_desc full_text clearfix\" style=*>&&</span>",
+				"分类url": "https://seo.xingfu.tv/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
+				"分类": "电影$1#剧集$2#综艺$3#动漫$4"
+			}
+		},
+		{
 			"key": "飞速资源",
 			"name": "飞速┃资源",
 			"type": 1,
