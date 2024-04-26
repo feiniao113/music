@@ -1,6 +1,22 @@
 {
   "spider": "",
   "sites": [
+{
+            "key": "freeMusic",
+            "name": "六影| 音乐",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 0,
+            "api": "./lib/liumingye_music_open.js"
+        },
+        {
+            "key": "netease_music",
+            "name": "忘忆 | 音乐2",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 0,
+            "api": "./lib/netease_music_open.js"
+        },
              {
       "key": "T4-qingting",
       "name": "音频-蜻蜓",
