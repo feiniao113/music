@@ -3,7 +3,7 @@
   "sites": [
 {
             "key": "freeMusic",
-            "name": "六影| 音乐",
+            "name": "音音-音乐",
             "type": 3,
             "searchable": 1,
             "changeable": 0,
@@ -11,7 +11,7 @@
         },
         {
             "key": "netease_music",
-            "name": "往忆 | 音乐",
+            "name": "依依-音乐",
             "type": 3,
             "searchable": 1,
             "changeable": 0,
