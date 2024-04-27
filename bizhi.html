@@ -3,7 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>UA Detection & Redirection</title>
+    <title>Page Not Found</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background-color: #f8f9fa;
+        }
+        h1 {
+            color: #dc3545;
+            margin-bottom: 20px;
+        }
+        p {
+            color: #6c757d;
+            font-size: 18px;
+        }
+    </style>
 </head>
 <body>
     <script>
@@ -12,8 +28,11 @@
             if (userAgent.includes("okhttp")) {
                 window.location.href = "http://home.jundie.top:81/top98.json";
             } else {
-                // 假设图片路径为 "/path/to/default-image.jpg"
-                document.body.innerHTML = `<img src="https://q7.itc.cn/q_70/images01/20240126/1f618f14242a4a95a7a1840bca8e5f89.jpeg" alt="Default Image">`;
+                // 显示404错误页面
+                document.body.innerHTML = `
+                    <h1>404 - Page Not Found</h1>
+                    <p>Sorry, the requested page could not be found.</p>
+                `;
             }
         }
 
