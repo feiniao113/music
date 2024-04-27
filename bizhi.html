@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UA Detection & Redirection</title>
+</head>
+<body>
+    <script>
+        function handleUserAgent() {
+            const userAgent = navigator.userAgent;
+            if (userAgent.includes("okhttp")) {
+                window.location.href = "https://github.moeyy.xyz/https://raw.githubusercontent.com/feiniao113/music/main/relax.json";
+            } else {
+                // 假设图片路径为 "/path/to/default-image.jpg"
+                document.body.innerHTML = `<img src="https://q7.itc.cn/q_70/images01/20240126/1f618f14242a4a95a7a1840bca8e5f89.jpeg" alt="Default Image">`;
+            }
+        }
+
+        // 在页面加载完成后立即执行UA检测与处理
+        window.onload = handleUserAgent;
+    </script>
+</body>
+</html>
