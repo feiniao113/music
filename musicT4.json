@@ -23,13 +23,13 @@
 			"api": "csp_Bili",
 			"style": {
 				"type": "rect",
-"jar": "./fan.txt",
 				"ratio": 1.597
 			},
 			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0,
-			"ext": "./lib/biliych.json"
+			"ext": "./lib/biliych.json",
+"jar": "./fan.txt",
 		},
 {
             "key": "freeMusic",
