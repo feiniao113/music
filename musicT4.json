@@ -2,6 +2,36 @@
   "spider": "",
   "sites": [
 {
+			"key": "csp_Biliych",
+			"name": "哔哩┃音乐",
+			"type": 3,
+			"api": "csp_Bili",
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext": "./lib/哔哩演唱会.json",
+			"jar": "./fm.jar"
+		},
+		{
+			"key": "Biliych",
+			"name": "音乐┃哔哩",
+			"type": 3,
+			"api": "csp_Bili",
+			"style": {
+				"type": "rect",
+"jar": "./fm.jar",
+				"ratio": 1.597
+			},
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext": "./lib/biliych.json"
+		},
+{
             "key": "freeMusic",
             "name": "音音-音乐",
             "type": 3,
