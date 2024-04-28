@@ -63,6 +63,38 @@
 			"playerType": "2"
 		},
 {
+			"key": "Iktv",
+			"name": "KTV┃音乐",
+			"type": 3,
+			"api": "csp_Iktv",
+			"searchable": 1,
+			"changeable": 0,
+"jar": "./pg.jar;md5;0e252f5adb9f65c15845718c57971cbe"
+		},
+		{
+			"key": "Yinyuetai",
+			"name": "音乐┃ MV",
+			"type": 3,
+			"api": "csp_Yinyuetai",
+			"searchable": 1,
+			"changeable": 0,
+			"jar": "./0229.jar"
+		},
+		{
+			"key": "MTV",
+			"name": "明星┃MV",
+			"type": 3,
+			"api": "csp_Bili",
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext": "./lib/MTV.json"
+		},
+{
 			"key": "直播转点播1",
 			"name": "电视┃直播",
 			"type": 3,
