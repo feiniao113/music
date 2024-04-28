@@ -1,5 +1,5 @@
 {
-  "spider": "",
+  "spider": "./fan.txt;md5;c84c36278bd8bc95a63449a128074be0",
   "sites": [
 {
 			"key": "csp_Biliych",
@@ -28,8 +28,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0,
-			"ext": "./lib/biliych.json",
-"jar": "./fan.txt",
+			"ext": "./lib/biliych.json"
 		},
 {
             "key": "freeMusic",
