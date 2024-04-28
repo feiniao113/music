@@ -47,6 +47,22 @@
             "api": "./lib/netease_music_open.js"
         },
 {
+			"key": "drpy_js_广播迷FM",
+			"name": "广播 | 电视",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"changeable": 0,
+			"ext": "./lib/广播迷FM.js"
+		},
+		{
+			"key": "drpy_js_蜻蜓FM",
+			"name": "广播┃蜻蜓",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"ext": "./lib/蜻蜓FM.js",
+			"playerType": "2"
+		},
+{
 			"key": "直播转点播1",
 			"name": "电视┃直播",
 			"type": 3,
@@ -67,7 +83,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./lib/lf_live.txt"
-		},
+		}
              
   ],
   "lives": [
