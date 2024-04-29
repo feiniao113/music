@@ -32,7 +32,7 @@
 		},
 {
             "key": "freeMusic",
-            "name": "音音-音乐",
+            "name": "音音┃音乐",
             "type": 3,
             "searchable": 1,
             "changeable": 0,
@@ -40,7 +40,7 @@
         },
         {
             "key": "netease_music",
-            "name": "依依-音乐",
+            "name": "依依┃音乐",
             "type": 3,
             "searchable": 1,
             "changeable": 0,
