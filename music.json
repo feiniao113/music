@@ -3,6 +3,13 @@
 	"wallpaper": "",
 	"warningText": "免费线路，请勿购买",
 	"sites": [
+{
+      "key": "畅梦",
+      "name": "畅梦┃影视",
+      "type": 3,
+      "api": "./lib/apiv233drpy2.min.js",
+      "ext": "./lib/changmeng.js"
+    },
 		{
 			"key": "drpy_360",
 			"name": "360┃影视",
