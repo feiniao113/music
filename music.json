@@ -737,22 +737,6 @@
 		},
 		
 		{
-			"key": "幸福",
-			"name": "幸福┃海外",
-			"type": 3,
-			"jar": "./XBPQ.jar",
-			"api": "csp_XBPQ",
-			"ext": {
-				"线路数组": "<a href=*&&/a>",
-				"线路标题": "alt=\"&&\"",
-				"数组": "vodlist_thumb lazyload&&</a>",
-				"播放数组": "content_playlist clearfix\">&&</ul>",
-				"简介": "content_desc full_text clearfix\" style=*>&&</span>",
-				"分类url": "https://seo.xingfu.tv/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
-				"分类": "电影$1#剧集$2#综艺$3#动漫$4"
-			}
-		},
-		{
 			"key": "drpy_腾讯",
 			"name": "腾讯┃视频",
 			"type": 3,
