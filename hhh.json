@@ -1,6 +1,7 @@
 {
 	"spider": "./pg.jar;md5;b9058c9176428d6254095ef83a1666ed",
 	"sites": [
+{ "key": "Ikanbot", "name": "爱看┃机器", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$proxy"},
 		{
 			"key": "csp_XBPQ_可可",
 			"name": "可可┃影视",
