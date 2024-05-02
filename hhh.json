@@ -143,49 +143,7 @@
 			"ext": "./lib/jianpian.json$$$1",
 			"timeout": 60
 		},
-		{
-			"key": "索尼资源",
-			"name": "索尼┃资源",
-			"type": 1,
-			"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-			"categories": [
-				"国产剧",
-				"纪录片",
-				"演唱会",
-				"体育赛事",
-				"足球",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"欧美剧",
-				"韩剧",
-				"日剧",
-				"港剧",
-				"台剧",
-				"泰剧",
-				"海外剧",
-				"大陆综艺",
-				"日韩综艺",
-				"港台综艺",
-				"欧美综艺",
-				"国产动漫",
-				"日韩动漫",
-				"欧美动漫",
-				"动画片",
-				"港台动漫",
-				"海外动漫",
-				"篮球",
-				"预告片",
-				"斯诺克",
-				"影视解说"
-			],
-			"searchable": 1,
-			"quickSearch": 1
-		},
+		
 		{
 			"key": "Ikanbot",
 			"name": "爱看┃影视",
@@ -269,16 +227,7 @@
 			]
 		},
 		
-		{
-			"key": "飞速资源",
-			"name": "飞速┃资源",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/http://fszy1.com/api.php/provide/vod/?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"playerType": 1,
-			"searchable": 1,
-			"changeable": 1
-		},
+		
 		{
 			"key": "暴風",
 			"name": "暴風┃影视",
@@ -288,15 +237,7 @@
 			"searchable": 1,
 			"changeable": 1
 		},
-		{
-			"key": "索尼",
-			"name": "索尼┃影视 ",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/https://suoniapi.com/api.php/provide/vod?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"searchable": 1,
-			"changeable": 1
-		},
+		
 		{
 			"key": "量子",
 			"name": "量子┃影视",
