@@ -311,8 +311,7 @@
 			"searchable": 1,
 			"changeable": 1,
 			"categories": [
-				"国产动漫",
-				"日韩动漫",
+				
 				"国产剧",
 				"韩国剧",
 				"日本剧",
@@ -339,31 +338,12 @@
 				"欧美综艺",
 				"欧美动漫",
 				"港台动漫",
+    "国产动漫",
+				"日韩动漫",
 				"海外动漫"
 			]
 		},
-		{
-			"key": "跑马采集",
-			"name": "跑马┃集合",
-			"type": 1,
-			"api": "http://154.3.2.163/api.php/provide/vod/",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"categories": [
-				"短剧",
-				"电影",
-				"电视剧",
-				"动漫",
-				"综艺",
-				"记录片",
-				"音乐",
-				"影视解说",
-				"体育"
-			]
-		},
+		
 		{
 			"key": "央视大全",
 			"name": "CCTV｜央视",
