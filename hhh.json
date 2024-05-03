@@ -178,15 +178,6 @@
 		},
 { "key": "春华影院",            "name": "春华┃影院", "type": 3,"api": "csp_XBPQ",   "jar":"./XBPQ.jar", "ext": { "分类url":"https://www.chuavod.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},	
 		{
-			"key": "星星",
-			"name": "星星┃海外",
-			"type": 3,
-			"api": "csp_Star",
-			"searchable": 1,
-			"changeable": 0,
-			"ext": "proxy"
-		},
-		{
 			"key": "haiwaikan",
 			"name": "海外┃看看",
 			"type": 1,
