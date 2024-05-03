@@ -156,6 +156,9 @@
 			"changeable": 1,
 			"ext": "https://v.ikanbot.com$$$proxy"
 		},
+
+{ "key": "酷亚影院",  "name": "酷亚┃影院", "type": 3,"api": "csp_XBPQ", "jar":"./XBPQ.jar","ext": { "分类url":"https://www.kuyavod.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},		
+		{ "key": "一帆视频", "jar":"./XBPQ.jar", "name": "一帆┃视频", "type": 3,"api": "csp_XBPQ", "ext": { "分类url":"https://www.iyf1.tv/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 		{
 			"key": "csp_YingShi",
 			"name": "影视┃海外",
