@@ -10,7 +10,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./xbpq.jar",
+      "jar": "./XBPQ.jar",
       "ext": "./lib/米爱影视.json"
     },
 {
@@ -21,7 +21,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./xbpq.jar",
+      "jar": "./XBPQ.jar",
       "ext": "./lib/超前B站.json"
     },
 		{
