@@ -109,28 +109,7 @@
 			"ext": "http://v.rbotv.cn",
 			"jar": "./qiaoji.jar"
 		},
-{
-      "key": "csp_米爱",
-      "name": "米爱┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./cha.jar",
-      "ext": "./lib/米爱影视.json"
-    },
-{
-      "key": "csp_超前",
-      "name": "超前┃点播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./cha.jar",
-      "ext": "./lib/超前B站.json"
-    },
+
 		{
 			"key": "YGP",
 			"name": "预告┃新片",
