@@ -406,9 +406,29 @@
 			"changeable": 0,
 			"ext": "./lib/biliych.json"
 		},
-{"key": "py_zyy","name": "中医┃药区","type": 3,"api": "py_zyy","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./lib/zyy.py"},
-{"key": "py_TYjs","name": "体育┃健身","type": 3,"api": "py_TYjs","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./lib/tiyu.py"},
-{"key": "py_FBqx","name": "球队┃球星","type": 3,"api": "py_FBqx","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./lib/qiudui.py"},
+
+    {
+      "key": "csp_Bili_zyy",
+      "name": "中医┃药区",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "./cha.jar",
+      "ext": "./lib/中医.json"
+    },
+{
+      "key": "csp_Bili_FBqx",
+      "name": "球队┃球星",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "./cha.jar",
+      "ext": "./lib/球队.json"
+    },
 		{
 			"key": "Iktv",
 			"name": "KTV┃音乐",
