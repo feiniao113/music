@@ -93,7 +93,7 @@
 		},
 {
 			"key": "直播转点播1",
-			"name": "电视┃直播",
+			"name": "直播┃LIVE",
 			"type": 3,
 			"api": "./lib/apiv135直播转点播.js",
 			"ext": "./lib/直播.txt",
