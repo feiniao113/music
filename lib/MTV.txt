@@ -1,0 +1,9 @@
+新加坡收音机,#genre#
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/YES933.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/883JIA.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003.mp3
