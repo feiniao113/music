@@ -12,7 +12,7 @@
 #油管•本地
 ../lib/youtube.m3u
 #测试1•本地
-../lib/test.m3u
+https://raw.githubusercontent.com/freearhey/iptv/master/channels/sg.m3u
 #测试2•本地
 ../lib/test1.m3u
 #16万•MV
