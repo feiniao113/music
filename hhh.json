@@ -56,18 +56,6 @@
 			}
 		},
 {"key": "蛋蛋影视1","name": "蛋蛋┃影视","type": 3,  "jar":"./XBPQ.jar", "api": "csp_XBPQ","ext": {"线路数组":"class=\"module-tab-item&&</div","线路标题":"<span>&&</span[不包含:臭蛋蛋]","分类url": "https://cddys.me/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$38"}},
-		{
-			"key": "XBPQ_BaiPiao",
-			"name": "白嫖┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "./XBPQ.jar",
-			"ext": {
-				"地区": "[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]",
-				"分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
-				"分类url": "https://www.baipiaoys.com:9092/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
-			}
-		},
 		
 		{
 			"key": "XBPQ_麻衣影院",
