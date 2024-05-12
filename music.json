@@ -91,7 +91,7 @@
 			"jar": "./qiaoji.jar"
 		},
 {
-      "key": "热播",
+      "key": "播播",
       "name": "热播┃多线",
       "type": 3,
       "api": "csp_AppTT",
