@@ -10,16 +10,7 @@
       "api": "./lib/apiv233drpy2.min.js",
       "ext": "./lib/changmeng.js"
     },
-		{
-			"key": "drpy_360",
-			"name": "360┃影视",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/360ys.js"
-		},
+		
 		{
 			"key": "酷看",
 			"name": "酷看┃无广",
@@ -689,6 +680,16 @@
 				"分类url": " https://www.odivod.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
 				"分类": "电影$2#剧集$1#综艺$3#动漫$4"
 			}
+		},
+{
+			"key": "drpy_360",
+			"name": "360┃影视",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./lib/360ys.js"
 		},
 		
 		{
