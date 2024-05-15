@@ -1,19 +1,19 @@
 {
 	"urls": [
 		{
-			"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/feiniao113/music/main/music.json",
+			"url": "https://ghproxy.com/https://raw.githubusercontent.com/feiniao113/music/main/music.json",
 			"name": "影音视界"
 		},
 		{
-			"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/feiniao113/music/main/boy.json",
+			"url": "https://ghproxy.com/https://raw.githubusercontent.com/feiniao113/music/main/boy.json",
 			"name": "For Boys"
 		},
 		{
-			"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/feiniao113/music/main/hhh.json",
+			"url": "https://ghproxy.com/https://raw.githubusercontent.com/feiniao113/music/main/hhh.json",
 			"name": "AI去广"
 		},
                 {
-			"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/feiniao113/music/main/musicT4.json",
+			"url": "https://ghproxy.com/https://raw.githubusercontent.com/feiniao113/music/main/musicT4.json",
 			"name": "音乐MV"
 		}
 		
