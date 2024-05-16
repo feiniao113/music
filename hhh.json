@@ -108,7 +108,8 @@
         "分类url": "https://www.777111.xyz/index.php/vod/show/{cateId}-{area}/by/{by}/class/{class}-------{catePg}---{year}.html;;ak",
         "分类": "电影$1#连续剧$2#综艺$3#动漫$4"
     }
-},           
+},  
+ 	                                                          	{ "key": "9u影视",  "name": "9U┃影视", "type": 3,"api": "csp_XBPQ", "jar": "./xbpq.jar","ext": {"线路标题":"module-tab-value\">&&</span>", "分类url":"https://www.9udy.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电视剧$2#电影$1#综艺$35#动漫$3"}},          
 		{
 			"key": "wangfei",
 			"name": "网飞┃跑马",
