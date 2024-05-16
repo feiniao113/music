@@ -1,8 +1,17 @@
 {
 	"spider": "./pg.jar;md5;b9058c9176428d6254095ef83a1666ed",
 	"sites": [
-{ "key": "Ikanbot", "name": "爱看┃机器", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$proxy"},
-
+		{
+			"key": "Ikanbot",
+			"name": "爱看┃机器",
+			"type": 3,
+			"api": "csp_Ikanbot",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "https://v.ikanbot.com$$$proxy"
+		},
 		{
 			"key": "csp_XBPQ_可可",
 			"name": "可可┃影视",
@@ -55,8 +64,19 @@
 				"免嗅": "0"
 			}
 		},
-{"key": "蛋蛋影视1","name": "蛋蛋┃影视","type": 3,  "jar":"./XBPQ.jar", "api": "csp_XBPQ","ext": {"线路数组":"class=\"module-tab-item&&</div","线路标题":"<span>&&</span[不包含:臭蛋蛋]","分类url": "https://cddys.me/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$38"}},
-		
+		{
+			"key": "蛋蛋影视1",
+			"name": "蛋蛋┃影视",
+			"type": 3,
+			"jar": "./XBPQ.jar",
+			"api": "csp_XBPQ",
+			"ext": {
+				"线路数组": "class=\"module-tab-item&&</div",
+				"线路标题": "<span>&&</span[不包含:臭蛋蛋]",
+				"分类url": "https://cddys.me/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+				"分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$38"
+			}
+		},
 		{
 			"key": "XBPQ_麻衣影院",
 			"name": "麻衣┃影视",
@@ -84,7 +104,6 @@
 				"分类": "电影$2#剧集$1#综艺$3#动漫$4#短剧$20#体育$21"
 			}
 		},
-		
 		{
 			"key": "wangfei",
 			"name": "网飞┃跑马",
@@ -98,8 +117,6 @@
 				"分类": "电影$dy#剧集$juji#国产$guochanju#港剧$xianggangju#动漫$dongman"
 			}
 		},
-		        
-
 		{
 			"key": "NanGua",
 			"name": "南瓜┃弹幕",
@@ -123,16 +140,6 @@
 			"api": "csp_TTian",
 			"ext": "http://app.kzjtv.com$$$null$$$1"
 		},
-		{
-			"key": "賤賤",
-			"name": "荐片┃影视",
-			"type": 3,
-			"api": "csp_Jianpian",
-			"searchable": 1,
-			"changeable": 1,
-			"ext": "./lib/jianpian.json$$$1",
-			"timeout": 60
-		},
 		
 		{
 			"key": "Ikanbot",
@@ -145,9 +152,28 @@
 			"changeable": 1,
 			"ext": "https://v.ikanbot.com$$$proxy"
 		},
-
-{ "key": "酷亚影院",  "name": "酷亚┃影院", "type": 3,"api": "csp_XBPQ", "jar":"./XBPQ.jar","ext": { "分类url":"https://www.kuyavod.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},		
-		{ "key": "一帆视频", "jar":"./XBPQ.jar", "name": "一帆┃视频", "type": 3,"api": "csp_XBPQ", "ext": { "分类url":"https://www.iyf1.tv/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
+		{
+			"key": "酷亚影院",
+			"name": "酷亚┃影院",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "./XBPQ.jar",
+			"ext": {
+				"分类url": "https://www.kuyavod.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+				"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+			}
+		},
+		{
+			"key": "一帆视频",
+			"jar": "./XBPQ.jar",
+			"name": "一帆┃视频",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": {
+				"分类url": "https://www.iyf1.tv/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+				"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+			}
+		},
 		{
 			"key": "csp_YingShi",
 			"name": "影视┃海外",
@@ -165,7 +191,17 @@
 			"changeable": 0,
 			"ext": "0$$$proxy"
 		},
-{ "key": "春华影院",            "name": "春华┃影院", "type": 3,"api": "csp_XBPQ",   "jar":"./XBPQ.jar", "ext": { "分类url":"https://www.chuavod.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},	
+		{
+			"key": "春华影院",
+			"name": "春华┃影院",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "./XBPQ.jar",
+			"ext": {
+				"分类url": "https://www.chuavod.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+				"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+			}
+		},
 		{
 			"key": "haiwaikan",
 			"name": "海外┃看看",
@@ -175,7 +211,6 @@
 			"searchable": 1,
 			"changeable": 1,
 			"categories": [
-				
 				"国产剧",
 				"经典片",
 				"冒险片",
@@ -208,11 +243,8 @@
 				"日本动漫",
 				"国产动漫",
 				"欧美动漫"
-				
 			]
 		},
-		
-		
 		{
 			"key": "暴風",
 			"name": "暴風┃影视",
@@ -222,8 +254,6 @@
 			"searchable": 1,
 			"changeable": 1
 		},
-		
-		
 		{
 			"key": "酷狗",
 			"name": "酷狗┃音乐",
