@@ -154,7 +154,7 @@
 		},
 		{
 			"key": "酷亚影院",
-			"name": "酷亚┃影院",
+			"name": "酷亚┃海外",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "./XBPQ.jar",
@@ -166,7 +166,7 @@
 		{
 			"key": "一帆视频",
 			"jar": "./XBPQ.jar",
-			"name": "一帆┃视频",
+			"name": "一帆┃海外",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"ext": {
@@ -193,7 +193,7 @@
 		},
 		{
 			"key": "春华影院",
-			"name": "春华┃影院",
+			"name": "春华┃海外",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "./XBPQ.jar",
