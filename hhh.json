@@ -94,22 +94,7 @@
 		
 {"key":"看了么","jar": "./XBPQ.jar","name":"看么┃影视","type":3,"api":"csp_XBPQ","ext":{"简介":"资源仅供测试交流,不得商用!请勿相信影片中的广告，以免上当受骗!+vod_content\">&&</div>","播放数组":"play_li&&</div>","线路数组":"player_info\">&&</div>","线路标题":"<h2&&</h2>","分类url":"https://www.ksksl.com/show/{cateId}/area/{area}/class/{class}/page/{catePg}.html;;mak","分类":"电影$dy#电视剧$tv#综艺$zy#动漫$dm"}},
               {"key":"追剧影视","jar": "./XBPQ.jar","name":"追剧┃影视","type":3,"api":"csp_XBPQ","ext":{"数组":"fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>","图片":"data-original=\"&&\"","标题":"ed-visible fed-part-eone\" href=*>&&</a>","副标题":"fed-text-white fed-text-center\">&&</span>","线路数组":"fed-list-head fed-part-rows fed-padding\">&&</li>","简介":"<p>&&</p>","分类url":"https://xhaoer.com/search.php?page={catePg}&searchtype=5&tid={cateId}&area={area}&year={year}","分类":"短剧$29#电影$1#电视剧$2#综艺$3#动漫$4"}},
-{"key": "799影视", "name": "799┃影视","type": 3,"api": "csp_XBPQ",                "jar":"./xbpq.jar","ext": {"简介":"module-info-introduction-content\">&&</div>","分类url": "https://www.799dy.com/show/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电视剧$dsj#电影$dy#动漫$dm#综艺$zy#午夜$wyjc"}},
-{
-    "key": "csp_奇异开心",
-    "name": "奇异┃OK",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,    
-    "jar":"./xbpq.jar",
-    "ext": {
-        "分类url": "https://www.777111.xyz/index.php/vod/show/{cateId}-{area}/by/{by}/class/{class}-------{catePg}---{year}.html;;ak",
-        "分类": "电影$1#连续剧$2#综艺$3#动漫$4"
-    }
-},  
- 	                                                          	{ "key": "9u影视",  "name": "9U┃影视", "type": 3,"api": "csp_XBPQ", "jar": "./xbpq.jar","ext": {"线路标题":"module-tab-value\">&&</span>", "分类url":"https://www.9udy.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电视剧$2#电影$1#综艺$35#动漫$3"}},          
+         
 		{
 			"key": "wangfei",
 			"name": "网飞┃跑马",
@@ -124,8 +109,7 @@
 			}
 		},
 		{ "key": "唐人街影院",            "name": "唐人┃海外", "type": 3,"api": "csp_XBPQ",   "jar":"./XBPQ.jar", "ext": { "分类url":"https://www.tangrenjie.one/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$4#动漫$3"}},
-{"key": "美视","name": "美视┃海外", "type": 3,"api": "csp_XBPQ", "jar": "./xbpq.jar","ext": {"分类url": " http://www.mgtv.fun/index.php/vod/show/{area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html", "分类": "电影$1#剧集$2#综艺$3#动漫$4#体育$25#纪录片$26"}},
-	
+
 	
 		{
 			"key": "酷亚影院",
