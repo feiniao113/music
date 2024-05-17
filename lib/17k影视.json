@@ -1,0 +1,46 @@
+{
+
+    "作者": "",
+    
+    "站名": "17影视",
+    
+    "请求头": "手机",
+    
+    "主页url": "https://www.17k.video/",
+    
+    "简介": "【晨温馨提示】资源仅供测试交流，不得商用！请勿相信影片中的广告，以免上当受骗。+<p>&&</p>",
+    
+    "影片类型": "module-info-tag\">&&</div></div>",
+    
+    "演员": "主演:&&</span>",
+    
+    "导演": "主演:&&</span>",
+    
+    "图片": "data-src=\"&&\"",
+    
+    "链接": "href=\"&&\"",
+    
+    "标题": "alt=\"&&\"",
+    
+    "副标题": "video-item-info\">&&</div>",
+    
+    "捜索模式": "1",
+    
+    "播放列表": "a&&</a>",
+    
+    "播放数组": "module-blocklist scroll-box scroll-box-y&&</div>",
+      
+    "线路数组": "data-dropdown-value=&&</div>[排序:蓝光C]",
+    
+    "线路标题": "一抹蓝+<span>&&</small>[替换:</span><small>>>共]+集",
+    
+    "嗅探词": ".m3u8#.mp4#.flv#aliyundrive#alicloudccp",
+    
+    "搜索url": "/index.php/vod/type/id/{cateId}.htm",
+    
+                    "分类url": "https://www.17k.video/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+
+                "分类": "电视剧$2#电影$1#综艺$3#动漫$4"
+    
+    
+}
