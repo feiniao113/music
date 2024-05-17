@@ -65,10 +65,10 @@
 			}
 		},
 {"key":"csp_xBPQ_何以影视",
-        "name":"️何以影视(XBPQ)",
+        "name":"️何以┃影视",
         "type":3,
         "api":"csp_XBPQ",
-        "jar": "./xbpq.jar",
+        "jar": "./XBPQ.jar",
         "searchable":1,
         "quickSearch":1,
         "filterable":1,
