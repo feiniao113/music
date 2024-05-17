@@ -120,6 +120,49 @@
 			}
 		},
 		{ "key": "唐人街影院",            "name": "唐人┃海外", "type": 3,"api": "csp_XBPQ",   "jar":"./XBPQ.jar", "ext": { "分类url":"https://www.tangrenjie.one/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$4#动漫$3"}},
+{
+			"key": "csp_XBPQ_17k影视",
+			"name": "17k┃海外",
+			"jar": "./XBPQ.jar",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./lib/17k影视.json"
+		},
+		
+{ "key": "飞兔影院",  "name": "飞兔┃海外", "type": 3,"api": "csp_XBPQ", "jar": "./XBPQ.jar","ext": { "分类url":"https://www.feitu.tv/filter/11//area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#电视直播$86#体育$50#综艺$3#动漫$4"}},     		
+	
+		
+		{
+			"key": "csp_XBPQ_电影100",
+			"name": "电影┃海外",
+			"type": 3,
+			"jar": "./XBPQ.jar",
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./lib/电影100.json"
+		},
+
+	{"key": "欧帝","name": "欧帝┃海外", "type": 3,"api": "csp_XBPQ", "jar": "./XBPQ.jar","ext": {"分类url": " https://www.odivod.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html", "分类": "电影$2#剧集$1#综艺$3#动漫$4"}},
+	
+		{
+			"key": "华乐",
+			"name": "华乐┃海外",
+			"type": 3,
+			"jar": "./XBPQ.jar",
+			"api": "csp_XBPQ",
+			"ext": {
+				"线路数组": "class=\"swiper-slide&&/a>",
+				"线路标题": "&nbsp;&&<",
+				"图片": "data-src=\"&&\"",
+				"分类url": "https://www.huale.tv/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/{page/{catePg}/year/{year}.html",
+				"分类": "电视剧$2#电影$1#综艺$3#动漫$4"
+			}
+		},
 
 	{"key": "美视","name": "美视┃海外", "type": 3,"api": "csp_XBPQ", "jar": "./XBPQ.jar","ext": {"分类url": " http://www.mgtv.fun/index.php/vod/show/{area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html", "分类": "电影$1#剧集$2#综艺$3#动漫$4#体育$25#纪录片$26"}},
 		{
