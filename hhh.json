@@ -64,6 +64,17 @@
 				"免嗅": "0"
 			}
 		},
+{"key":"csp_xBPQ_何以影视",
+        "name":"️何以影视(XBPQ)",
+        "type":3,
+        "api":"csp_XBPQ",
+        "jar": "./xbpq.jar",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "changeable":1,
+        "ext":{"分类url":"http://heyik.cn/index.php/vod/show/area/{area}/by/time/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+        "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 		{
 			"key": "蛋蛋影视1",
 			"name": "蛋蛋┃影视",
