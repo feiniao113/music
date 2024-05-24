@@ -164,7 +164,7 @@
 			}
 		},
 
-	{"key": "美视","name": "美视┃海外", "type": 3,"api": "csp_XBPQ", "jar": "./XBPQ.jar","ext": {"分类url": " http://www.mgtv.fun/index.php/vod/show/{area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html", "分类": "电影$1#剧集$2#综艺$3#动漫$4#体育$25#纪录片$26"}},
+	
 		{
 			"key": "酷亚影院",
 			"name": "酷亚┃海外",
