@@ -28,11 +28,4 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.t
 #俊于•综合
 http://home.jundie.top:81/Cat/tv/live.txt
 
-#肥羊•斗鱼
-https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u
-#肥羊•虎牙
-https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/huyayqk.m3u
-#YanG•斗鱼
-https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u
-#YanG•虎牙
-https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u
+
