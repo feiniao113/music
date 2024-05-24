@@ -7,8 +7,6 @@
 以/开头，存储卡的根目录
 #电台•本地
 ../lib/index.m3u
-#油管•直播
-../lib/radio.txt
 #16万•MV
 https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt
 #YuanHsing•油管
