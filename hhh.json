@@ -78,20 +78,7 @@
 				"分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$38"
 			}
 		},
-		{
-			"key": "XBPQ_麻衣影院",
-			"name": "麻衣┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "./XBPQ.jar",
-			"ext": {
-				"分类url": "https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
-				"分类": "电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"
-			}
-		},
+		
 		
 {"key":"看了么","jar": "./XBPQ.jar","name":"看么┃影视","type":3,"api":"csp_XBPQ","ext":{"简介":"资源仅供测试交流,不得商用!请勿相信影片中的广告，以免上当受骗!+vod_content\">&&</div>","播放数组":"play_li&&</div>","线路数组":"player_info\">&&</div>","线路标题":"<h2&&</h2>","分类url":"https://www.ksksl.com/show/{cateId}/area/{area}/class/{class}/page/{catePg}.html;;mak","分类":"电影$dy#电视剧$tv#综艺$zy#动漫$dm"}},
               
