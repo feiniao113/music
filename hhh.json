@@ -1,7 +1,7 @@
 {
 	"spider": "./pg.jar;md5;2e4e02fe19253412b3fb0b9af9d63f35",
 	"sites": [
-	
+		{"key":"豆豆","name":"豆瓣┃热播","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 		{
 			"key": "csp_XBPQ_可可",
 			"name": "可可┃影视",
