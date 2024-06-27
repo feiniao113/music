@@ -1,7 +1,7 @@
 [
 
 
-{"name":"TV/Radio","url":"https://raw.githubusercontent.com/feiniao113/Tv/main/radio.txt&&&https://raw.githubusercontent.com/feiniao113/Tv/ecc577e1674919f66b1d4cf3fd5ec37f27c6fb4f/hh.gif"},
+{"name":"TV/Radio","url":"https://raw.githubusercontent.com/feiniao113/Tv/main/radio.txt&&&https://raw.githubusercontent.com/feiniao113/Tv/main/radio.png"},
 {"name":"影音视界","url":"https://raw.githubusercontent.com/feiniao113/Tv/main/tv.txt&&&https://raw.githubusercontent.com/feiniao113/Tv/main/radio.png"},
 {"name":"音乐现场","url":"https://raw.githubusercontent.com/feiniao113/music/main/music.txt&&&https://raw.githubusercontent.com/feiniao113/Tv/main/radio.png"},
 {"name":"D大直播","url":"http://rihou.cc:555/gggg.nzk&&&https://raw.githubusercontent.com/feiniao113/Tv/main/radio.png"}
