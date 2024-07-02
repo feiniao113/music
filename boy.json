@@ -204,24 +204,7 @@
 				"分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
 			}
 		},
-		{
-			"key": "88js",
-			"name": "球赛┃直播",
-			"type": 3,
-			"api": "csp_Kanqiu",
-			"style": {
-				"type": "list"
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0
-		},
-		{
-			"key": "T4-qietiyu",
-			"name": "企鹅┃体育",
-			"type": 4,
-			"api": "https://catbox.n13.club/qietiyu.php"
-		},
+		
 		{
 			"key": "Jrsjs",
 			"name": "Jrs┃球迷",
