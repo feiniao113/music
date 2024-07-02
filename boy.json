@@ -14,15 +14,7 @@
 			"ext": "./lib/哔哩xjj.json",
 			"jar": "./fm.jar"
 		},
-		{
-			"key": "Pandalivetv",
-			"name": "韩女┃直播",
-			"type": 3,
-			"api": "csp_WexPandalivetv",
-			"searchable": 0,
-			"changeable": 0,
-			"jar": "./wex.txt;md5;cdc9664110746fc5217bd6795f2a681b"
-		},
+		
 		{
 			"key": "csp_Yj1211",
 			"name": "网红┃直播",
