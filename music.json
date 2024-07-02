@@ -179,17 +179,7 @@
 			"filterable": 1,
 			"ext": "./lib/lf_live.txt"
 		},
-		{
-			"key": "Lib",
-			"name": "立播┃直连",
-			"type": 3,
-			"api": "csp_Libvio",
-			"timeout": 15,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "https://www.libvio.pw/"
-		},
+		
 		{
 			"key": "Auete",
 			"name": "奥特┃直连",
@@ -236,17 +226,7 @@
 				"三次跳转播放链接": "\"url\"*\"&&\""
 			}
 		},
-		{
-			"key": "Bdys_spider",
-			"name": "哔滴┃直连",
-			"api": "csp_Bdys01",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": "",
-			"jar": "./qiaoji.jar"
-		},
+		
 		{
 			"key": "低端",
 			"name": "低端┃外剧",
