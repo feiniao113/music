@@ -248,7 +248,7 @@
 			"ext": {
 				"json": "./lib/cctv.json"
 			},
-			"jar": "http://175.24.189.226/box/tvbox/PG/ys.jar"
+			"jar": "./ys.jar"
 		},
 		{
 			"key": "cctv",
