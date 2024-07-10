@@ -78,6 +78,14 @@
 			"api": "./lib/liumingye_music_open.js"
 		},
 		{
+			"key": "freeMusic",
+			"name": "易易┃音乐",
+			"type": 3,
+			"searchable": 1,
+			"changeable": 0,
+			"api": "./lib/netease_music_open.js"
+		},
+		{
 			"key": "drpy_js_广播迷FM",
 			"name": "广播 | 电视",
 			"type": 3,
