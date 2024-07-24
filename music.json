@@ -498,56 +498,7 @@
 				"分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
 			}
 		},
-		{
-			"key": "drpy_360",
-			"name": "360┃影视",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/360ys.js"
-		},
-		{
-			"key": "drpy_腾讯",
-			"name": "腾讯┃视频",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/txqq.js"
-		},
-		{
-			"key": "drpy_爱奇艺",
-			"name": "奇艺┃影视",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/iqy.js"
-		},
-		{
-			"key": "drpy_优酷",
-			"name": "优酷┃视频",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/youku.js"
-		},
-		{
-			"key": "drpy_芒果",
-			"name": "芒果┃影视",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/mangguo.js"
-		},
+		
 		{
 			"key": "Aid",
 			"name": "急救┃教学",
