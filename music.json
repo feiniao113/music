@@ -3,14 +3,20 @@
 	"wallpaper": "",
 	"warningText": "免费线路，请勿购买",
 	"sites": [
-{
-      "key": "畅梦",
-      "name": "畅梦┃影视",
-      "type": 3,
-      "api": "./lib/apiv233drpy2.min.js",
-      "ext": "./lib/changmeng.js"
-    },
-		
+		{
+			"key": "畅梦",
+			"name": "畅梦┃影视",
+			"type": 3,
+			"api": "./lib/apiv233drpy2.min.js",
+			"ext": "./lib/changmeng.js"
+		},
+		{
+			"key": "PTT",
+			"name": "PTT┃视频",
+			"type": 3,
+			"api": "csp_PTT",
+			"jar": "./ptt.jar"
+		},
 		{
 			"key": "酷看",
 			"name": "酷看┃无广",
@@ -21,7 +27,6 @@
 			"quickSearch": 1,
 			"changeable": 1
 		},
-		
 		{
 			"key": "苹果",
 			"name": "苹果┃无广",
@@ -31,39 +36,37 @@
 			"quickSearch": 1,
 			"changeable": 1
 		},
-		
-{
-      "key": "视觉",
-      "name": "视觉┃多线",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.80yy3.com/"
-    },
-   
-{
-      "key": "萌米",
-      "name": "萌米┃多线",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 1,
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
-		    {
-      "key": "贱贱",
-      "name": "贱片┃秒播",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
-    },
+		{
+			"key": "视觉",
+			"name": "视觉┃多线",
+			"type": 3,
+			"api": "csp_Xinsj",
+			"timeout": 15,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "https://www.80yy3.com/"
+		},
+		{
+			"key": "萌米",
+			"name": "萌米┃多线",
+			"type": 3,
+			"api": "csp_AppTT",
+			"timeout": 15,
+			"playerType": 1,
+			"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+		},
+		{
+			"key": "贱贱",
+			"name": "贱片┃秒播",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"playerType": "1",
+			"api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+			"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
+		},
 		{
 			"key": "csp_XBPQ_可可",
 			"name": "可可┃影视",
@@ -74,8 +77,7 @@
 			"filterable": 1,
 			"ext": "./lib/可可.json",
 			"jar": "./xyqxbpq.jar"
-		}, 
-		
+		},
 		{
 			"key": "南瓜",
 			"name": "南瓜┃App",
@@ -96,18 +98,18 @@
 			"ext": "http://op.ysdqjs.cn",
 			"jar": "./qiaoji.jar"
 		},
-{
-      "key": "播播",
-      "name": "热播┃多线",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-    },
+		{
+			"key": "播播",
+			"name": "热播┃多线",
+			"type": 3,
+			"api": "csp_AppTT",
+			"timeout": 15,
+			"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+		},
 		{
 			"key": "热播",
 			"name": "热播┃App",
@@ -117,7 +119,6 @@
 			"ext": "http://v.rbotv.cn",
 			"jar": "./qiaoji.jar"
 		},
-
 		{
 			"key": "YGP",
 			"name": "预告┃新片",
@@ -159,7 +160,6 @@
 			"filterable": 1,
 			"ext": "./lib/lf_live.txt"
 		},
-		
 		{
 			"key": "Auete",
 			"name": "奥特┃直连",
@@ -171,7 +171,6 @@
 			"changeable": 1,
 			"ext": "https://auete.pro/"
 		},
-		
 		{
 			"key": "csp_Bttoo",
 			"name": "比特┃秒播",
@@ -181,8 +180,6 @@
 			"quickSearch": 1,
 			"changeable": 1
 		},
-		
-		
 		{
 			"key": "saohuo",
 			"name": "骚火┃影视",
@@ -206,7 +203,6 @@
 				"三次跳转播放链接": "\"url\"*\"&&\""
 			}
 		},
-		
 		{
 			"key": "低端",
 			"name": "低端┃外剧",
@@ -217,7 +213,6 @@
 			"quickSearch": 1,
 			"changeable": 1
 		},
-		
 		{
 			"key": "央视大全",
 			"name": "CCTV｜央视",
@@ -240,7 +235,6 @@
 			"ext": "./lib/央视大全.json",
 			"jar": "./cha.jar"
 		},
-		
 		{
 			"key": "央视经典",
 			"name": "央视｜经典",
@@ -321,29 +315,28 @@
 			"changeable": 0,
 			"ext": "./lib/biliych.json"
 		},
-
-    {
-      "key": "csp_Bili_zyy",
-      "name": "中医┃药区",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "./cha.jar",
-      "ext": "./lib/中医.json"
-    },
-{
-      "key": "csp_Bili_FBqx",
-      "name": "球队┃球星",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "./cha.jar",
-      "ext": "./lib/球队.json"
-    },
+		{
+			"key": "csp_Bili_zyy",
+			"name": "中医┃药区",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"jar": "./cha.jar",
+			"ext": "./lib/中医.json"
+		},
+		{
+			"key": "csp_Bili_FBqx",
+			"name": "球队┃球星",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"jar": "./cha.jar",
+			"ext": "./lib/球队.json"
+		},
 		{
 			"key": "Iktv",
 			"name": "KTV┃音乐",
@@ -351,7 +344,7 @@
 			"api": "csp_Iktv",
 			"searchable": 1,
 			"changeable": 0,
-"jar": "./pg.jar;md5;0e252f5adb9f65c15845718c57971cbe"
+			"jar": "./pg.jar;md5;0e252f5adb9f65c15845718c57971cbe"
 		},
 		{
 			"key": "Yinyuetai",
@@ -384,18 +377,17 @@
 			"ext": "./lib/酷奇MV.js",
 			"playerType": "2"
 		},
-{
-            "key": "music",
-            "name": "酷狗┃音乐",
-            "type": 3,
-            "api": "csp_Music",
-            "jar": "./kugou.jar",
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            }
-        },
-		
+		{
+			"key": "music",
+			"name": "酷狗┃音乐",
+			"type": 3,
+			"api": "csp_Music",
+			"jar": "./kugou.jar",
+			"style": {
+				"type": "rect",
+				"ratio": 1.433
+			}
+		},
 		{
 			"key": "drpy_js_A8音乐",
 			"name": "A 8┃音乐",
@@ -420,7 +412,6 @@
 			"ext": "./lib/DJ音乐.js",
 			"playerType": "2"
 		},
-		
 		{
 			"key": "drpy_js_广播迷FM",
 			"name": "广播 | 电视",
@@ -507,9 +498,7 @@
 				"分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
 			}
 		},
-		
-		
-{
+		{
 			"key": "drpy_360",
 			"name": "360┃影视",
 			"type": 3,
@@ -519,7 +508,6 @@
 			"filterable": 1,
 			"ext": "./lib/360ys.js"
 		},
-		
 		{
 			"key": "drpy_腾讯",
 			"name": "腾讯┃视频",
