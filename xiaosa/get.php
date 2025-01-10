@@ -18,7 +18,7 @@ if (isset($_GET['url'])) {
         $data = json_decode($response, true); 
 
         // 基础的URL前缀
-        $base_url = 'https://github.com/feiniao113/music/blob/main/xiaosa/xiazai.php?url=';
+        $base_url = 'https://raw.githubusercontent.com/feiniao113/music/blob/main/xiaosa/xiazai.php?url=';
 
         // 修改URL
         foreach ($data as &$category) {
