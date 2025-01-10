@@ -7,7 +7,7 @@ if (isset($_GET['url']) && !empty($_GET['url'])) {
     $filename = basename(parse_url($downloadUrl, PHP_URL_PATH));
 
     // 指定默认保存路径
-    $baseSavePath = '/www/wwwroot/189.1.224.165_96/tv/';
+    $baseSavePath = 'https://raw.githubusercontent.com/feiniao113/music/blob/main/xiaosa/';
     $savePath = $baseSavePath . $filename;
 
  
@@ -64,8 +64,8 @@ if (isset($_GET['url']) && !empty($_GET['url'])) {
                                         // 判断是否为 "检查更新"
                                         if (isset($site['key']) && $site['key'] === '检查更新') {
                                             // 添加新的字段 "ext" 和 "jar"
-                                            $site['ext'] = 'http://域名/tvjiami/get.php?url=http://域名/tvjiami/dizhi.php';
-                                            $site['jar'] = 'http://域名/tvjiami/spider.jar';
+                                            $site['ext'] = 'https://raw.githubusercontent.com/feiniao113/music/blob/main/xiaosa/get.php?url=https://raw.githubusercontent.com/feiniao113/music/blob/main/xiaosa/dizhi.php';
+                                            $site['jar'] = 'https://raw.githubusercontent.com/feiniao113/music/blob/main/xiaosa/spider.jar';
                                 
                                             echo "修改成功：检查更新的 ext 和 jar 字段已添加。\n";
                                         }
