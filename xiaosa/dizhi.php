@@ -1,0 +1,9 @@
+<?php
+/*
+ 本代码由 DeckPHP Beta [ V2.0.5 ] 创建
+ 创建时间 2025-01-09 19:57:36
+ 技术支持 禁止解密！！！！
+ 严禁反编译、逆向等任何形式的侵权行为，违者将追究法律责任
+*/
+if(!defined('_____A_AA'))define('_____A_AA', 'A____AAAA');$GLOBALS[_____A_AA]=explode('|7|%|&','H*|7|%|&6375726C5F7365746F7074|7|%|&686561646572|7|%|&436F6E74656E742D547970653A206170706C69636174696F6E2F6A736F6E|7|%|&6375726C5F65786563|7|%|&6572726F725F6C6F67|7|%|&6355524C204572726F723A20|7|%|&6375726C5F6572726F72|7|%|&696E695F736574|7|%|&6C6F675F6572726F7273|7|%|&4F6666|7|%|&6572726F725F7265706F7274696E67|7|%|&68747470733A2F2F393837372E6B73746F72652E73706163652F4D61726B65742F6D61726B65742E6A736F6E|7|%|&6375726C5F696E6974|7|%|&6375726C5F636C6F7365');unset($��ҧ��);$��ҧ��; goto cwi7ovvzOG;FCswWKcLrY:curl_setopt($ch,CURLOPT_URL,$url);goto rHum5kd685;TLIw8TgvjP:goto hMJIX7rPrq;i_0B6HB4u0:vcs2Cmm4ku:header(call_user_func("pack",$GLOBALS[_____A_AA][100-20*5],$GLOBALS[_____A_AA][((-80+103-20)/1)]));echo $response;goto UwggadyOt3;VhJcbm9fHR:goto nor7OOMQXF;uuO769fpK4:$response=curl_exec($ch);if(!($response===!1)){goto YFSQpz7l_j;}goto VhJcbm9fHR;YFSQpz7l_j:goto vcs2Cmm4ku;goto i_0B6HB4u0;nor7OOMQXF:error_log(call_user_func("pack",$GLOBALS[_____A_AA][100-20*5],$GLOBALS[_____A_AA][((259+27-46)/40)]) .curl_error($ch));goto XrQDu3JZaV;XrQDu3JZaV:UwggadyOt3:goto TLIw8TgvjP;goto Ql5sNNwqfq;cwi7ovvzOG:goto aHbWkycOqx;rHum5kd685:curl_setopt($ch,CURLOPT_RETURNTRANSFER,!0);curl_setopt($ch,CURLOPT_SSL_VERIFYPEER,!1);curl_setopt($ch,CURLOPT_VERBOSE,!1);goto uuO769fpK4;Ql5sNNwqfq:aHbWkycOqx:ini_set(pack($GLOBALS[_____A_AA][4+5-3*3],$GLOBALS[_____A_AA][((15+138-45)/12)]),call_user_func("pack",$GLOBALS[_____A_AA][6/2*3-9],$GLOBALS[_____A_AA][10]));error_reporting(E_ERROR);$url=pack($GLOBALS[_____A_AA][4+5-3*3],$GLOBALS[_____A_AA][12]);$ch=curl_init();goto FCswWKcLrY;hMJIX7rPrq:curl_close($ch);
+?>

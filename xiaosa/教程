@@ -1,0 +1,35 @@
+
+
+-----------羊村的希望--------------
+首先去get.php找到 $base_url = 'http:/域名/tvjiami/xiazai.php?url=';
+
+把这个位置改成你自己的网站。
+
+然后去xiazai.php找到
+
+// 指定默认保存路径
+    $baseSavePath = '/www/wwwroot/文件夹/tvjiami/';
+
+把这个文件夹改成你的建站目录，
+接着找到
+ // 添加新的字段 "ext" 和 "jar"
+$site['ext'] = 'http://域名/tvjiami/get.php?url=http://域名/tvjiami/dizhi.php';
+$site['jar'] = 'http://域名/tvjiami/spider.jar';
+依旧改成你的网站。
+
+最后去/TVBoxOSC/tvbox文件夹找到下面的
+{
+            "key": "检查更新",
+            "name": "检查｜更新",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "ext": "http://域名/tvjiami/get.php?url=http://域名/tvjiami/dizhi.php",
+            "jar": "http://域名/tvjiami/spider.jar"
+        },
+        
+把带域名的位置改成你自己网站，
+最后单线路链接就是http://域名/tvjiami/TVBoxOSC/tvbox/api.json
+以后更新的话就是去线路的豆瓣|首页点进去，滑到最下面的检查|更新 进行更新。
